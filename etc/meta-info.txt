@@ -1,0 +1,46 @@
+Titel des Gesetzes (wie im BGBl)
+
+Langbeschreibung
+-- Quelle
+
++--------------------+-----------------------------------------------------------------+
+| Source:            | Quelle                                                          |
+|                    | Bsp.: BGBl. I, p. 1                                             |
++--------------------+-----------------------------------------------------------------+
+| Signed-off-by:     | Unterschrift(en) unter dem Gesetz; Name Vorname, Amt            |
+|                    | [(Vertretung)]                                                  |
+|                    | Bsp.: Signed-off-by: Gerhard Schröder, Bundesminister des       |
+|                    |       Innern (für den Bundesminister der Justiz)                |
++--------------------+-----------------------------------------------------------------+
+| Passed:            | Verabschiedet im Bundestag; ISO-Format (YYYY-MM-DD)             |
+|                    | Bsp.: Passed: 2010-02-12                                        |
++--------------------+-----------------------------------------------------------------+
+| Date:              | "Gesetz vom"; ISO-Format (YYYY-MM-DD)                           |
+|                    | Bsp.: Date: 2010-02-12                                          |
++--------------------+-----------------------------------------------------------------+
+| Announced:         | Datum der Verkündung im BGBl; ISO-Format (YYYY-MM-DD)           |
+|                    | Bsp.: Announced: 2010-02-12                                     |
++--------------------+-----------------------------------------------------------------+
+| Effective-since:   | Datum des Inkrafttretens; ISO-Format (YYYY-MM-DD). Kann         |
+|                    | wiederholt werden, wenn Art. zu verschiedenen Daten             |
+|                    | inkrafttreten. In diesem Fall folgt die Artikelliste in         |
+|                    | Klammern.                                                       |
+|                    | Bsp.: Effective-since: 2010-02-12                               |
+|                    |       Effective-since: 2010-02-12 (Art. X, Y)                   |
+|                    |       Effective-since: 2010-02-12 (Art. Z)                      |
++--------------------+-----------------------------------------------------------------+
+| Election-period:   | Wahl-/Legislaturperiode                                         |
+|                    | Bsp.: Election-period: 23                                       |
++--------------------+-----------------------------------------------------------------+
+| Votes-yes:         | Anzahl der Ja-Stimmen                                           |
+|                    | Bsp.: Votes-yes: 390                                            |
++--------------------+-----------------------------------------------------------------+
+| Votes-no:          | Anzahl der Nein-Stimmen                                         |
+|                    | Bsp.: Votes-no: 20                                              |
++--------------------+-----------------------------------------------------------------+
+| Votes-abstentions: | Anzahl der Enthaltungen                                         |
+|                    | Bsp.: Votes-abstentions: 0                                      |
++--------------------+-----------------------------------------------------------------+
+| Initiative-of:     | Gesetzesinitiative                                              |
+|                    | Bsp.: Initiative-of: Regierungsvorlage                          |
++--------------------+-----------------------------------------------------------------+

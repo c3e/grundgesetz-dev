@@ -1,0 +1,135 @@
+--- a/100.md
++++ b/100.md
+@@ -14,12 +14,9 @@
+     Pflichten für den Einzelnen erzeugt (Artikel 25), so hat das Gericht die
+     Entscheidung des Bundesverfassungsgerichtes einzuholen.
+ 
+-(3) Will das Verfassungsgericht eines Landes bei der Auslegung des Grundgesetzes
+-    von einer Entscheidung des Bundesverfassungsgerichtes oder des
+-    Verfassungsgerichtes eines anderen Landes abweichen, so hat das
+-    Verfassungsgericht die Entscheidung des Bundesverfassungsgerichtes
+-    einzuholen; will es bei der Auslegung von sonstigem Bundesrechte von der
+-    Entscheidung des Obersten Bundesgerichtes oder eines oberen Bundesgerichtes
+-    abweichen, so hat es die Entscheidung des Obersten Bundesgerichtes
++(3) Will das Verfassungsgericht eines Landes bei der Auslegung des 
++    Grundgesetzes von einer Entscheidung des Bundesverfassungsgerichtes oder 
++    des Verfassungsgerichtes eines anderen Landes abweichen, so hat das 
++    Verfassungsgericht die Entscheidung des Bundesverfassungsgerichtes 
+     einzuholen.
+ 
+--- a/092.md
++++ b/092.md
+@@ -2,8 +2,7 @@
+ 
+ ## Artikel 92
+ 
+-Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das
+-Bundesverfassungsgericht, durch das Oberste Bundesgericht, durch die in diesem
+-Grundgesetze vorgesehenen Bundesgerichte und durch die Gerichte der Länder
+-ausgeübt.
++Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das 
++Bundesverfassungsgericht, durch die in diesem Grundgesetze vorgesehenen 
++Bundesgerichte und durch die Gerichte der Länder ausgeübt.
+ 
+--- a/095.md
++++ b/095.md
+@@ -1,17 +1,17 @@
+ ## Artikel 95
+ 
+-(1) Zur Wahrung der Einheitlichkeit des Bundesrechts wird ein Oberstes
+-    Bundesgericht errichtet.
++(1) Für die Gebiete der ordentlichen, der Verwaltungs-, der Finanz-, der 
++    Arbeits- und der Sozialgerichtsbarkeit errichtet der Bund als oberste 
++    Gerichtshöfe den Bundesgerichtshof, das Bundesverwaltungsgericht, den 
++    Bundesfinanzhof, das Bundesarbeitsgericht und das Bundessozialgericht.
+ 
+-(2) Das Oberste Bundesgericht entscheidet in Fällen, deren Entscheidung für die
+-    Einheitlichkeit der Rechtsprechung der oberen Bundesgerichte von
+-    grundsätzlicher Bedeutung ist.
++(2) Über die Berufung der Richter dieser Gerichte entscheidet der für das 
++    jeweilige Sachgebiet zuständige Bundesminister gemeinsam mit einem 
++    Richterwahlausschuß, der aus den für das jeweilige Sachgebiet zuständigen 
++    Ministern der Länder und einer gleichen Anzahl von Mitgliedern besteht, die 
++    vom Bundestage gewählt werden.
+ 
+-(3) Über die Berufung der Richter des Obersten Bundesgerichtes entscheidet der
+-    Bundesjustizminister gemeinsam mit dem Richterwahlaussschuß, der aus den
+-    Landesjustizministern und einer gleichen Anzahl von Mitgliedern besteht,
+-    die vom Bundestage gewählt werden.
+-
+-(4) Im übrigen werden die Verfassung des Obersten Bundesgerichts und sein
+-    Verfahren durch Bundesgesetz geregelt.
++(3) Zur Wahrung der Einheitlichkeit der Rechtsprechung ist ein Gemeinsamer 
++    Senat der in Absatz 1 genannten Gerichte zu bilden. Das Nähere regelt ein 
++    Bundesgesetz.
+ 
+--- a/096.md
++++ b/096.md
+@@ -1,13 +1,20 @@
+-## Artikel 96
++## Artikel 96a
+ 
+-(1) Für das Gebiet der ordentlichen, der Verwaltungs-, der Finanz-, der
+-    Arbeits- und Sozialgerichtsbarkeit sind obere Bundesgerichte zu errichten.
++(1) Der Bund kann für Angelegenheiten des gewerblichen Rechtsschutzes ein 
++    Bundesgericht errichten.
+ 
+-(2) Auf die Richter der oberen Bundesgerichte findet der Artikel 95 Absatz 3
+-    mit der Maßgabe Anwendung, daß an die Stelle des Bundesjustizministers und
+-    der Landesjustizminister die für das jeweilige Sachgebiet zuständigen
+-    Minister treten. Ihre Dienstverhältnisse sind durch besonderes Bundesgesetz
+-    zu regeln.
++(2) Der Bund kann Wehrstrafgerichte für die Streitkräfte als Bundesgerichte 
++    errichten. Sie können die Strafgerichtsbarkeit nur im Verteidigungsfalle 
++    sowie über Angehörige der Streitkräfte ausüben, die in das Ausland entsandt 
++    oder an Bord von Kriegsschiffen eingeschifft sind. Das Nähere regelt ein 
++    Bundesgesetz. Diese Gerichte gehören zum Geschäftsbereich des 
++    Bundesjustizministers. Ihre hauptamtlichen Richter müssen die Befähigung 
++    zum Richteramt haben.
+ 
+-(3) [aufgehoben]
++(3) Oberster Gerichtshof für die in Absatz 1 und 2 genannten Gerichte ist der 
++    Bundesgerichtshof.
++
++(4) Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und Bundesrichter 
++    Bundesdienststrafgerichte sowie für Dienststrafverfahren gegen Soldaten und 
++    für Verfahren über Beschwerden von Soldaten Bundesdienstgerichte errichten.
+ 
+--- a/096a.md
++++ /dev/null
+@@ -1,20 +0,0 @@
+-## Artikel 96a
+-
+-(1) Der Bund kann für Angelegenheiten des gewerblichen Rechtsschutzes ein 
+-    Bundesgericht errichten.
+-
+-(2) Der Bund kann Wehrstrafgerichte für die Streitkräfte als Bundesgerichte 
+-    errichten. Sie können die Strafgerichtsbarkeit nur im Verteidigungsfalle 
+-    sowie über Angehörige der Streitkräfte ausüben, die in das Ausland entsandt 
+-    oder an Bord von Kriegsschiffen eingeschifft sind. Das Nähere regelt ein 
+-    Bundesgesetz. Diese Gerichte gehören zum Geschäftsbereich des 
+-    Bundesjustizministers. Ihre hauptamtlichen Richter müssen die Befähigung 
+-    zum Richteramt haben.
+-
+-(3) Oberes Bundesgericht für die in Absatz 1 und 2 genannten Gerichte ist der 
+-    Bundesgerichtshof.
+-
+-(4) Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und Bundesrichter 
+-    Bundesdienststrafgerichte sowie für Dienststrafverfahren gegen Soldaten und 
+-    für Verfahren über Beschwerden von Soldaten Bundesdienstgerichte errichten.
+-
+--- a/099.md
++++ b/099.md
+@@ -1,7 +1,8 @@
+ ## Artikel 99
+ 
+-Dem Bundesverfassungsgerichte kann durch Landesgesetz die Entscheidung von
+-Verfassungsstreitigkeiten innerhalb eines Landes, den oberen Bundesgerichtshöfen
+-für den letzten Rechtszug die Entscheidung in solchen Sachen zugewiesen werden,
+-bei denen es sich um die Anwendung von Landesrecht handelt.
++Dem Bundesverfassungsgerichte kann durch Landesgesetz die Entscheidung von 
++Verfassungsstreitigkeiten innerhalb eines Landes, den in Artikel 95 Abs. 1 
++genannten obersten Gerichtshöfen für den letzten Rechtszug die Entscheidung in 
++solchen Sachen zugewiesen werden, bei denen es sich um die Anwendung von 
++Landesrecht handelt.
+ 

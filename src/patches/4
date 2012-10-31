@@ -1,0 +1,25 @@
+--- /dev/null
++++ b/142a.md
+@@ -0,0 +1,4 @@
++## Artikel 142a
++
++Die Bestimmungen dieses Grundgesetzes stehen dem Abschluß und dem Inkraftsetzen der am 26. und 27. Mai 1952 in Bonn und Paris unterzeichneten Verträge (Vertrag über die Beziehungen zwischen der Bundesrepublik Deutschland und den Drei Mächten und Vertrag über die Gründung der Europäischen Verteidigungsgemeinschaft) mit ihren Zusatz- und Nebenabkommen, insbesondere dem Protokoll vom 26. Juli 1952, nicht entgegen.
++
+--- a/073.md
++++ b/073.md
+@@ -1,6 +1,6 @@
+ ## Artikel 73
+ 
+ Der Bund hat die ausschließliche Gesetzgebung über:
+-1. die auswärtigen Angelegenheiten;
++1. die auswärtigen Angelegenheiten sowie die Verteidigung einschließlich der Wehrpflicht für Männer vom vollendeten achtzehnten Lebensjahr an und des Schutzes der Zivilbevölkerung;
+ 2. die Staatsangehörigkeit im Bunde;
+ 3. die Freizügigkeit, das Paßwesen, die Ein- und Auswanderung und die Auslieferung;
+--- a/079.md
++++ b/079.md
+@@ -1,5 +1,5 @@
+ ## Artikel 79
+ 
+-(1) Das Grundgesetz kann nur durch ein Gesetz geändert werden, das den Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt.
++(1) Das Grundgesetz kann nur durch ein Gesetz geändert werden, das den Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt. Bei völkerrechtlichen Verträgen, die eine Friedensregelung, die Vorbereitung einer Friedensregelung oder den Abbau einer besatzungsrechtlichen Ordnung zum Gegenstand haben oder der Verteidigung der Bundesrepublik zu dienen bestimmt sind, genügt zur Klarstellung, daß die Bestimmungen des Grundgesetzes dem Abschluß und dem Inkraftsetzen der Verträge nicht entgegenstehen, eine Ergänzung des Wortlautes des Grundgesetzes, die sich auf diese Klarstellung beschränkt.
+ (2) Ein solches Gesetz bedarf der Zustimmung von zwei Dritteln der Mitglieder des Bundestages und zwei Dritteln der Stimmen des Bundesrates.

@@ -1,0 +1,64 @@
+--- a/076.md
++++ b/076.md
+@@ -4,8 +4,13 @@
+     Mitte des Bundestages oder durch den Bundesrat eingebracht.
+ 
+ (2) Vorlagen der Bundesregierung sind zunächst dem Bundesrat zuzuleiten. Der
+-    Bundesrat ist berechtigt, innerhalb von drei Wochen zu diesen Vorlagen
+-    Stellung zu nehmen.
++    Bundesrat ist berechtigt, innerhalb von sechs Wochen zu diesen Vorlagen
++    Stellung zu nehmen. Die Bundesregierung kann eine Vorlage, die sie bei
++    der Zuleitung an den Bundesrat ausnahmsweise als besonderes eilbedürftig
++    bezeichnet hat, nach drei Wochen dem Bundestage zuleiten, auch wenn die
++    Stellungnahme des Bundesrates noch nicht bei ihr eingegangen ist; sie hat
++    die Stellungnahme des Bundesrates unverzüglich nach Eingang dem Bundestage
++    nachzureichen.
+ 
+ (3) Vorlagen des Bundesrates sind dem Bundestag durch die Bundesregierung
+     zuzuleiten. Sie hat hierbei ihre Auffassung darlegen.
+--- a/077.md
++++ b/077.md
+@@ -4,25 +4,26 @@
+     Annahme durch den Präsidenten des Bundestages unverzüglich dem Bundesrate
+     zuzuleiten.
+ 
+-(2) Der Bundesrat kann binnen zwei Wochen nach Eingang des Gesetzesbeschlusses
+-    verlangen, daß ein aus Mitgliedern des Bundestages und des Bundesrates für
+-    die gemeinsame Beratung von Vorlagen gebildeter Ausschuß einberufen wird.
+-    Die Zusammensetzung und das Verfahren dieses Ausschusses regelt eine
+-    Geschäftsordnung, die vom Bundestag beschlossen wird und der Zustimmung des
+-    Bundesrates bedarf. Die in diesen Ausschuß entsandten Mitglieder des
+-    Bundesrates sind nicht an Weisungen gebunden. Ist zu einem Gesetze die
+-    Zustimmung des Bundesrates erforderlich, so können auch der Bundestag und
+-    die Bundesregierung die Einberufung verlangen. Schlägt der Ausschuß eine
+-    Änderung des Gesetzesbeschlusses vor, so hat der Bundestag erneut Beschluß
++(2) Der Bundesrat kann binnen drei Wochen nach Eingang des Gesetzesbeschlusses 
++    verlangen, daß ein aus Mitgliedern des Bundestages und des Bundesrates für 
++    die gemeinsame Beratung von Vorlagen gebildeter Ausschuß einberufen wird. 
++    Die Zusammensetzung und das Verfahren dieses Ausschusses regelt eine 
++    Geschäftsordnung, die vom Bundestag beschlossen wird und der Zustimmung des 
++    Bundesrates bedarf. Die in diesen Ausschuß entsandten Mitglieder des 
++    Bundesrates sind nicht an Weisungen gebunden. Ist zu einem Gesetze die 
++    Zustimmung des Bundesrates erforderlich, so können auch der Bundestag und 
++    die Bundesregierung die Einberufung verlangen. Schlägt der Ausschuß eine 
++    Änderung des Gesetzesbeschlusses vor, so hat der Bundestag erneut Beschluß 
+     zu fassen.
+ 
+-(3) Soweit zu einem Gesetze die Zustimmung des Bundesrates nicht erforderlich
+-    ist, kann der Bundesrat, wenn das Verfahren nach Absatz 2 beendigt ist,
+-    gegen ein vom Bundestage beschlossenes Gesetz binnen einer Woche Einspruch
+-    einlegen. Die Einspruchsfrist beginnt im Falle des Absatzes 2 letzter Satz
+-    mit dem Eingange des vom Bundestage erneut gefaßten Beschlusses, in allen
+-    anderen Fällen mit dem Abschlusse des Verfahrens vor dem in Absatz 2
+-    vorgesehenen Ausschusse.
++(3) Soweit zu einem Gesetze die Zustimmung des Bundesrates nicht erforderlich 
++    ist, kann der Bundesrat, wenn das Verfahren nach Absatz 2 beendigt ist, 
++    gegen ein vom Bundestage beschlossenes Gesetz binnen zwei Wochen Einspruch 
++    einlegen. Die Einspruchsfrist beginnt im Falle des Absatzes 2 letzter Satz 
++    mit dem Eingange des vom Bundestage erneut gefassten Beschlusses, in allen 
++    anderen Fällen mit dem Eingange der Mitteilung des Vorsitzenden des in 
++    Absatz 2 vorgesehenen Ausschusses, daß das Verfahren vor dem Ausschusse 
++    abge schlossen ist.
+ 
+ (4) Wird der Einspruch mit der Mehrheit der Stimmen des Bundesrates beschlossen,
+     so kann er durch Beschluß der Mehrheit der Mitglieder des Bundestages

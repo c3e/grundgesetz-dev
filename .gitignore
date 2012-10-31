@@ -1,0 +1,5 @@
+.pc
+*.backup
+*~
+out/*
+repo/*
