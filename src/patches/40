@@ -1,0 +1,58 @@
+--- a/073.md
++++ b/073.md
+@@ -6,7 +6,8 @@
+ 3. die Freizügigkeit, das Paßwesen, die Ein- und Auswanderung und die Auslieferung;
+ 4. das Währungs-, Geld- und Münzwesen, Maße und Gewichte sowie die Zeitbestimmung;
+ 5. die Einheit des Zoll- und Handelsgebietes, die Handels- und Schiffahrtsverträge, die Freizügigkeit des Warenverkehrs und den Waren- und Zahlungsverkehr mit dem Auslande einschließlich des Zoll- und Grenzschutzes;
+-6. die Bundeseisenbahnen und den Luftverkehr;
++6. Luftverkehr;
++6a. den Verkehr von Eisenbahnen, die ganz oder mehrheitlich im Eigentum des Bundes stehen (Eisenbahnen des Bundes), den Bau, die Unterhaltung und das Betreiben von Schienenwegen der Eisenbahnen des Bundes sowie die Erhebung von Entgelten für die Benutzung dieser Schienenwege;
+ 7. das Post- und Fernmeldewesen;
+ 8. die Rechtsverhältnisse der im Dienste des Bundes und der bundesunmittelbaren Körperschaften des öffentlichen Rechtes stehenden Personen;
+ 9. den gewerblichen Rechtsschutz, das Urheberrecht und das Verlagsrecht;
+--- a/080.md
++++ b/080.md
+@@ -1,5 +1,5 @@
+ ## Artikel 80
+ 
+ (1) Durch Gesetz können die Bundesregierung, ein Bundesminister oder die Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetze bestimmt werden. Die Rechtsgrundlage ist in der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiter übertragen werden kann, so bedarf es zur Übertragung der Ermächtigung einer Rechtsverordnung.
+-(2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der Bundesregierung oder eines Bundesministers über Grundsätze und Gebühren für die Benutzung der Einrichtungen der Bundeseisenbahnen und des Post- und Fernmeldewesens, über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder die von den Ländern im Auftrage des Bundes oder als eigene Angelegenheit ausgeführt werden.
++(2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der Bundesregierung oder eines Bundesministers über Grundsätze und Gebühren für die Benutzung der Einrichtungen des Post- und Fernmeldewesens, über die Grundsätze der Erhebung des Entgelts für die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder die von den Ländern im Auftrage des Bundes oder als eigene Angelegenheit ausgeführt werden.
+ 
+--- a/087.md
++++ b/087.md
+@@ -1,6 +1,6 @@
+ ## Artikel 87
+ 
+-(1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung, die Bundeseisenbahnen, die Bundespost und nach Maßgabe des [Artikels 89](#artikel-89) die Verwaltung der Bundeswasserstraßen und der Schiffahrt. Durch Bundesgesetz können Bundesgrenzschutzbehörden, Zentralstellen für das polizeiliche Auskunfts- und Nachrichtenwesen, für die Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke des Verfassungsschutzes und des Schutzes gegen Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen auswärtige Belange der Bundesrepublik Deutschland gefährden, eingerichtet werden.
++(1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung, die Bundespost und nach Maßgabe des [Artikels 89](#artikel-89) die Verwaltung der Bundeswasserstraßen und der Schiffahrt. Durch Bundesgesetz können Bundesgrenzschutzbehörden, Zentralstellen für das polizeiliche Auskunfts- und Nachrichtenwesen, für die Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke des Verfassungsschutzes und des Schutzes gegen Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen auswärtige Belangeder Bundesrepublik Deutschland gefährden, eingerichtet werden.
+ (2) Als bundesunmittelbare Körperschaften des öffentlichen Rechtes werden diejenigen sozialen Versicherungsträger geführt, deren Zuständigkeitsbereich sich über das Gebiet eines Landes hinaus erstreckt.
+ (3) Außerdem können für Angelegenheiten, für die dem Bunde die Gesetzgebung zusteht, selbständige Bundesoberbehörden und neue bundesunmittelbare Körperschaften und Anstalten des öffentlichen Rechtes durch Bundesgesetz errichtet werden. Erwachsen dem Bunde auf Gebieten, für die ihm die Gesetzgebung zusteht, neue Aufgaben, so können bei dringendem Bedarf bundeseigene Mittel- und Unterbehörden mit Zustimmung des Bundesrates und der Mehrheit der Mitglieder des Bundestages errichtet werden.
+ 
+--- /dev/null
++++ b/087e.md
+@@ -0,0 +1,8 @@
++## Artikel 87e
++
++(1) Die Eisenbahnverkehrsverwaltung für Eisenbahnen des Bundes wird in bundeseigener Verwaltung geführt. Durch Bundesgesetz können Aufgaben der Eisenbahnverkehrsverwaltung den Ländern als eigene Angelegenheit übertragen werden.
++(2) Der Bund nimmt die über den Bereich der Eisenbahnen des Bundes hinausgehenden Aufgaben der Eisenbahnverkehrsverwaltung wahr, die ihm durch Bundesgesetz übertragen werden.
++(3) Eisenbahnen des Bundes werden als Wirtschaftsunternehmen in privat-rechtlicher Form geführt. Diese stehen im Eigentum des Bundes, soweit die Tätigkeit des Wirtschaftsunternehmens den Bau, die Unterhaltung und das Betreiben von Schienenwegen umfaßt. Die Veräußerung von Anteilen des Bundes an den Unternehmen nach Satz 2 erfolgt auf Grund eines Gesetzes; die Mehrheit der Anteile an diesen Unternehmen verbleibt beim Bund. Das Nähere wird durch Bundesgesetz geregelt.
++(4) Der Bund gewährleistet, daß dem Wohl der Allgemeinheit, insbesondere den Verkehrsbedürfnissen, beim Ausbau und Erhalt des Schienennetzes der Eisenbahnen des Bundes sowie bei deren Verkehrsangeboten auf diesem Schienennetz, soweit diese nicht den Schienenpersonennahverkehr betreffen, Rechnung getragen wird. Das Nähere wird durch Bundesgesetz geregelt.
++(5) Gesetze auf Grund der Absätze 1 bis 4 bedürfen der Zustimmung des Bundesrates. Der Zustimmung des Bundesrates bedürfen ferner Gesetze, die die Auflösung, die Verschmelzung und die Aufspaltung von Eisenbahnunternehmen des Bundes, die Übertragung von Schienenwegen der Eisenbahnen des Bundes an Dritte sowie die Stillegung von Schienenwegen der Eisenbahnen des Bundes regeln oder Auswirkungen auf den Schienenpersonennahverkehr haben.
++
+--- /dev/null
++++ b/106a.md
+@@ -0,0 +1,4 @@
++## Artikel 106a
++
++Den Ländern steht ab 1. Januar 1996 für den öffentlichen Personennahverkehr ein Betrag aus dem Steueraufkommen des Bundes zu. Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Der Betrag nach Satz 1 bleibt bei der Bemessung der Finanzkraft nach [Artikel 107 Abs. 2](#artikel-107) unberücksichtigt.
++
+--- /dev/null
++++ b/143a.md
+@@ -0,0 +1,6 @@
++## Artikel 143a
++
++(1) Der Bund hat die ausschließliche Gesetzgebung über alle Angelegenheiten, die sich aus der Umwandlung der in bundeseigener Verwaltung geführten Bundeseisenbahnen in Wirtschaftsunternehmen ergeben. [Artikel 87e Abs. 5](#artikel-87e) findet entsprechende Anwendung. Beamte der Bundeseisenbahnen können durch Gesetz unter Wahrung ihrer Rechtsstellung und der Verantwortung des Dienstherrn einer privat-rechtlich organisierten Eisenbahn des Bundes zur Dienstleistung zugewiesen werden.
++(2) Gesetze nach Absatz 1 führt der Bund aus.
++(3) Die Erfüllung der Aufgaben im Bereich des Schienenpersonennahverkehrs der bisherigen Bundeseisenbahnen ist bis zum 31. Dezember 1995 Sache des Bundes. Dies gilt auch für die entsprechenden Aufgaben der Eisenbahnverkehrsverwaltung. Das Nähere wird durch Bundesgesetz geregelt, das der Zustimmung des Bundesrates bedarf.
++
