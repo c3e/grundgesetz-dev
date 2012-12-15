@@ -1,0 +1,48 @@
+--- a/073.md
++++ b/073.md
+@@ -8,7 +8,7 @@
+ 5. die Einheit des Zoll- und Handelsgebietes, die Handels- und Schiffahrtsverträge, die Freizügigkeit des Warenverkehrs und den Waren- und Zahlungsverkehr mit dem Auslande einschließlich des Zoll- und Grenzschutzes;
+ 6. Luftverkehr;
+ 6a. den Verkehr von Eisenbahnen, die ganz oder mehrheitlich im Eigentum des Bundes stehen (Eisenbahnen des Bundes), den Bau, die Unterhaltung und das Betreiben von Schienenwegen der Eisenbahnen des Bundes sowie die Erhebung von Entgelten für die Benutzung dieser Schienenwege;
+-7. das Post- und Fernmeldewesen;
++7. das Postwesen und die Telekommunikation;
+ 8. die Rechtsverhältnisse der im Dienste des Bundes und der bundesunmittelbaren Körperschaften des öffentlichen Rechtes stehenden Personen;
+ 9. den gewerblichen Rechtsschutz, das Urheberrecht und das Verlagsrecht;
+ 10. die Zusammenarbeit des Bundes und der Länder
+--- a/080.md
++++ b/080.md
+@@ -1,5 +1,5 @@
+ ## Artikel 80
+ 
+ (1) Durch Gesetz können die Bundesregierung, ein Bundesminister oder die Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetze bestimmt werden. Die Rechtsgrundlage ist in der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiter übertragen werden kann, so bedarf es zur Übertragung der Ermächtigung einer Rechtsverordnung.
+-(2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der Bundesregierung oder eines Bundesministers über Grundsätze und Gebühren für die Benutzung der Einrichtungen des Post- und Fernmeldewesens, über die Grundsätze der Erhebung des Entgelts für die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder die von den Ländern im Auftrage des Bundes oder als eigene Angelegenheit ausgeführt werden.
++(2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der Bundesregierung oder eines Bundesministers über Grundsätze und Gebühren für die Benutzung der Einrichtungen des Postwesens und der Telekommunikation, über die Grundsätze der Erhebung des Entgelts für die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder die von den Ländern im Auftrage des Bundes oder als eigene Angelegenheit ausgeführt werden.
+ 
+--- a/087.md
++++ b/087.md
+@@ -1,6 +1,6 @@
+ ## Artikel 87
+ 
+-(1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung, die Bundespost und nach Maßgabe des [Artikels 89](#artikel-89) die Verwaltung der Bundeswasserstraßen und der Schiffahrt. Durch Bundesgesetz können Bundesgrenzschutzbehörden, Zentralstellen für das polizeiliche Auskunfts- und Nachrichtenwesen, für die Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke des Verfassungsschutzes und des Schutzes gegen Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen auswärtige Belangeder Bundesrepublik Deutschland gefährden, eingerichtet werden.
++(1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung und nach Maßgabe des [Artikels 89](#artikel-89) die Verwaltung der Bundeswasserstraßen und der Schiffahrt. Durch Bundesgesetz können Bundesgrenzschutzbehörden, Zentralstellen für das polizeiliche Auskunfts- und Nachrichtenwesen, für die Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke des Verfassungsschutzes und des Schutzes gegen Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen auswärtige Belange der Bundesrepublik Deutschland gefährden, eingerichtet werden.
+ (2) Als bundesunmittelbare Körperschaften des öffentlichen Rechtes werden diejenigen sozialen Versicherungsträger geführt, deren Zuständigkeitsbereich sich über das Gebiet eines Landes hinaus erstreckt.
+ (3) Außerdem können für Angelegenheiten, für die dem Bunde die Gesetzgebung zusteht, selbständige Bundesoberbehörden und neue bundesunmittelbare Körperschaften und Anstalten des öffentlichen Rechtes durch Bundesgesetz errichtet werden. Erwachsen dem Bunde auf Gebieten, für die ihm die Gesetzgebung zusteht, neue Aufgaben, so können bei dringendem Bedarf bundeseigene Mittel- und Unterbehörden mit Zustimmung des Bundesrates und der Mehrheit der Mitglieder des Bundestages errichtet werden.
+ 
+--- /dev/null
++++ b/087f.md
+@@ -0,0 +1,6 @@
++## Artikel 87f
++
++(1) Nach Maßgabe eines Bundesgesetzes, das der Zustimmung des Bundesrates bedarf, gewährleistet der Bund im Bereich des Postwesens und der Telekommunikation flächendeckend angemessene und ausreichende Dienstleistungen.
++(2) Dienstleistungen im Sinne des Absatzes 1 werden als privatwirtschaftliche Tätigkeiten durch die aus dem Sondervermögen Deutsche Bundespost hervorgegangenen Unternehmen und durch andere private Anbieter erbracht. Hoheitsaufgaben im Bereich des Postwesens und der Telekommunikation werden in bundeseigener Verwaltung ausgeführt.
++(3) Unbeschadet des Absatzes 2 Satz 2 führt der Bund in der Rechtsform einer bundesunmittelbaren Anstalt des öffentlichen Rechts einzelne Aufgaben in bezug auf die aus dem Sondervermögen Deutsche Bundespost hervorgegangenen Unternehmen nach Maßgabe eines Bundesgesetzes aus.
++
+--- /dev/null
++++ b/143b.md
+@@ -0,0 +1,6 @@
++## Artikel 143b
++
++(1) Das Sondervermögen Deutsche Bundespost wird nach Maßgabe eines Bundesgesetzes in Unternehmen privater Rechtsform umgewandelt. Der Bund hat die ausschließliche Gesetzgebung über alle sich hieraus ergebenden Angelegenheiten.
++(2) Die vor der Umwandlung bestehenden ausschließlichen Rechte des Bundes können durch Bundesgesetz für eine Übergangszeit den aus derD eutschen Bundespost POSTDIENST und der Deutschen Bundespost TELEKOM hervorgegangenen Unternehmen verliehen werden. Die Kapitalmehrheit am Nachfolgeunternehmen der Deutschen Bundespost POSTDIENST darf der Bund frühestens fünf Jahre nach Inkrafttreten des Gesetzes aufgeben. Dazu bedarf es eines Bundesgesetzes mit Zustimmung des Bundesrates.
++(3) Die bei der Deutschen Bundespost tätigen Bundesbeamten werden unter Wahrung ihrer Rechtsstellung und der Verantwortung des Dienstherrn bei den privaten Unternehmen beschäftigt. Die Unternehmen üben Dienstherrenbefugnisse aus. Das Nähere bestimmt ein Bundesgesetz.
++
