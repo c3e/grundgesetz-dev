@@ -116,7 +116,7 @@
 016.md 016a.md 018.md
 
 40
-073.md 74.md 080.md 087.md  087e.md 106a.md 143a.md
+073.md 74.md 080.md 087.md 087e.md 106a.md 143a.md
 
 41
 073.md 080.md 087.md 087f.md 143b.md
