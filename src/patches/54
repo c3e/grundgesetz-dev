@@ -1,0 +1,53 @@
+--- a/106.md
++++ b/106.md
+@@ -3,7 +3,7 @@
+ (1) Der Ertrag der Finanzmonopole und das Aufkommen der folgenden Steuern stehen dem Bund zu:
+     1. die Zölle,
+     2. die Verbrauchsteuern, soweit sie nicht nach Absatz 2 den Ländern, nach Absatz 3 Bund und Ländern gemeinsam oder nach Absatz 6 den Gemeinden zustehen,
+-    3. die Straßengüterverkehrsteuer,
++    3. die Straßengüterverkehrsteuer, die Kraftfahrzeugsteuer und sonstige auf motorisierte Verkehrsmittel bezogene Verkehrsteuern,
+     4. die Kapitalverkehrsteuern, die Versicherungsteuer und die Wechselsteuer,
+     5. die einmaligen Vermögensabgaben und die zur Durchführung des Lastenausgleichs erhobenen Ausgleichsabgaben,
+     6. die Ergänzungsabgabe zur Einkommensteuer und zur Körperschaftsteuer,
+@@ -11,11 +11,10 @@
+ (2) Das Aufkommen der folgenden Steuern steht den Ländern zu:
+     1. die Vermögensteuer,
+     2. die Erbschaftsteuer,
+-    3. die Kraftfahrzeugsteuer,
+-    4. die Verkehrsteuern, soweit sie nicht nach Absatz 1 dem Bund oder nach Absatz 3 Bund und Ländern gemeinsam zustehen,
+-    5. die Biersteuer,
+-    6. die Abgaben von Spielbanken,
+-    7. die Steuern mit örtlich bedingtem Wirkungskreis.
++    3. die Verkehrsteuern, soweit sie nicht nach Absatz 1 dem Bund oder nach Absatz 3 Bund und Ländern gemeinsam zustehen,
++    4. die Biersteuer,
++    5. die Abgaben von Spielbanken,
++    6. die Steuern mit örtlich bedingtem Wirkungskreis.
+ (3) Das Aufkommen der Einkommensteuer, der Körperschaftsteuer und der Umsatzsteuer steht dem Bund und den Ländern gemeinsam zu (Gemeinschaftsteuern), soweit das Aufkommen der Einkommensteuer nicht nach Absatz 5 und das Aufkommen der Umsatzsteuer nicht nach Absatz 5a den Gemeinden zugewiesen wird. Am Aufkommen der Einkommensteuer und der Körperschaftsteuer sind der Bund und die Länder je zur Hälfte beteiligt. Die Anteile von Bund und Ländern an der Umsatzsteuer werden durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, festgesetzt. Bei der Festsetzung ist von folgenden Grundsätzen auszugehen:
+     1. Im Rahmen der laufenden Einnahmen haben der Bund und die Länder gleichmäßig Anspruch auf Deckung ihrer notwendigen Ausgaben. Dabei ist der Umfang der Ausgaben unter Berücksichtigung einer mehrjährigen Finanzplanung zu ermitteln.
+     2. Die Deckungsbedürfnisse des Bundes und der Länder sind so aufeinander abzustimmen, daß ein billiger Ausgleich erzielt, eine Überbelastung der Steuerpflichtigen vermieden und die Einheitlichkeit der Lebensverhältnisse im Bundesgebiet gewahrt wird. Zusätzlich werden in die Festsetzung der Anteile von Bund und Ländern an der Umsatzsteuer Steuermindereinnahmen einbezogen, die den Ländern ab 1. Januar 1996 aus der Berücksichtigung von Kindern im Einkommensteuerrecht entstehen. Das Nähere bestimmt das Bundesgesetz nach Satz 3.
+--- /dev/null
++++ b/106b.md
+@@ -0,0 +1,4 @@
++## Artikel 106b
++
++Den Ländern steht ab dem 1. Juli 2009 infolge der Übertragung der Kraftfahrzeugsteuer auf den Bund ein Betrag aus dem Steueraufkommen des Bundes zu. Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf.
++
+--- a/107.md
++++ b/107.md
+@@ -1,5 +1,5 @@
+ ## Artikel 107
+ 
+-(1) Das Aufkommen der Landessteuern und der Länderanteil am Aufkommen der Einkommensteuer und der Körperschaftsteuer stehen den einzelnen Ländern insoweit zu, als die Steuern von den Finanzbehörden in ihrem Gebiet vereinnahmt werden (örtliches Aufkommen). Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, sind für die Körperschaftsteuer und die Lohnsteuer nähere Bestimmungen über die Abgrenzung sowie über Art und Umfang der Zerlegung des örtlichen Aufkommens zu treffen. Das Gesetz kann auch Bestimmungen über die Abgrenzung und Zerlegung des örtlichen Aufkommens anderer Steuern treffen. Der Länderanteil am Aufkommen der Umsatzsteuer steht den einzelnen Ländern nach Maßgabe ihrer Einwohnerzahl zu; für einen Teil, höchstens jedoch für ein Viertel dieses Länderanteils, können durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, Ergänzungsanteile für die Länder vorgesehen werden, deren Einnahmen aus den Landessteuern und aus der Einkommensteuer und der Körperschaftsteuer je Einwohner unter dem Durchschnitt der Länder liegen; bei der Grunderwerbsteuer ist die Steuerkraft einzubeziehen.
++(1) Das Aufkommen der Landessteuern und der Länderanteil am Aufkommen der Einkommensteuer und der Körperschaftsteuer stehen den einzelnen Ländern insoweit zu, als die Steuern von den Finanzbehörden in ihrem Gebiet vereinnahmt werden (örtliches Aufkommen). Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, sind für die Körperschaftsteuer und die Lohnsteuer nähere Bestimmungen über die Abgrenzung sowie über Art und Umfang der Zerlegung des örtlichen Aufkommens zu treffen. Das Gesetz kann auch Bestimmungen über die Abgrenzung und Zerlegung des örtlichen Aufkommens anderer Steuern treffen. Der Länderanteil am Aufkommen der Umsatzsteuer steht den einzelnen Ländern nach Maßgabe ihrer Einwohnerzahl zu; für einen Teil, höchstens jedoch für ein Viertel dieses Länderanteils, können durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, Ergänzungsanteile für die Länder vorgesehen werden, deren Einnahmen aus den Landessteuern und aus der Einkommensteuer und der Körperschaftsteuer und nach [Artikel 106b](#artikel-106b) je Einwohner unter dem Durchschnitt der Länder liegen; bei der Grunderwerbsteuer ist die Steuerkraft einzubeziehen.
+ (2) Durch das Gesetz ist sicherzustellen, daß die unterschiedliche Finanzkraft der Länder angemessen ausgeglichen wird; hierbei sind die Finanzkraft und der Finanzbedarf der Gemeinden (Gemeindeverbände) zu berücksichtigen. Die Voraussetzungen für die Ausgleichsansprüche der ausgleichsberechtigten Länder und für die Ausgleichsverbindlichkeiten der ausgleichspflichtigen Länder sowie die Maßstäbe für die Höhe der Ausgleichsleistungen sind in dem Gesetz zu bestimmen. Es kann auch bestimmen, daß der Bund aus seinen Mitteln leistungsschwachen Ländern Zuweisungen zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs (Ergänzungszuweisungen) gewährt.
+ 
+--- a/108.md
++++ b/108.md
+@@ -1,6 +1,6 @@
+ ## Artikel 108
+ 
+-(1) Zölle, Finanzmonopole, die bundesgesetzlich geregelten Verbrauchsteuern einschließlich der Einfuhrumsatzsteuer und die Abgaben im Rahmen der Europäischen Gemeinschaften werden durch Bundesfinanzbehörden verwaltet. Der Aufbau die ser Behörden wird durch Bundesgesetz geregelt. Soweit Mittelbehörden eingerichtet sind, werden deren Leiter im Benehmen mit den Landesregierungen bestellt.
++(1) Zölle, Finanzmonopole, die bundesgesetzlich geregelten Verbrauchsteuern einschließlich der Einfuhrumsatzsteuer, die Kraftfahrzeugsteuer und sonstige auf motorisierte Verkehrsmittel bezogene Verkehrsteuern ab dem 1. Juli 2009 sowie die Abgaben im Rahmen der Europäischen Gemeinschaften werden durch Bundesfinanzbehörden verwaltet. Der Aufbau die ser Behörden wird durch Bundesgesetz geregelt. Soweit Mittelbehörden eingerichtet sind, werden deren Leiter im Benehmen mit den Landesregierungen bestellt.
+ (2) Die übrigen Steuern werden durch Landesfinanzbehörden verwaltet. Der Aufbau dieser Behörden und die einheitliche Ausbildung der Beamten können durch Bundesgesetz mit Zustimmung des Bundesrates geregelt werden. Soweit Mittelbehörden eingerichtet sind, werden deren Leiter im Einvernehmen mit der Bundesregierung bestellt.
+ (3) Verwalten die Landesfinanzbehörden Steuern, die ganz oder zum Teil dem Bund zufließen, so werden sie im Auftrage des Bundes tätig. [Artikel 85 Abs. 3 und 4](#artikel-85) gilt mit der Maßgabe, daß an die Stelle der Bundesregierung der Bundesminister der Finanzen tritt.
+ (4) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, kann bei der Verwaltung von Steuern ein Zusammenwirken von Bundes- und Landesfinanzbehörden sowie für Steuern, die unter Absatz 1 fallen, die Verwaltung durch Landesfinanzbehörden und für andere Steuern die Verwaltung durch Bundesfinanzbehörden vorgesehen werden, wenn und soweit dadurch der Vollzug der Steuergesetze erheblich verbessert oder erleichtert wird. Für die den Gemeinden (Gemeindeverbänden) allein zufließenden Steuern kann die den Landesfinanzbehörden zustehende Verwaltung durch die Länder ganz oder zum Teil den Gemeinden (Gemeindeverbänden) übertragen werden.
