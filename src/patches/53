@@ -1,0 +1,29 @@
+--- a/023.md
++++ b/023.md
+@@ -1,6 +1,7 @@
+ ## Artikel 23
+ 
+ (1) Zur Verwirklichung eines vereinten Europas wirkt die Bundesrepublik Deutschland bei der Entwicklung der Europäischen Union mit, die demokratischen, rechtsstaatlichen, sozialen und föderativen Grundsätzen und dem Grundsatz der Subsidiarität verpflichtet ist und einen diesem Grundgesetz im wesentlichen vergleichbaren Grundrechtsschutz gewährleistet. Der Bund kann hierzu durch Gesetz mit Zustimmung des Bundesrates Hoheitsrechte übertragen. Für die Begründung der Europäischen Union sowie für Änderungen ihrer vertraglichen Grundlagen und vergleichbare Regelungen, durch die dieses Grundgesetz seinem Inhalt nach geändert oder ergänzt wird oder solche Änderungen oder Ergänzungen ermöglicht werden, gilt [Artikel 79 Abs. 2 und 3](#artikel-79).
++(1a) Der Bundestag und der Bundesrat haben das Recht, wegen Verstoßes eines Gesetzgebungsakts der Europäischen Union gegen das Subsidiaritätsprinzip vor dem Gerichtshof der Europäischen Union Klage zu erheben. Der Bundestag ist hierzu auf Antrag eines Viertels seiner Mitglieder verpflichtet. Durch Gesetz, das der Zustimmung des Bundesrates bedarf, können für die Wahrnehmung der Rechte, die dem Bundestag und dem Bundesrat in den vertraglichen Grundlagen der Europäischen Union eingeräumt sind, Ausnahmen von [Artikel 42 Abs. 2 Satz 1](#artikel-42) und [Artikel 52 Abs. 3 Satz 1](#artikel-52) zugelassen werden.
+ (2) In Angelegenheiten der Europäischen Union wirken der Bundestag und durch den Bundesrat die Länder mit. Die Bundesregierung hat den Bundestag und den Bundesrat umfassend und zum frühestmöglichen Zeitpunkt zu unterrichten.
+ (3) Die Bundesregierung gibt dem Bundestag Gelegenheit zur Stellungnahme vor ihrer Mitwirkung an Rechtsetzungsakten der Europäischen Union. Die Bundesregierung berücksichtigt die Stellungnahmen des Bundestages bei den Verhandlungen. Das Nähere regelt ein Gesetz.
+ (4) Der Bundesrat ist an der Willensbildung des Bundes zu beteiligen, soweit er an einer entsprechenden innerstaatlichen Maßnahme mitzuwirken hätte oder soweit die Länder innerstaatlich zuständig wären.
+--- a/045.md
++++ b/045.md
+@@ -1,4 +1,4 @@
+ ## Artikel 45
+ 
+-Der Bundestag bestellt einen Ausschuß für die Angelegenheiten der Europäischen Union. Er kann ihn ermächtigen, die Rechte des Bundestages gemäß [Artikel 23](#artikel-23) gegenüber der Bundesregierung wahrzunehmen.
++Der Bundestag bestellt einen Ausschuß für die Angelegenheiten der Europäischen Union. Er kann ihn ermächtigen, die Rechte des Bundestages gemäß [Artikel 23](#artikel-23) gegenüber der Bundesregierung wahrzunehmen. Er kann ihn auch ermächtigen, die Rechte wahrzunehmen, die dem Bundestag in den vertraglichen Grundlagen der Europäischen Union eingeräumt sind.
+ 
+--- a/093.md
++++ b/093.md
+@@ -2,7 +2,7 @@
+ 
+ (1) Das Bundesverfassungsgericht entscheidet:
+     1. über die Auslegung dieses Grundgesetzes aus Anlaß von Streitigkeiten über den Umfang der Rechte und Pflichten eines obersten Bundesorgans oder anderer Beteiligter, die durch dieses Grundgesetz oder in der Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten ausgestattet sind;
+-    2. bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem Grundgesetze oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrechte auf Antrag der Bundesregierung, einer Landesregierung oder eines Drittels der Mitglieder des Bundestages;
++    2. bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem Grundgesetze oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrechte auf Antrag der Bundesregierung, einer Landesregierung oder eines Viertels der Mitglieder des Bundestages;
+     2a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des [Artikels 72 Abs. 2](#artikel-72) entspricht, auf Antrag des Bundesrates, einer Landesregierung oder der Volksvertretung eines Landes;
+     3. bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und der Länder, insbesondere bei der Ausführung von Bundesrecht durch die Länder und bei der Ausübung der Bundesaufsicht;
+     4. in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bunde und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben ist;
