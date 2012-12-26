@@ -1,6 +1,6 @@
 #   Grundgesetz für die Bundesrepublik Deutschland (grundgesetz-dev)
 
-Dieses Projekt dient als Grundlage zum Aufbau eines versionierten Grundgesetzes für die Bundesrepublik Deutschland. Dieses Projekt sprich dieses Repository gilt als erster Meilenstein in der Entwicklung von versionierten Dokumenten`.
+Dieses [Repository](https://github.com/bheisig/grundgesetz-dev) dient als Grundlage zum Aufbau eines versionierten Grundgesetzes für die Bundesrepublik Deutschland. Es gilt als erster Meilenstein in der Entwicklung von versionierten Dokumenten.
 
 
 ##  Hintergrund
@@ -106,7 +106,7 @@ Hast Du eine tolle Idee, was wir unbedingt umsetzen sollten? Hast Du einen Fehle
 
 ##  Mitwirkende
 
-*   Initiert durch eine Diskussion zwischen Hauro und Lars
+*   Initiiert durch eine Diskussion zwischen Hauro und Lars
 *   Erste wichtige Schritte durch [Ben](https://benjamin.heisig.name/), Björn und Hauro
 *   Software von Ben
 *   Patch-Marathon mit Ben, Gammlaa und Schnitzel
