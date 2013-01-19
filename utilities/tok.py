@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+## Tokenizes and compares two versions
+
 from codecs import open
 import os
 # from glob import glob
