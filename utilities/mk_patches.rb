@@ -15,11 +15,12 @@ patches.each {|i|
   else
     prev_dir_n = (i-1).to_s
   end
+  puts dir_n
   Dir.foreach(prev_dir_n){ |f|
-    puts f
     next if /^\.+$/ =~ f
     next if /\.md$/ !~ f
     FileUtils.cp(File.join(prev_dir_n, f), File.join(dir_n, f))
   }
   `patch -d #{dir_n} -p1 < patches/#{dir_n}`
+
 }
