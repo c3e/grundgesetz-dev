@@ -149,7 +149,8 @@ tok_re = regex.compile(ur'(?iu)([\d\w()]+|[\p{P}]+)')
 
 # ordered so that tags are not "eaten" by punctuation tokens
 tok_tok = OrderedDict([
-        ("tag", ur'(?V1)<[^>]*?>'),
+        ("tag_open", ur'(?V1)<[^/][^>]*?>'),
+        ("tag_close", ur'(?V1)</[^>]*?>'),
         ("word", ur'(?V1)[\d\w()]+'),
         ("punct_pre", ur'(?V1)[\p{Ps}\p{Pi}]+'),
         ("punct_post", ur'(?V1)[\p{P}&&\P{Ps}&&\p{Pi}]+'),
@@ -230,12 +231,29 @@ f_toks = []
 
 version_trees = {}
 
+def objectify(soup, v):
+    sections = []
+    for sec in soup("div", level=0):
+        sec_tree = Section(sec.h1, from_v = v, to_v = v)
+        for art in sec("div", level=1):
+            art_tree = Article(art.h2)
+            if art.ol:
+                for para in art.ol("li"):
+                    para.name = "para"
+                    art_tree.children.append(unicode(para.contents))
+            sec_tree.append(art_tree)
+
+            sec_tree.children.
+
+
 for v in versionen:
     for fn in fn_s:
         print "V: ", v
         soup = soupify_file(fn, v)
-        with open("GG_%02d.html"%v, "w") as gg:
-            gg.write(unicode(arborify(soup)))
+        semantic_soup = arborify(soup)
+
+        # with open("GG_%02d.html"%v, "w") as gg:
+        #     gg.write(unicode(arborify(soup)))
 
         # f_toks.append(tokenise_file(fn, v))
 
