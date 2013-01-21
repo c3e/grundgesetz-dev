@@ -6,9 +6,9 @@
 from codecs import open
 import os
 import sys
-try:
+try:  # python 2.7
     from collections import OrderedDict
-except ImportError:
+except ImportError:  # python < 2.7
     from ordereddict import OrderedDict
 # from glob import glob
 
@@ -18,11 +18,13 @@ import regex
 
 from bs4 import BeautifulSoup, element
 
-numbered_re = regex.compile(ur'^(?:(?:\d+|[XVI]+)[a-z]\.)')
+section_number_re = regex.compile(ur'^((?:\d+|[XVI]+)[a-z]*)(?=\.)')
+
+article_number_re = regex.compile(ur'(?<=Artikel\s+)(?:(?:\d+|[XVI]+)[a-z]?)')
 
 
 def is_numbered(s):
-    return numbered_re.search(s)
+    return section_number_re.search(s) is not None
 
 
 class Item:
@@ -58,7 +60,7 @@ class Item:
         ret = u"<{} |{}| {} <= v'".format(self.__class__.__name__, self.tok,
                 self.from_v)
         if self.to_v is not None:
-            ret += self.to_v
+            ret += unicode(self.to_v)
         ret += ">"
         return ret.encode("utf-8")
 
@@ -138,7 +140,7 @@ class Token(Item):
         ret = u"<Tok {} |{}| {} <= v'".format(self.typ, self.tok,
                 self.from_v)
         if self.to_v is not None:
-            ret += self.to_v
+            ret += unicode(self.to_v)
         ret += ">"
         return ret.encode("utf-8")
 
@@ -216,7 +218,8 @@ def arborify(soup):
                 if hier >= cur_hier:
                     # could we have a tag_stack == ["h1", "ol"]?
                     # should not, but we can take care of it:
-                    while tag_stack and tag_hierarchy.index(tag_stack[-1].name) >= cur_hier:
+                    while tag_stack and \
+                        tag_hierarchy.index(tag_stack[-1].name) >= cur_hier:
                         tag_stack.pop()
                         div_stack.pop()
             tag_stack.append(cur_el)
@@ -234,26 +237,50 @@ f_toks = []
 
 version_trees = {}
 
+
 def objectify(soup, v):
     sections = []
     for sec in soup("div", level=0):
-        sec_tree = Section(sec.h1, from_v = v, to_v = v)
+        sec_tree = Section(sec.h1.text, from_v=v, to_v=v)
+        sec_no = section_number_re.search(sec.h1.text)
+        if sec_no is not None:
+            sec_tree.number = sec_no.group()
+        else:
+            sys.stderr.write(u"Unnumbered section: «{}»\n"\
+                    .format(sec.h1.text))
+        for para in sec("p"):  # ‘dangling’ paragraphs in preamble
+            sec_tree.children.append(para)
         for art in sec("div", level=1):
             art_tree = Article(art.h2)
+            art_no = article_number_re.search(art.h2.text)
+            if art_no is not None:
+                art_tree.number = art_no.group()
+            else:
+                sys.stderr.write(u"Unnumbered article!?  «{}»\n"\
+                        .format(art.h2.text))
             if art.ol:
+                i = 0
                 for para in art.ol("li"):
+                    i += 1
                     para.name = "para"
-                    art_tree.children.append(unicode(para.contents))
-            sec_tree.append(art_tree)
+                    para["number"] = i
+                    art_tree.children.append(para.contents)
+            else:
+                for para in sec("p"):  # ‘dangling’ paragraphs in preamble
+                    para.name = "para"
+                    art_tree.children.append(para)
+            sec_tree.children.append(art_tree)
+        sections.append(sec_tree)
+    return sections
 
-            sec_tree.children.
-
+o_trees = {}
 
 for v in versionen:
     for fn in fn_s:
         print "V: ", v
         soup = soupify_file(fn, v)
         semantic_soup = arborify(soup)
+        o_trees[v] = objectify(semantic_soup, v)
 
         # with open("GG_%02d.html"%v, "w") as gg:
         #     gg.write(unicode(arborify(soup)))
