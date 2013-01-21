@@ -6,7 +6,10 @@
 from codecs import open
 import os
 import sys
-from collections import OrderedDict
+try:
+    from collections import OrderedDict
+except ImportError:
+    from ordereddict import OrderedDict
 # from glob import glob
 
 from difflib import SequenceMatcher
@@ -41,7 +44,7 @@ class Item:
         return ret
 
     def eq_deep(self, other):
-        ret = self.eq_typ(self, other)
+        ret = self.eq_typ(other)
         if ret:
             if len(self.children) > 0:
                 if len(self.children) != len(other.children):
@@ -60,7 +63,7 @@ class Item:
         return ret.encode("utf-8")
 
 
-class HierItem:
+class HierItem(Item):
     u'''versioned hierarchical item in the German Grundgesetz
 
     special case: if the text is only "[aufgehoben]", the item has been
