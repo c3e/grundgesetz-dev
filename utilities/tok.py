@@ -160,7 +160,7 @@ tok_tok = [
         ("word", ur'(?V1)[\d\w()]+'),
         ("punct_pre", ur'(?V1)[\p{Ps}\p{Pi}]+'),
         ("punct_post", ur'(?V1)[\p{P}&&\P{Ps}&&\P{Pi}]+'),
-        # no leading Ergänzungsbindestrich in the GG!
+        # leading Ergänzungsbindestrich in the GG
     ]
 
 class RegexTok(object):
@@ -282,7 +282,7 @@ def objectify(soup, v):
                 for para in art.ol("li", recursive=False):
                     i += 1
                     para.name = "para"
-                    para[enumber"] = i
+                    para["number"] = i
                     art_tree.children.append(para.contents)
             else:
                 for para in art("p", recursive=False):  # ‘dangling’ paragraphs in preamble
