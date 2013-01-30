@@ -6,10 +6,10 @@
 from codecs import open
 import os
 import sys
-try:  # python 2.7
-    from collections import OrderedDict
-except ImportError:  # python < 2.7
-    from ordereddict import OrderedDict
+# try:  # python 2.7
+#     from collections import OrderedDict
+# except ImportError:  # python < 2.7
+#     from ordereddict import OrderedDict
 # from glob import glob
 
 from difflib import SequenceMatcher
@@ -27,7 +27,7 @@ def is_numbered(s):
     return section_number_re.search(s) is not None
 
 
-class Item:
+class Item(object):
     u'''versioned item in the German Grundgesetz
 
     special case: if the text is only "[aufgehoben]", the item has been
@@ -154,18 +154,36 @@ versionen = xrange(2, 4)
 fn_s = [u"GG.html"]
 
 # Replace by hash: typ => re
-tok_re = regex.compile(ur'(?iu)([\d\w()]+|[\p{P}]+)')
+# tok_re = regex.compile(ur'(?iu)([\d\w()]+|[\p{P}]+)')
 
 # ordered so that tags are not "eaten" by punctuation tokens
-tok_tok = OrderedDict([
+tok_tok = [
         ("tag_open", ur'(?V1)<[^/][^>]*?>'),
         ("tag_close", ur'(?V1)</[^>]*?>'),
         ("word", ur'(?V1)[\d\w()]+'),
         ("punct_pre", ur'(?V1)[\p{Ps}\p{Pi}]+'),
-        ("punct_post", ur'(?V1)[\p{P}&&\P{Ps}&&\p{Pi}]+'),
-    ])
+        ("punct_post", ur'(?V1)[\p{P}&&\P{Ps}&&\P{Pi}]+'),
+        # leading Ergänzungsbindestrich in the GG
+    ]
 
-tok_re = u"(?:" + u"|".join(tok_tok.values()) + u")"
+class RegexTok(object):
+    # tok_re = u"(?:" + u"|".join(tok_tok.values()) + u")"
+    def __init__(self, tok_tok):
+        tok_re = u"(?:" 
+        for i in range(0,len(tok_tok)):
+            if i > 0:
+                tok_re += "|"
+            t = tok_tok[i]
+            tok_re += ur'(?P<{}>{})'.format(t[0], t[1])
+        tok_re += u")"
+        self.tok_re = regex.compile(tok_re)
+
+    def __call__(self, line):
+        return self.tokenize(line)
+
+    def tokenize(self, line):
+        return (filter(lambda i: i[1] is not None, m.groupdict().items())[0]
+                for m in self.tok_re.finditer(unicode(line)))
 
 
 def align_items(t1, t2):
@@ -178,15 +196,14 @@ def align_toks(t1, t2):
     return sm.get_matching_blocks()
 
 
-def tokenise_file(fn, v):
-    fn_akt = os.path.join(SRC_DIR, unicode(v), fn)
-    print fn_akt
-    with open(fn_akt, encoding="utf-8") as f:
-        toks = [Token(m.group())
-                for line in f.readlines()
-                for m in tok_re.finditer(unicode(line))]
-
-    return toks
+# def tokenise_file(fn, v):
+#     fn_akt = os.path.join(SRC_DIR, unicode(v), fn)
+#     print fn_akt
+#     with open(fn_akt, encoding="utf-8") as f:
+#         toks = [Token(m.group())
+#                 for line in f.readlines()
+#                 for m in re_tok.tokenize(unicode(line))]
+#     return toks
 
 
 def get_version_dir(v):
@@ -242,14 +259,15 @@ def arborify(soup):
         cur_el = next_el
     return div_stack[0]
 
-f_toks = []
 
-version_trees = {}
+re_tok = RegexTok(tok_tok)
+f_toks = []
+# version_trees = []
 
 
 def objectify(soup, v):
     sections = []
-    for sec in soup("div", level=0):
+    for sec in soup("div", level=0, recursive=False):
         sec_tree = Section(sec.h1.text, from_v=v, to_v=v)
         sec_no = section_number_re.search(sec.h1.text)
         if sec_no is not None:
@@ -257,9 +275,9 @@ def objectify(soup, v):
         else:
             sys.stderr.write(u"Unnumbered section: «{}»\n"\
                     .format(sec.h1.text))
-        for para in sec("p"):  # ‘dangling’ paragraphs in preamble
+        for para in sec("p", recursive=False):  # ‘dangling’ paragraphs in preamble
             sec_tree.children.append(para)
-        for art in sec("div", level=1):
+        for art in sec("div", level=1, recursive=False):
             art_tree = Article(art.h2)
             art_no = article_number_re.search(art.h2.text)
             if art_no is not None:
@@ -269,25 +287,25 @@ def objectify(soup, v):
                         .format(art.h2.text))
             if art.ol:
                 i = 0
-                for para in art.ol("li"):
+                for para in art.ol("li", recursive=False):
                     i += 1
                     para.name = "para"
                     para["number"] = i
                     art_tree.children.append(para.contents)
             else:
-                for para in sec("p"):  # ‘dangling’ paragraphs in preamble
+                for para in art("p", recursive=False):  # ‘dangling’ paragraphs in preamble
                     para.name = "para"
                     art_tree.children.append(para)
             sec_tree.children.append(art_tree)
         sections.append(sec_tree)
     return sections
 
-
 # Next Steps:
 # - convert all Article.children to text
 # - diff/merge them and the Rest into "Masters"
 
-o_trees = {}
+# h_trees = []
+o_trees = []
 
 
 for v in versionen:
@@ -295,10 +313,8 @@ for v in versionen:
         print "V: ", v
         soup = soupify_file(fn, v)
         semantic_soup = arborify(soup)
-        o_trees[v] = objectify(semantic_soup, v)
-
-        # with open("GG_%02d.html"%v, "w") as gg:
-        #     gg.write(unicode(arborify(soup)))
+        # h_trees.append(semantic_soup)
+        o_trees.append(objectify(semantic_soup, v))
 
         # f_toks.append(tokenise_file(fn, v))
 
