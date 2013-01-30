@@ -21,6 +21,6 @@ patches.each {|i|
     next if /\.md$/ !~ f
     FileUtils.cp(File.join(prev_dir_n, f), File.join(dir_n, f))
   }
-  `patch -d #{dir_n} -p1 < patches/#{dir_n}`
+  system("patch -d #{dir_n} -p1 < patches/#{dir_n}")
 
 }

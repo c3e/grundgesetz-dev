@@ -37,6 +37,7 @@ class Item:
         self.tok = tok
         self.from_v = from_v
         self.to_v = to_v
+        self.number = None
         self.children = []  # ordered list of children
 
     def eq_typ(self, other):
@@ -44,6 +45,9 @@ class Item:
         if unicode(self.tok) != unicode(other.tok):
             ret = False
         return ret
+
+    def __eq__(self, other):
+        return self.number == other.number and self.tok == other.tok
 
     def eq_deep(self, other):
         ret = self.eq_typ(other)
@@ -164,7 +168,12 @@ tok_tok = OrderedDict([
 tok_re = u"(?:" + u"|".join(tok_tok.values()) + u")"
 
 
-def compare_toks(t1, t2):
+def align_items(t1, t2):
+    sm = SequenceMatcher(None, [(t.tok, t.number) for t in t1], 
+            [(t.tok, t.number) for t in t2])
+    return sm.get_matching_blocks()
+
+def align_toks(t1, t2):
     sm = SequenceMatcher(None, [t.tok for t in t1], [t.tok for t in t2])
     return sm.get_matching_blocks()
 
@@ -273,7 +282,13 @@ def objectify(soup, v):
         sections.append(sec_tree)
     return sections
 
+
+# Next Steps:
+# - convert all Article.children to text
+# - diff/merge them and the Rest into "Masters"
+
 o_trees = {}
+
 
 for v in versionen:
     for fn in fn_s:
