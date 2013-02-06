@@ -14,6 +14,31 @@ import sys
 
 from difflib import SequenceMatcher
 
+from collections import namedtuple
+Block = namedtuple('Block', 'start end')
+BPair = namedtuple("BPair", 'same first second')
+
+
+def get_also_non_matching_blocks(matches):
+    i = 0
+    j = 0
+    pairs = []
+    for m in matches:
+        pair_a = None
+        pair_b = None
+        if m.a > i:
+            pair_a = Block(i, m.a)
+        if m.b > j:
+            pair_b = Block(i, m.b)
+        if pair_a is not None or pair_b is not None:
+            pairs.append(BPair(False, pair_a, pair_b))
+        i = m.a + m.size
+        j = m.b + m.size
+        if m.size:
+            pairs.append(BPair(True, Block(m.a, i), Block(m.b, j)))
+    return pairs
+
+
 import regex
 
 from bs4 import BeautifulSoup, element
@@ -21,10 +46,6 @@ from bs4 import BeautifulSoup, element
 section_number_re = regex.compile(ur'^((?:\d+|[XVI]+)[a-z]*)(?=\.)')
 
 article_number_re = regex.compile(ur'(?<=Artikel\s+)(?:(?:\d+|[XVI]+)[a-z]?)')
-
-
-def is_numbered(s):
-    return section_number_re.search(s) is not None
 
 
 class Item(object):
@@ -75,14 +96,14 @@ class HierItem(Item):
     special case: if the text is only "[aufgehoben]", the item has been
     repealed'''
 
+    def __getitem__(self, i):
+        return self.children[i]
+
     def is_repealed(self):
         if len(self.children) == 1 and \
             self.children[0].p.text == u"[aufgehoben]":
                 return True
         return False
-
-    def get_number(self):
-        return numbered_re.search(self.tok)
 
 
 class Preamble(HierItem):
@@ -150,7 +171,7 @@ class Token(Item):
 
 
 SRC_DIR = u"../src"
-versionen = xrange(2, 4)
+versionen = [1, 59]  # xrange(2, 4)
 fn_s = [u"GG.html"]
 
 # Replace by hash: typ => re
@@ -166,11 +187,12 @@ tok_tok = [
         # leading Ergänzungsbindestrich in the GG
     ]
 
+
 class RegexTok(object):
     # tok_re = u"(?:" + u"|".join(tok_tok.values()) + u")"
     def __init__(self, tok_tok):
-        tok_re = u"(?:" 
-        for i in range(0,len(tok_tok)):
+        tok_re = u"(?:"
+        for i in range(0, len(tok_tok)):
             if i > 0:
                 tok_re += "|"
             t = tok_tok[i]
@@ -187,13 +209,15 @@ class RegexTok(object):
 
 
 def align_items(t1, t2):
-    sm = SequenceMatcher(None, [(t.tok, t.number) for t in t1], 
+    # SequenceMatcher does not get beyond 1 Match with Item objects
+    sm = SequenceMatcher(None, [(t.tok, t.number) for t in t1],
             [(t.tok, t.number) for t in t2])
     return sm.get_matching_blocks()
 
+
 def align_toks(t1, t2):
     sm = SequenceMatcher(None, [t.tok for t in t1], [t.tok for t in t2])
-    return sm.get_matching_blocks()
+    return get_also_non_matching_blocks(sm.get_matching_blocks())
 
 
 # def tokenise_file(fn, v):
@@ -275,7 +299,8 @@ def objectify(soup, v):
         else:
             sys.stderr.write(u"Unnumbered section: «{}»\n"\
                     .format(sec.h1.text))
-        for para in sec("p", recursive=False):  # ‘dangling’ paragraphs in preamble
+        for para in sec("p", recursive=False):
+            # ‘dangling’ paragraphs in preamble
             sec_tree.children.append(para)
         for art in sec("div", level=1, recursive=False):
             art_tree = Article(art.h2)
@@ -293,7 +318,8 @@ def objectify(soup, v):
                     para["number"] = i
                     art_tree.children.append(para.contents)
             else:
-                for para in art("p", recursive=False):  # ‘dangling’ paragraphs in preamble
+                for para in art("p", recursive=False):
+                    # ‘dangling’ paragraphs in preamble
                     para.name = "para"
                     art_tree.children.append(para)
             sec_tree.children.append(art_tree)
@@ -304,7 +330,7 @@ def objectify(soup, v):
 # - convert all Article.children to text
 # - diff/merge them and the Rest into "Masters"
 
-# h_trees = []
+
 o_trees = []
 
 
@@ -313,10 +339,11 @@ for v in versionen:
         print "V: ", v
         soup = soupify_file(fn, v)
         semantic_soup = arborify(soup)
-        # h_trees.append(semantic_soup)
         o_trees.append(objectify(semantic_soup, v))
-
-        # f_toks.append(tokenise_file(fn, v))
+    for (o1, o2) in zip(o_trees[:-1], o_trees[1:]):
+        aligned = align_toks(o1, o2)
+        for bp in aligned:
+            pass
 
 
 # print f_toks
@@ -329,6 +356,3 @@ for v in versionen:
 #   - nur in i-a: to_v = i-1
 
 # - Graphisieren
-
-
-
