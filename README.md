@@ -74,7 +74,7 @@ Wer direkt ein fertiges **Repository mit allen Gesetzesänderungen** und/oder **
 
 ## Mitwirken und Entwicklung
 
-Wir sind immer auf der Suche nach Menschen und Maschinen, die uns tatkräftig unterstützen wollen -- sei es durch kreative Mithilfe, Spenden von Dienst- oder Sachleistungen. Melde Dich, wenn Du Dich für die "Befreiung Deiner Grundrechte" interessierst ;-)
+Wir sind ständig auf der Suche nach Menschen und Maschinen, die uns tatkräftig unterstützen möchten -- sei es durch kreative Mithilfe, Spenden von Dienst- oder Sachleistungen. Melde Dich, wenn Du Dich für die "Befreiung Deiner Grundrechte" interessierst ;-)
 
 Hast Du eine tolle Idee, was wir unbedingt umsetzen sollten? Hast Du einen Fehler gefunden? Hast Du Vorschläge, wie wir etwas besser machen können? Wir benutzen den [GitHub-eigenen Issue Tracker](https://github.com/bheisig/grundgesetz-dev/issues) für jegliche Anfragen solcher Art.
 
@@ -88,11 +88,6 @@ Hast Du eine tolle Idee, was wir unbedingt umsetzen sollten? Hast Du einen Fehle
 
 ##  Roadmap/ToDo
 
-*   Website mit Community-Funktionen
-    *   Browsing
-    *   Diffs
-    *   Kommentierung
-    *   Änderungsvorschläge
 *   Logo
 *   Historie rund um den Vertrag von Lissabon
     *   Inkrafttreten von Änderung 53
@@ -117,23 +112,26 @@ Hast Du eine tolle Idee, was wir unbedingt umsetzen sollten? Hast Du einen Fehle
 
 ##  Mitwirkende
 
+Hinter DocPatch stehen Freiwillige, die sich in ihrer Freizeit tatkräftig einsetzen:
+
 *   Initiiert durch eine Diskussion zwischen Hauro und [Lars Sobiraj](http://lars-sobiraj.de/)
-*   Erste wichtige Schritte durch [Benjamin Heisig](https://benjamin.heisig.name/), Björn und Hauro
+*   Erste wichtige Schritte durch [Benjamin Heisig](http://benjamin.heisig.name/), Björn und Hauro
 *   Software von Benjamin Heisig
 *   Patch-Marathon mit Benjamin Heisig, Gammlaa und Schnitzel
+*   Webseite von Benjamin Heisig, Haggis McMutton und Schnitzel
 *   Öffentlichkeitsarbeit durch Lars Sobiraj
-*   Mit vielen Ideen aus dem Umfeld von [Chaospott Essen](http://chaospott.de/) und [foobar e. V.](https://wiki.die-foobar.de/)
+*   Mit vielen Ideen aus dem Umfeld von [Chaospott Essen](http://chaospott.de/) und [foobar e. V.](http://wiki.die-foobar.de/)
 
 
 ##  Kontakt
 
-Wer mit uns in Kontakt treten möchte, möge sich bitte direkt an [Benjamin Heisig](https://benjamin.heisig.name/) wenden oder indirekt die üblichen [Kommunikationskanäle des Chaospott Essen](https://wiki.die-foobar.de/wiki/Foobar) bemühen.
+Wer mit uns in Kontakt treten möchte, möge sich bitte direkt an [Benjamin Heisig](http://benjamin.heisig.name/) wenden oder indirekt die üblichen [Kommunikationskanäle des Chaospott Essen](http://wiki.die-foobar.de/wiki/Foobar) bemühen.
 
 
 ##  Siehe auch
 
 *   _DocPatch_:
-    *   Website: <https://wiki.die-foobar.de/wiki/DocPatch>
+    *   Website: <http://wiki.die-foobar.de/wiki/DocPatch>
     *   Tools auf GitHub: <https://github.com/bheisig/DocPatch>
 *   Grundgesetz für die Bundesrepublik Deutschland:
     *   Artikel auf Wikipedia "Grundgesetz für die Bundesrepublik Deutschland": <https://de.wikipedia.org/wiki/Grundgesetz_f%C3%BCr_die_Bundesrepublik_Deutschland>
