@@ -18,15 +18,18 @@
             "signedOffBy": [
                 {
                     "name": "Konrad Adenauer",
-                    "role": "Präsident des Parlamentarischen Rates"
+                    "role": "Präsident des Parlamentarischen Rates",
+                    "uri": "http://de.wikipedia.org/wiki/Konrad Adenauer"
                 },
                 {
                     "name": "Adolph Schönfelder",
-                    "role": "1. Vizepräsident"
+                    "role": "1. Vizepräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Adolph Schönfelder"
                 },
                 {
                     "name": "Hermann Schäfer",
-                    "role": "2. Vizepräsident"
+                    "role": "2. Vizepräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Hermann Schäfer"
                 }
             ],
             "sources": [
@@ -47,11 +50,13 @@
             "signedOffBy": [
                 {
                     "name": "Theodor Heuss",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Theodor Heuss"
                 },
                 {
                     "name": "Konrad Adenauer",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Konrad Adenauer"
                 },
                 {
                     "name": "Thomas Dehler",
@@ -80,11 +85,13 @@
             "signedOffBy": [
                 {
                     "name": "Theodor Heuss",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Theodor Heuss"
                 },
                 {
                     "name": "Adenauer",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Konrad Adenauer"
                 },
                 {
                     "name": "Thomas Dehler",
@@ -118,7 +125,8 @@
             "signedOffBy": [
                 {
                     "name": "Theodor Heuss",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Theodor Heuss"
                 },
                 {
                     "name": "Franz Blücher",
@@ -160,7 +168,8 @@
             "signedOffBy": [
                 {
                     "name": "Theodor Heuss",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Theodor Heuss"
                 },
                 {
                     "name": "Franz Blücher",
@@ -172,7 +181,8 @@
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 }
             ],
             "sources": [
@@ -202,11 +212,13 @@
             "signedOffBy": [
                 {
                     "name": "Theodor Heuss",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Theodor Heuss"
                 },
                 {
                     "name": "Konrad Adenauer",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Konrad Adenauer"
                 },
                 {
                     "name": "Franz Blücher",
@@ -214,7 +226,8 @@
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 },
                 {
                     "name": "Fritz Neumayer",
@@ -248,11 +261,13 @@
             "signedOffBy": [
                 {
                     "name": "Theodor Heuss",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Theodor Heuss"
                 },
                 {
                     "name": "Konrad Adenauer",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Konrad Adenauer"
                 },
                 {
                     "name": "Fritz Schäffer",
@@ -282,19 +297,23 @@
             "signedOffBy": [
                 {
                     "name": "Theodor Heuss",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Theodor Heuss"
                 },
                 {
                     "name": "Konrad Adenauer",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Konrad Adenauer"
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister des Innern (für den Bundesminister der Justiz)"
+                    "role": "Bundesminister des Innern (für den Bundesminister der Justiz)",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 },
                 {
                     "name": "Theodor Blank",
@@ -328,7 +347,8 @@
             "signedOffBy": [
                 {
                     "name": "Theodor Heuss",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Theodor Heuss"
                 },
                 {
                     "name": "Franz Blücher",
@@ -340,7 +360,8 @@
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 },
                 {
                     "name": "Hans-Joachim von Merkatz",
@@ -374,11 +395,13 @@
             "signedOffBy": [
                 {
                     "name": "Theodor Heuss",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Theodor Heuss"
                 },
                 {
                     "name": "Konrad Adenauer",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Konrad Adenauer"
                 },
                 {
                     "name": "Fritz Schäffer",
@@ -386,7 +409,8 @@
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 },
                 {
                     "name": "Hans-Joachim von Merkatz",
@@ -421,11 +445,13 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Konrad Adenauer",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Konrad Adenauer"
                 },
                 {
                     "name": "Siegfried Balke",
@@ -433,11 +459,13 @@
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister des Innern (für den Bundesminister der Justiz)"
+                    "role": "Bundesminister des Innern (für den Bundesminister der Justiz)",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 }
             ],
             "sources": [
@@ -462,11 +490,13 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Konrad Adenauer",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Konrad Adenauer"
                 },
                 {
                     "name": "Hans-Christoph Seebohm",
@@ -474,7 +504,8 @@
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 },
                 {
                     "name": "Fritz Schäffler",
@@ -509,11 +540,13 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Ludwig Erhard",
-                    "role": "Stellvertreter des Bundeskanzlers"
+                    "role": "Stellvertreter des Bundeskanzlers",
+                    "uri": "http://de.wikipedia.org/wiki/Ludwig Erhard"
                 },
                 {
                     "name": "Fritz Schäffler",
@@ -521,7 +554,8 @@
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 },
                 {
                     "name": "Franz Josef Strauß",
@@ -555,11 +589,13 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Ludwig Erhard",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Ludwig Erhard"
                 },
                 {
                     "name": "Hermann Höcherl",
@@ -588,7 +624,8 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Erich Mende",
@@ -629,11 +666,13 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Kurt Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Karl Schiller",
@@ -649,7 +688,8 @@
                 },
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundesminister der Justiz"
+                    "role": "Bundesminister der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 }
             ],
             "sources": [
@@ -687,19 +727,23 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Kurt Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundesminister der Justiz"
+                    "role": "Bundesminister der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundesminister der Justiz (für den Bundesminister des Innern)"
+                    "role": "Bundesminister der Justiz (für den Bundesminister des Innern)",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Franz Josef Strauß",
@@ -745,11 +789,13 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Ernst Benda",
@@ -757,7 +803,8 @@
                 },
                 {
                     "name": "Dr. Gustav Heinemann",
-                    "role": "Bundesminister der Justiz"
+                    "role": "Bundesminister der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Hans Katzer",
@@ -765,7 +812,8 @@
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundesminister der Verteidigung"
+                    "role": "Bundesminister der Verteidigung",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
                 },
                 {
                     "name": "Carlo Schmid",
@@ -801,11 +849,13 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Kurt Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Ernst Benda",
@@ -817,7 +867,8 @@
                 },
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundesminister der Justiz"
+                    "role": "Bundesminister der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 }
             ],
             "sources": [
@@ -849,15 +900,18 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Kurt Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundesminister der Justiz"
+                    "role": "Bundesminister der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Ernst Benda",
@@ -893,11 +947,13 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Ernst Benda",
@@ -944,11 +1000,13 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Hurt Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Franz Josef Strauß",
@@ -986,11 +1044,13 @@
             "signedOffBy": [
                 {
                     "name": "Heinrich Lübke",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Heinrich Lübke"
                 },
                 {
                     "name": "Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Ernst Benda",
@@ -1032,11 +1092,13 @@
             "signedOffBy": [
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Ernst Benda",
@@ -1080,11 +1142,13 @@
             "signedOffBy": [
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Ernst Benda",
@@ -1128,11 +1192,13 @@
             "signedOffBy": [
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Ernst Benda",
@@ -1180,11 +1246,13 @@
             "signedOffBy": [
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Georg Kiesinger",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
                 },
                 {
                     "name": "Ernst Benda",
@@ -1224,15 +1292,18 @@
             "signedOffBy": [
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Willy Brand",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Willy Brand"
                 },
                 {
                     "name": "Hans-Dietrich Genscher",
-                    "role": "Bundesminister des Inneren"
+                    "role": "Bundesminister des Inneren",
+                    "uri": "http://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
                 }
             ],
             "sources": [
@@ -1267,15 +1338,18 @@
             "signedOffBy": [
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Willy Brand",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Willy Brand"
                 },
                 {
                     "name": "Hans-Dietrich Genscher",
-                    "role": "Bundesminister des Inneren"
+                    "role": "Bundesminister des Inneren",
+                    "uri": "http://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
                 },
                 {
                     "name": "Gerhard Jahn",
@@ -1315,15 +1389,18 @@
                 },
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Willy Brand",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Willy Brand"
                 },
                 {
                     "name": "Hans-Dietrich Genscher",
-                    "role": "Bundesminister des Inneren"
+                    "role": "Bundesminister des Inneren",
+                    "uri": "http://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
                 },
                 {
                     "name": "Gerhard Jahn",
@@ -1363,15 +1440,18 @@
                 },
                 {
                     "name": "Gustav Heinemann",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
                 {
                     "name": "Willy Brand",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Willy Brand"
                 },
                 {
                     "name": "Hans-Dietrich Genscher",
-                    "role": "Bundesminister des Inneren"
+                    "role": "Bundesminister des Inneren",
+                    "uri": "http://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
                 },
                 {
                     "name": "Gerhard Jahn",
@@ -1415,11 +1495,13 @@
                 },
                 {
                     "name": "Willy Brand",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Willy Brand"
                 },
                 {
                     "name": "Hans-Dietrich Genscher",
-                    "role": "Bundesminister des Inneren"
+                    "role": "Bundesminister des Inneren",
+                    "uri": "http://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
                 },
                 {
                     "name": "Gerhard Jahn",
@@ -1455,11 +1537,13 @@
             "signedOffBy": [
                 {
                     "name": "Walter Scheel",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Walter Scheel"
                 },
                 {
                     "name": "Helmut Schmidt",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Schmidt"
                 },
                 {
                     "name": "Werner Maihofer",
@@ -1506,7 +1590,8 @@
                 },
                 {
                     "name": "Hans-Dietrich Genscher",
-                    "role": "Stellvertreter des Bundeskanzlers"
+                    "role": "Stellvertreter des Bundeskanzlers",
+                    "uri": "http://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
                 },
                 {
                     "name": "Werner Maihofer",
@@ -1550,7 +1635,8 @@
                 },
                 {
                     "name": "Hans-Dietrich Genscher",
-                    "role": "Stellvertreter des Bundeskanzlers"
+                    "role": "Stellvertreter des Bundeskanzlers",
+                    "uri": "http://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
                 },
                 {
                     "name": "Werner Maihofer",
@@ -1590,11 +1676,13 @@
             "signedOffBy": [
                 {
                     "name": "Karl Carstens",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Karl Carstens"
                 },
                 {
                     "name": "Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Friedrich Zimmermann",
@@ -1640,15 +1728,18 @@
             "signedOffBy": [
                 {
                     "name": "Richard von Weizsäcker",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Richard von Weizsäcker"
                 },
                 {
                     "name": "Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Wolfgang Schäuble",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Wolfgang Schäuble"
                 }
             ],
             "sources": [
@@ -1680,11 +1771,13 @@
             "signedOffBy": [
                 {
                     "name": "Richard von Weizsäcker",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Richard von Weizsäcker"
                 },
                 {
                     "name": "Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Rudolf Seiters",
@@ -1692,7 +1785,8 @@
                 },
                 {
                     "name": "Sabine Leutheusser-Schnarrenberger",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
                 },
                 {
                     "name": "Günther Krause",
@@ -1731,11 +1825,13 @@
             "signedOffBy": [
                 {
                     "name": "Richard von Weizsäcker",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Richard von Weizsäcker"
                 },
                 {
                     "name": "Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Rudolf Seiters",
@@ -1747,7 +1843,8 @@
                 },
                 {
                     "name": "Sabine Leutheusser-Schnarrenberger",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
                 },
                 {
                     "name": "Theodor Waigel",
@@ -1790,11 +1887,13 @@
             "signedOffBy": [
                 {
                     "name": "Richard von Weizsäcker",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Richard von Weizsäcker"
                 },
                 {
                     "name": "Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Rudolf Seiters",
@@ -1802,7 +1901,8 @@
                 },
                 {
                     "name": "Sabine Leutheusser-Schnarrenberger",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
                 }
             ],
             "sources": [
@@ -1837,11 +1937,13 @@
             "signedOffBy": [
                 {
                     "name": "Richard von Weizsäcker",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Richard von Weizsäcker"
                 },
                 {
                     "name": "Dr. Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Matthias Wissmann",
@@ -1853,7 +1955,8 @@
                 },
                 {
                     "name": "Sabine Leutheusser-Schnarrenberger",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
                 },
                 {
                     "name": "Theo Waigel",
@@ -1892,11 +1995,13 @@
             "signedOffBy": [
                 {
                     "name": "Roman Herzog",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
                     "name": "Dr. Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Wolfgang Bötsch",
@@ -1908,7 +2013,8 @@
                 },
                 {
                     "name": "Sabine Leutheusser-Schnarrenberger",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
                 },
                 {
                     "name": "Theo Waigel",
@@ -1947,15 +2053,18 @@
             "signedOffBy": [
                 {
                     "name": "Roman Herzog",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
                     "name": "Dr. Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Sabina Leutheusser-Schnarrenberger",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
                 },
                 {
                     "name": "Theo Waigel",
@@ -1991,11 +2100,13 @@
             "signedOffBy": [
                 {
                     "name": "Roman Herzog",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
                     "name": "Dr. Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Theo Waigel",
@@ -2007,7 +2118,8 @@
                 },
                 {
                     "name": "Sabina Leutheusser-Schnarrenberger",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
                 }
             ],
             "sources": [
@@ -2039,11 +2151,13 @@
             "signedOffBy": [
                 {
                     "name": "Roman Herzog",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
                     "name": "Dr. Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Theo Waigel",
@@ -2087,11 +2201,13 @@
             "signedOffBy": [
                 {
                     "name": "Roman Herzog",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
                     "name": "Dr. Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Schmidt-Jortzig",
@@ -2130,11 +2246,13 @@
             "signedOffBy": [
                 {
                     "name": "Roman Herzog",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
                     "name": "Dr. Helmut Kohl",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Kanther",
@@ -2174,11 +2292,13 @@
             "signedOffBy": [
                 {
                     "name": "Johannes Rau",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Johannes Rau"
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder"
                 },
                 {
                     "name": "Müller",
@@ -2214,19 +2334,23 @@
             "signedOffBy": [
                 {
                     "name": "Johannes Rau",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Johannes Rau"
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder"
                 },
                 {
                     "name": "Däubler-Gmelin",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Herta Däubler-Gmelin"
                 },
                 {
                     "name": "Schily",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Otto Schily"
                 }
             ],
             "sources": [
@@ -2258,23 +2382,28 @@
             "signedOffBy": [
                 {
                     "name": "Johannes Rau",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Johannes Rau"
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder"
                 },
                 {
                     "name": "Hans Eichel",
-                    "role": "Bundesminister der Finanzen"
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "http://de.wikipedia.org/wiki/Hans Eichel"
                 },
                 {
                     "name": "Schily",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Otto Schily"
                 },
                 {
                     "name": "Däubler-Gmelin",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Herta Däubler-Gmelin"
                 }
             ],
             "sources": [
@@ -2306,19 +2435,23 @@
             "signedOffBy": [
                 {
                     "name": "Johannes Rau",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Johannes Rau"
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder"
                 },
                 {
                     "name": "Schily",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Otto Schily"
                 },
                 {
                     "name": "Däubler Gmelin",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Herta Däubler-Gmelin"
                 }
             ],
             "sources": [
@@ -2350,15 +2483,18 @@
             "signedOffBy": [
                 {
                     "name": "Johannes Rau",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Johannes Rau"
                 },
                 {
                     "name": "Gerhard Schröder",
-                    "role": "Bundeskanzler"
+                    "role": "Bundeskanzler",
+                    "uri": "http://de.wikipedia.org/wiki/Gerhard Schröder"
                 },
                 {
                     "name": "Däubler-Gmelin",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Herta Däubler-Gmelin"
                 }
             ],
             "sources": [
@@ -2396,23 +2532,28 @@
             "signedOffBy": [
                 {
                     "name": "Horst Köhler",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
                     "name": "Dr. Angela Merkel",
-                    "role": "Bundeskanzlerin"
+                    "role": "Bundeskanzlerin",
+                    "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
                 {
                     "name": "Wolfgang Schäuble",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Wolfgang Schäuble"
                 },
                 {
                     "name": "Brigitte Zypries",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Brigitte Zypries"
                 },
                 {
                     "name": "Peer Steinbrück",
-                    "role": "Bundesminister der Finanzen"
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "http://de.wikipedia.org/wiki/Peer Steinbrück"
                 }
             ],
             "sources": [
@@ -2450,19 +2591,23 @@
             "signedOffBy": [
                 {
                     "name": "Horst Köhler",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
                     "name": "Dr. Angela Merkel",
-                    "role": "Bundeskanzlerin"
+                    "role": "Bundeskanzlerin",
+                    "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
                 {
                     "name": "Wolfgang Schäuble",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Wolfgang Schäuble"
                 },
                 {
                     "name": "Brigitte Zypries",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Brigitte Zypries"
                 }
             ],
             "sources": [
@@ -2497,23 +2642,28 @@
             "signedOffBy": [
                 {
                     "name": "Horst Köhler",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
                     "name": "Dr. Angela Merkel",
-                    "role": "Bundeskanzlerin"
+                    "role": "Bundeskanzlerin",
+                    "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
                 {
                     "name": "Wolfgang Schäuble",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Wolfgang Schäuble"
                 },
                 {
                     "name": "Brigitte Zypries",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Brigitte Zypries"
                 },
                 {
                     "name": "Peer Steinbrück",
-                    "role": "Bundesminister der Finanzen"
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "http://de.wikipedia.org/wiki/Peer Steinbrück"
                 }
             ],
             "sources": [
@@ -2545,19 +2695,23 @@
             "signedOffBy": [
                 {
                     "name": "Horst Köhler",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
                     "name": "Dr. Angela Merkel",
-                    "role": "Bundeskanzlerin"
+                    "role": "Bundeskanzlerin",
+                    "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
                 {
                     "name": "Wolfgang Schäuble",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Wolfgang Schäuble"
                 },
                 {
                     "name": "Brigitte Zypries",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Brigitte Zypries"
                 }
             ],
             "sources": [
@@ -2589,19 +2743,23 @@
             "signedOffBy": [
                 {
                     "name": "Horst Köhler",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
                     "name": "Dr. Angela Merkel",
-                    "role": "Bundeskanzlerin"
+                    "role": "Bundeskanzlerin",
+                    "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
                 {
                     "name": "Wolfgang Schäuble",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Wolfgang Schäuble"
                 },
                 {
                     "name": "Brigitte Zypries",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Brigitte Zypries"
                 },
                 {
                     "name": "Wolfgang Tiefensee",
@@ -2640,23 +2798,28 @@
             "signedOffBy": [
                 {
                     "name": "Horst Köhler",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
                     "name": "Angela Merkel",
-                    "role": "Bundeskanlerin"
+                    "role": "Bundeskanlerin",
+                    "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
                 {
                     "name": "Wolfgang Schäuble",
-                    "role": "Bundesminister des Inneren"
+                    "role": "Bundesminister des Inneren",
+                    "uri": "http://de.wikipedia.org/wiki/Wolfgang Schäuble"
                 },
                 {
                     "name": "Brigitte Zypris",
-                    "role": "Bundesministerin des Justiz"
+                    "role": "Bundesministerin des Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Brigitte Zypris"
                 },
                 {
                     "name": "Peer Steinbrück",
-                    "role": "Bundesminister der Finanzen"
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "http://de.wikipedia.org/wiki/Peer Steinbrück"
                 }
             ],
             "date": "2009-07-29",
@@ -2686,19 +2849,23 @@
                 },
                 {
                     "name": "Dr. Angela Merkel",
-                    "role": "Bundeskanzlerin"
+                    "role": "Bundeskanzlerin",
+                    "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
                 {
                     "name": "Thomas de Maizière",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Thomas de Maizière"
                 },
                 {
                     "name": "Sabine Leutheusser-Schnarrenberger",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
                 },
                 {
                     "name": "Ursula von der Leyen",
-                    "role": "Bundesministerin für Arbeit und Soziales"
+                    "role": "Bundesministerin für Arbeit und Soziales",
+                    "uri": "http://de.wikipedia.org/wiki/Ursula von der Leyen"
                 }
             ],
             "date": "2010-07-21",
@@ -2724,19 +2891,23 @@
             "signedOffBy": [
                 {
                     "name": "Joachim Gauck",
-                    "role": "Bundespräsident"
+                    "role": "Bundespräsident",
+                    "uri": "http://de.wikipedia.org/wiki/Joachim Gauck"
                 },
                 {
                     "name": "Dr. Angela Merkel",
-                    "role": "Bundeskanzlerin"
+                    "role": "Bundeskanzlerin",
+                    "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
                 {
                     "name": "Sabine Leutheusser-Schnarrenberger",
-                    "role": "Bundesministerin der Justiz"
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
                 },
                 {
                     "name": "Hans-Peter Friedrich",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Hans-Peter Friedrich"
                 }
             ],
             "date": "2012-07-11",
