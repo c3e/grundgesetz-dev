@@ -73,7 +73,10 @@
             "date": "1951-08-30",
             "announced": "1951-08-31",
             "effectiveSince": "1951-08-31",
-            "electionPeriod": "1",
+            "legislativeSession": {
+                "id": "1",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1949"
+            },
             "initiativeOf": "Regierungsvorlage"
         },
         {
@@ -108,7 +111,10 @@
             "date": "1952-08-14",
             "announced": "1952-08-18",
             "effectiveSince": "1952-08-18",
-            "electionPeriod": "1",
+            "legislativeSession": {
+                "id": "1",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1949"
+            },
             "votes": {
                 "yes": "303",
                 "no": "18",
@@ -155,7 +161,10 @@
             "date": "1953-04-20",
             "announced": "1953-04-22",
             "effectiveSince": "1953-04-23",
-            "electionPeriod": "1",
+            "legislativeSession": {
+                "id": "1",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1949"
+            },
             "initiativeOf": "Regierungsvorlage"
         },
         {
@@ -195,7 +204,10 @@
             "date": "1954-03-26",
             "announced": "1954-03-27",
             "effectiveSince": "1954-03-28",
-            "electionPeriod": "2",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
             "votes": {
                 "yes": "334",
                 "no": "144",
@@ -244,7 +256,10 @@
             "date": "1954-12-25",
             "announced": "1954-12-30",
             "effectiveSince": "1954-12-31",
-            "electionPeriod": "2",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
             "votes": {
                 "yes": "421",
                 "no": "0",
@@ -284,7 +299,10 @@
             "date": "1955-12-23",
             "announced": "1955-12-28",
             "effectiveSince": "1956-04-01",
-            "electionPeriod": "2",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
             "initiativeOf": "Regierungsvorlage"
         },
         {
@@ -330,7 +348,10 @@
             "date": "1956-03-19",
             "announced": "1956-03-21",
             "effectiveSince": "1956-03-22",
-            "electionPeriod": "2",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
             "votes": {
                 "yes": "390",
                 "no": "20",
@@ -378,7 +399,10 @@
             "date": "1956-12-24",
             "announced": "1956-12-29",
             "effectiveSince": "1958-04-01",
-            "electionPeriod": "2",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
             "votes": {
                 "yes": "376",
                 "no": "1",
@@ -427,7 +451,10 @@
             "date": "1957-10-22",
             "announced": "1957-10-26",
             "effectiveSince": "1957-10-27",
-            "electionPeriod": "2",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
             "votes": {
                 "yes": "407",
                 "no": "54",
@@ -478,7 +505,10 @@
             "date": "1959-12-23",
             "announced": "1959-12-31",
             "effectiveSince": "1960-01-01",
-            "electionPeriod": "3",
+            "legislativeSession": {
+                "id": "3",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1957"
+            },
             "initiativeOf": "SPD"
         },
         {
@@ -522,7 +552,10 @@
             "date": "1961-02-06",
             "announced": "1961-02-15",
             "effectiveSince": "1961-02-16",
-            "electionPeriod": "3",
+            "legislativeSession": {
+                "id": "3",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1957"
+            },
             "votes": {
                 "yes": "368",
                 "no": "0",
@@ -572,7 +605,10 @@
             "date": "1961-03-06",
             "announced": "1961-03-11",
             "effectiveSince": "1961-03-12",
-            "electionPeriod": "3",
+            "legislativeSession": {
+                "id": "3",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1957"
+            },
             "votes": {
                 "yes": "410",
                 "no": "0",
@@ -612,7 +648,10 @@
             "date": "1965-06-16",
             "announced": "1965-06-26",
             "effectiveSince": "1965-06-27",
-            "electionPeriod": "4",
+            "legislativeSession": {
+                "id": "4",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1961"
+            },
             "initiativeOf": "Regierungsvorlage"
         },
         {
@@ -654,7 +693,10 @@
             "date": "1965-07-30",
             "announced": "1965-08-05",
             "effectiveSince": "1965-08-05",
-            "electionPeriod": "4",
+            "legislativeSession": {
+                "id": "4",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1961"
+            },
             "initiativeOf": "Regierungsvorlage"
         },
         {
@@ -702,7 +744,10 @@
             "date": "1967-06-08",
             "announced": "1967-06-13",
             "effectiveSince": "1967-06-14",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": {
                 "yes": "336",
                 "no": "0",
@@ -764,7 +809,10 @@
             "date": "1968-06-18",
             "announced": "1968-06-22",
             "effectiveSince": "1968-06-23",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": {
                 "yes": "362",
                 "no": "0",
@@ -830,7 +878,10 @@
             "date": "1968-06-24",
             "announced": "1968-06-27",
             "effectiveSince": "1968-06-28",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": {
                 "yes": "384",
                 "no": "100",
@@ -881,7 +932,10 @@
             "date": "1968-11-15",
             "announced": "1968-11-19",
             "effectiveSince": "1968-11-20",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": {
                 "yes": "391",
                 "no": "0",
@@ -928,7 +982,10 @@
             "date": "1969-05-12",
             "announced": "1969-05-14",
             "effectiveSince": "1969-05-15",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": {
                 "yes": "371",
                 "no": "0",
@@ -978,7 +1035,10 @@
             "date": "1969-05-12",
             "announced": "1969-05-14",
             "effectiveSince": "1969-05-15",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": {
                 "yes": "354",
                 "no": "42",
@@ -1027,7 +1087,10 @@
             "date": "1969-05-12",
             "announced": "1969-05-14",
             "effectiveSince": "1970-01-01",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": [
 
             ],
@@ -1075,7 +1138,10 @@
             "date": "1969-05-12",
             "announced": "1969-05-14",
             "effectiveSince": "1969-05-15",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": [
 
             ],
@@ -1123,7 +1189,10 @@
             "date": "1969-07-17",
             "announced": "1969-07-22",
             "effectiveSince": "1969-07-23",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": {
                 "yes": "409",
                 "no": "0",
@@ -1173,7 +1242,10 @@
             "date": "1969-07-28",
             "announced": "1969-07-31",
             "effectiveSince": "1969-08-01",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": {
                 "yes": "346",
                 "no": "0",
@@ -1227,7 +1299,10 @@
             "date": "1969-08-19",
             "announced": "1969-08-22",
             "effectiveSince": "1969-08-23",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": {
                 "yes": "371",
                 "no": "6",
@@ -1273,7 +1348,10 @@
             "date": "1969-08-26",
             "announced": "1969-08-29",
             "effectiveSince": "1969-08-30",
-            "electionPeriod": "5",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
             "votes": {
                 "yes": "402",
                 "no": "0",
@@ -1316,7 +1394,10 @@
             "date": "1970-07-31",
             "announced": "1970-08-05",
             "effectiveSince": "1970-08-06",
-            "electionPeriod": "6",
+            "legislativeSession": {
+                "id": "6",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1969"
+            },
             "votes": {
                 "yes": "441",
                 "no": "0",
@@ -1366,7 +1447,10 @@
             "date": "1971-03-18",
             "announced": "1971-03-20",
             "effectiveSince": "1971-03-21",
-            "electionPeriod": "6",
+            "legislativeSession": {
+                "id": "6",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1969"
+            },
             "votes": {
                 "yes": "404",
                 "no": "16",
@@ -1417,7 +1501,10 @@
             "date": "1971-03-18",
             "announced": "1971-03-20",
             "effectiveSince": "1971-03-21",
-            "electionPeriod": "6",
+            "legislativeSession": {
+                "id": "6",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1969"
+            },
             "votes": {
                 "yes": "428",
                 "no": "7",
@@ -1468,7 +1555,10 @@
             "date": "1972-04-12",
             "announced": "1972-04-14",
             "effectiveSince": "1972-04-15",
-            "electionPeriod": "6",
+            "legislativeSession": {
+                "id": "6",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1969"
+            },
             "votes": {
                 "yes": "432",
                 "no": "0",
@@ -1518,7 +1608,10 @@
             "date": "1972-07-28",
             "announced": "1972-08-02",
             "effectiveSince": "1972-08-03",
-            "electionPeriod": "6",
+            "legislativeSession": {
+                "id": "6",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1969"
+            },
             "votes": {
                 "yes": "432",
                 "no": "1",
@@ -1564,7 +1657,10 @@
             "date": "1975-07-15",
             "announced": "1975-07-18",
             "effectiveSince": "1975-07-19",
-            "electionPeriod": "7",
+            "legislativeSession": {
+                "id": "7",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1972"
+            },
             "votes": {
                 "yes": "381",
                 "no": "0",
@@ -1612,7 +1708,10 @@
             "date": "1976-08-23",
             "announced": "1976-08-27",
             "effectiveSince": "1976-12-14 (Art. 39, Abs. 1 und 2; Art. 45; Art. 45a, Abs. 1, Satz 2; Art. 49)",
-            "electionPeriod": "7",
+            "legislativeSession": {
+                "id": "7",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1972"
+            },
             "votes": {
                 "yes": "336",
                 "no": "13",
@@ -1657,7 +1756,10 @@
             "date": "1976-08-23",
             "announced": "1976-08-27",
             "effectiveSince": "1976-08-28",
-            "electionPeriod": "7",
+            "legislativeSession": {
+                "id": "7",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1972"
+            },
             "votes": {
                 "yes": "374",
                 "no": "5",
@@ -1703,7 +1805,10 @@
             "date": "1983-12-21",
             "announced": "1983-12-23",
             "effectiveSince": "1984-01-01",
-            "electionPeriod": "10",
+            "legislativeSession": {
+                "id": "10",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1983"
+            },
             "votes": {
                 "yes": "453",
                 "no": "2",
@@ -1752,7 +1857,10 @@
             "date": "1990-09-23",
             "announced": "1990-09-28",
             "effectiveSince": "1990-09-29",
-            "electionPeriod": "11",
+            "legislativeSession": {
+                "id": "11",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1987"
+            },
             "votes": {
                 "yes": "440",
                 "no": "47",
@@ -1803,7 +1911,10 @@
             "date": "1992-07-14",
             "announced": "1992-07-21",
             "effectiveSince": "1992-07-22",
-            "electionPeriod": "12",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
             "votes": {
                 "yes": "556",
                 "no": "13",
@@ -1865,7 +1976,10 @@
             "date": "1992-12-21",
             "announced": "1992-12-24",
             "effectiveSince": "1992-12-25",
-            "electionPeriod": "12",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
             "votes": {
                 "yes": "547",
                 "no": "17",
@@ -1915,7 +2029,10 @@
             "date": "1993-06-28",
             "announced": "1993-06-29",
             "effectiveSince": "1993-06-30",
-            "electionPeriod": "12",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
             "votes": {
                 "yes": "521",
                 "no": "132",
@@ -1973,7 +2090,10 @@
             "date": "1993-12-20",
             "announced": "1993-12-22",
             "effectiveSince": "1993-12-23",
-            "electionPeriod": "12",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
             "votes": {
                 "yes": "558",
                 "no": "13",
@@ -2031,7 +2151,10 @@
             "date": "1994-09-02",
             "announced": "1994-08-30",
             "effectiveSince": "1994-09-03",
-            "electionPeriod": "12",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
             "votes": {
                 "yes": "470",
                 "no": "92",
@@ -2081,7 +2204,10 @@
             "date": "1994-10-27",
             "announced": "1994-11-03",
             "effectiveSince": "1994-11-15",
-            "electionPeriod": "12",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
             "votes": {
                 "yes": "571",
                 "no": "13",
@@ -2132,7 +2258,10 @@
             "date": "1995-11-03",
             "announced": "1995-11-10",
             "effectiveSince": "1995-11-11",
-            "electionPeriod": "13",
+            "legislativeSession": {
+                "id": "13",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1994"
+            },
             "votes": {
                 "yes": "541",
                 "no": "64",
@@ -2182,7 +2311,10 @@
             "date": "1997-10-20",
             "announced": "1997-10-24",
             "effectiveSince": "1997-10-25",
-            "electionPeriod": "13",
+            "legislativeSession": {
+                "id": "13",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1994"
+            },
             "votes": {
                 "yes": "618",
                 "no": "0",
@@ -2228,7 +2360,10 @@
             "passed": "1998-01-16",
             "announced": "1998-03-31",
             "effectiveSince": "1998-04-01",
-            "electionPeriod": "13",
+            "legislativeSession": {
+                "id": "13",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1994"
+            },
             "votes": {
                 "yes": "452",
                 "no": "184",
@@ -2273,7 +2408,10 @@
             "passed": "1998-05-28",
             "announced": "1998-07-22",
             "effectiveSince": "1998-10-27",
-            "electionPeriod": "13",
+            "legislativeSession": {
+                "id": "13",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1994"
+            },
             "votes": {
                 "yes": "613",
                 "no": "1",
@@ -2315,7 +2453,10 @@
             "passed": "2000-10-27",
             "announced": "2000-12-01",
             "effectiveSince": "2000-12-02",
-            "electionPeriod": "14",
+            "legislativeSession": {
+                "id": "14",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1998"
+            },
             "votes": {
                 "yes": "528",
                 "no": "1",
@@ -2363,7 +2504,10 @@
             "passed": "2000-10-27",
             "announced": "2000-12-22",
             "effectiveSince": "2000-12-23",
-            "electionPeriod": "14",
+            "legislativeSession": {
+                "id": "14",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1998"
+            },
             "votes": {
                 "yes": "512",
                 "no": "5",
@@ -2416,7 +2560,10 @@
             "passed": "2001-06-29",
             "announced": "2001-11-29",
             "effectiveSince": "2001-11-31",
-            "electionPeriod": "14",
+            "legislativeSession": {
+                "id": "14",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1998"
+            },
             "votes": {
                 "yes": "572",
                 "no": "1",
@@ -2464,7 +2611,10 @@
             "passed": "2002-05-27",
             "announced": "2002-07-31",
             "effectiveSince": "2002-08-01",
-            "electionPeriod": "14",
+            "legislativeSession": {
+                "id": "14",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1998"
+            },
             "votes": {
                 "yes": "542",
                 "no": "19",
@@ -2507,7 +2657,10 @@
             "passed": "2002-06-14",
             "announced": "2002-07-31",
             "effectiveSince": "2002-08-01",
-            "electionPeriod": "14",
+            "legislativeSession": {
+                "id": "14",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1998"
+            },
             "votes": {
                 "yes": "531",
                 "no": "0",
@@ -2566,7 +2719,10 @@
             "passed": "2006-06-30",
             "announced": "2006-08-31",
             "effectiveSince": "2006-09-01",
-            "electionPeriod": "16",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
             "votes": {
                 "yes": "428",
                 "no": "161",
@@ -2620,7 +2776,10 @@
             "passed": "2009-04-24",
             "announced": "2008-10-16",
             "effectiveSince": "2009-12-01",
-            "electionPeriod": "16",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
             "votes": {
                 "yes": "519",
                 "no": "8",
@@ -2676,7 +2835,10 @@
             "passed": "2009-02-13",
             "announced": "2009-03-25",
             "effectiveSince": "2009-07-01",
-            "electionPeriod": "16",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
             "votes": {
                 "yes": "562",
                 "no": "0",
@@ -2724,7 +2886,10 @@
             "passed": "2009-05-29",
             "announced": "2009-07-22",
             "effectiveSince": "2009-07-23",
-            "electionPeriod": "16",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
             "votes": {
                 "yes": "445",
                 "no": "54",
@@ -2776,7 +2941,10 @@
             "date": "2009-05-29",
             "announced": "2009-07-31",
             "effectiveSince": "2009-08-01",
-            "electionPeriod": "16",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
             "votes": {
                 "yes": "459",
                 "no": "59",
@@ -2826,7 +2994,10 @@
             "passed": "2009-05-29",
             "announced": "2009-07-31",
             "effectiveSince": "2009-08-01",
-            "electionPeriod": "16",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
             "votes": {
                 "yes": "418",
                 "no": "109",
@@ -2872,7 +3043,10 @@
             "passed": "FIXME",
             "announced": "2010-07-26",
             "effectiveSince": "FIXME",
-            "electionPeriod": "FIXME",
+            "legislativeSession": {
+                "id": "17",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_2009"
+            },
             "votes": {
                 "yes": "FIXME",
                 "no": "FIXME",
@@ -2914,7 +3088,10 @@
             "passed": "FIXME",
             "announced": "2012-07-16",
             "effectiveSince": "2012-07-17",
-            "electionPeriod": "FIXME",
+            "legislativeSession": {
+                "id": "17",
+                "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_2009"
+            },
             "votes": {
                 "yes": "FIXME",
                 "no": "FIXME",
