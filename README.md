@@ -119,6 +119,7 @@ Hinter DocPatch stehen Freiwillige, die sich in ihrer Freizeit tatkräftig einse
 *   Software von Benjamin Heisig
 *   Patch-Marathon mit Benjamin Heisig, Gammlaa und Schnitzel
 *   Webseite von Benjamin Heisig, Haggis McMutton und Schnitzel
+*   Zahlreiche Vorschläge und Verbesserungen von Bernhard Físseni
 *   Öffentlichkeitsarbeit durch Lars Sobiraj
 *   Mit vielen Ideen aus dem Umfeld von [Chaospott Essen](http://chaospott.de/) und [foobar e. V.](http://wiki.die-foobar.de/)
 
