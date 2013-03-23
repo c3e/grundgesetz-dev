@@ -3082,7 +3082,9 @@
                 "yes": 510,
                 "no": 0,
                 "abstentions": 66,
-                "notVoted": 44
+                "notVoted": 44,
+                "invalid": 0,
+                "uri": "http://www.bundestag.de/bundestag/plenum/abstimmung/2012/20120524.pdf"
             },
             "initiativeOf": "CDU/CSU, SPD, FPD, B’90/Grüne"
         }
