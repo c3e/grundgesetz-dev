@@ -3034,11 +3034,20 @@
                 }
             ],
             "date": "2010-07-21",
+            "passed": "2010-06-17",
             "announced": "2010-07-26",
             "legislativeSession": {
                 "id": "17",
                 "uri": "http://de.wikipedia.org/wiki/Bundestagswahl_2009"
-            }
+            },
+            "votes": {
+				"yes": 515,
+				"no": 71,
+				"abstentions": 0,
+				"notVoted": 36,
+				"uri": "http://www.bundestag.de/bundestag/plenum/abstimmung/grafik/index.jsp"
+				},
+			"initiativeOf": "CDU/CSU, SPD, FDP"
         },
         {
             "id": 59,
