@@ -2720,7 +2720,8 @@
             "votes": {
                 "yes": 428,
                 "no": 161,
-                "abstentions": 3
+                "abstentions": 3,
+                "uri": "http://dip21.bundestag.de/dip21/btp/16/16044.pdf"
             },
             "initiativeOf": "CDU/CSU, SPD"
         },
@@ -2767,7 +2768,7 @@
                 }
             ],
             "date": "2008-10-08",
-            "passed": "2009-04-24",
+            "passed": "2008-04-24",
             "announced": "2008-10-16",
             "effectiveSince": "2009-12-01",
             "legislativeSession": {
@@ -2778,6 +2779,7 @@
                 "yes": 519,
                 "no": 8,
                 "abstentions": 49
+                "uri": "http://dip21.bundestag.de/dip21/btp/16/16157.pdf"
             },
             "initiativeOf": "CDU/CSU, SPD, Bündnis 90/Die Grünen"
         },
