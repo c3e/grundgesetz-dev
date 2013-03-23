@@ -128,6 +128,12 @@ Hinter DocPatch stehen Freiwillige, die sich in ihrer Freizeit tatkräftig einse
 Wer mit uns in Kontakt treten möchte, möge sich bitte direkt an [Benjamin Heisig](http://benjamin.heisig.name/) wenden oder indirekt die üblichen [Kommunikationskanäle des Chaospott Essen](http://wiki.die-foobar.de/wiki/Foobar) bemühen.
 
 
+##  Sonstiges
+
+*   Der aktuelle Gesetzestext trotzt der Rechtschreibreform von 1996 und verwendet sowohl die alte als auch die neue deutsche Rechtschreibung nebeneinander.
+*   Das Entfernen von Artikeln durch das Ersetzen des Artikelinhalts durch "[aufgehoben]" weicht nur an einer Stelle ab: In der 12. Revision wird der Artikel 96 durch den Inhalt von 96a ersetzt und 96a vollständig entfernt.
+
+
 ##  Siehe auch
 
 *   _DocPatch_:
