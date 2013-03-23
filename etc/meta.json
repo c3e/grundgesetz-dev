@@ -2836,7 +2836,8 @@
             "votes": {
                 "yes": 562,
                 "no": 0,
-                "abstentions": 0
+                "abstentions": 0,
+                "uri": "http://dip21.bundestag.de/dip21/btp/16/16206.pdf"
             },
             "initiativeOf": "CDU/CSU, SPD"
         },
@@ -2887,7 +2888,7 @@
             "votes": {
                 "yes": 445,
                 "no": 54,
-                "abstentions": 29
+                "abstentions": 29,
                 "uri": "http://dip21.bundestag.de/dip21/btp/16/16225.pdf"
             },
             "initiativeOf": "CDU/CSU, SPD, FDP"
@@ -2943,7 +2944,7 @@
             "votes": {
                 "yes": 459,
                 "no": 59,
-                "abstentions": 44
+                "abstentions": 44,
                 "uri": "http://dip21.bundestag.de/dip21/btp/16/16225.pdf"
             },
             "initiativeOf": "CDU/CSU, SPD"
@@ -2997,7 +2998,7 @@
             "votes": {
                 "yes": 418,
                 "no": 109,
-                "abstentions": 48
+                "abstentions": 48,
                 "uri": "http://dip21.bundestag.de/dip21/btp/16/16225.pdf"
             },
             "initiativeOf": "CDU/CSU, SPD"
