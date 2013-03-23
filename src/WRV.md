@@ -1,4 +1,4 @@
-# Weiterhin gültige Artikel der Weimarer Reichsverfassung
+# Anhang: Weiterhin gültige Artikel der Weimarer Reichsverfassung
 ## Artikel 136 (WRV)
 (1) Die bürgerlichen und staatsbürgerlichen Rechte und Pflichten werden durch die Ausübung der Religionsfreiheit weder bedingt noch beschränkt.
 (2) Der Genuß bürgerlicher und staatsbürgerlicher Rechte sowie die Zulassung zu öffentlichen Ämtern sind unabhängig von dem religiösen Bekenntnis.
