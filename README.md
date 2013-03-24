@@ -1,13 +1,15 @@
 #   Grundgesetz für die Bundesrepublik Deutschland (grundgesetz-dev)
 
-Dieses [Repository](https://github.com/bheisig/grundgesetz-dev) dient als Grundlage zum Aufbau eines versionierten Grundgesetzes für die Bundesrepublik Deutschland. Es gilt als erster Meilenstein in der Entwicklung von versionierten Dokumenten.
+Dieses [Repository](https://github.com/bheisig/grundgesetz-dev) ermöglicht das Nachvollziehen aller Veränderungen am Grundgesetz für die Bundesrepublik Deutschland seit seinem Inkrafttreten im Jahr 1949. Es enthält den vollständigen Gesetztestext zuzüglich vieler Informationen, die damit in Verbindung stehen. Somit steht ein umfassendes Werk zur Verfügung, die Entwicklung der deutschen Verfassung transparenter zu machen.
+
+[**Keine Zeit für Hintergründe? Bitte hier entlang zum Download.**](#download)
 
 
 ##  Hintergrund
 
-Dieses Projekt ist Teil der Open-Data-Bewegung und unterliegt der [Open Definition](http://opendefinition.org/okd/). Unser **Ziel** ist, öffentliche Daten leicht zugänglich zu machen; unser **Weg** ist, freie Software und freie Formate für unsere Arbeit zu verwenden; unsere **Idee** ist, das Grundgesetz für die Bundesrepublik Deutschland als _das_ Beispiel für öffentliche Daten wie Verfassungen und Gesetzestexte zu von unfreien Formaten zu "befreien" und in einer umfassenden Gänze zu erschließen.
+Dieses Projekt ist Teil der Open-Data-Bewegung und unterliegt der [Open Definition](http://opendefinition.org/okd/). Unser **Ziel** ist, öffentliche Daten leicht zugänglich zu machen; unser **Weg** ist, freie Software und freie Formate für unsere Arbeit zu verwenden; unsere **Idee** ist, das Grundgesetz für die Bundesrepublik Deutschland als _das_ Beispiel für öffentliche Daten wie Verfassungen und Gesetzestexte von unfreien Formaten zu "befreien" und umfassend zu erschließen.
 
-Gesetzestexte sind wie Software: der "Quelltext" ist gut strukturiert mit einfacher Syntax und Änderungen sind auch nichts anderes als Patches, um Fehler zu beseitigen oder neuen Anforderungen zu genügen. Das jedenfalls dachten wir uns vor einigen Jahren. Wie wäre es, ein Gesetz wie ein Stück Software zu behandeln, zu versionieren und zu patchen? Software-Entwickler nehmen für diese Tätigkeiten Versionskontrollsysteme wie [`git`](http://git-scm.com/). Damit kann man nachvollziehen, wer wann was und warum geändert hat. Als Syntax nahmen wir das leicht verständliche und weit verbreitete [`markdown`](http://daringfireball.net/projects/markdown/), das sich wie einfacher Text liest. Um die Gesetzestexte in schöne Formate konvertieren zu können, entschieden wir uns für das mächtige [`pandoc`](http://johnmacfarlane.net/pandoc/index.html), das unser verwendetes `markdown` mit sinnvoller anreichert. Die Patches haben wir dem kleinen, aber feinen Tool [`quilt`](http://savannah.nongnu.org/projects/quilt) erstellt. Den letzten Schliff gaben wir dem Projekt mit der selbst geschriebenen Software [`DocPatch`](https://github.com/bheisig/DocPatch).
+Gesetzestexte sind wie Software: der "Quelltext" ist gut strukturiert mit einfacher Syntax und Änderungen sind auch nichts anderes als Patches, um Fehler zu beseitigen oder neuen Anforderungen zu genügen. Das jedenfalls dachten wir uns vor einiger Zeit. Wie wäre es, ein Gesetz wie ein Stück Software zu behandeln, zu versionieren und zu patchen? Softwareentwickler benutzen dafür Versionskontrollsysteme wie [`git`](http://git-scm.com/). Damit kann man nachvollziehen, wer wann was und warum geändert hat. Als Syntax nahmen wir das leicht verständliche und weit verbreitete [`markdown`](http://daringfireball.net/projects/markdown/), das sich wie einfacher Text liest. Um die Gesetzestexte in schöne Formate konvertieren zu können, entschieden wir uns für das mächtige [`pandoc`](http://johnmacfarlane.net/pandoc/index.html), das unser verwendetes `markdown` mit sinnvoller Syntax anreichert. Die Patches haben wir dem kleinen, aber feinen Tool [`quilt`](http://savannah.nongnu.org/projects/quilt) erstellt. Den letzten Schliff gaben wir dem Projekt mit der selbst geschriebenen Software [`DocPatch`](https://github.com/bheisig/DocPatch).
 
 Wir beschränken uns nicht auf den reinen Text und die Änderungen, sondern gehen einen Schritt weiter: Mit Hilfe von weiteren strukturierten Daten ("Metadaten") stellen wir den Text als solches und alle Änderungen in einen größeren Kontext: Wann wurde eine Änderung verabschiedet? Wer hat sie initiiert, wer unterschrieben? Das sind alles Fragen, die wir versuchen zu beantworten.
 
@@ -25,7 +27,7 @@ Beschäftigen Dich eine oder mehrere der folgenden Fragen, dann bist Du hier gen
 
 Bevor wir Dir die oben gestellten Fragen konkret beantworten können, solltest Du Dich vorher intensiv mit `DocPatch` und unseren Zielen auseinandergesetzt haben. Auch schadet es nicht, sich mit dem Gesetzestext und dem nötigen Vokabular zu beschäftigen.
 
-Bitte installiere `DocPatch` mit allen Abhängigkeiten und wechsle in das Hauptverzeichnis dieses geklonten Repositories.
+Bitte installiere [`DocPatch`](https://github.com/bheisig/DocPatch) mit allen Abhängigkeiten und wechsle in das Hauptverzeichnis dieses geklonten Repositories.
 
 
 ### Dateistruktur
@@ -63,9 +65,16 @@ Der vorherige Schritt gilt als Voraussetzung für diesen. Mit dem Kommando
 erstellst Du im Ordner `out/` den Gesetzestext im PDF-Format mit allen Änderungen. Alle unterstützten Formate und Optionen sind in der Hilfe `docpatch create --help` bzw. in der Man Page `docpatch-create` zu finden.
 
 
-### Mitwirken und Entwicklung
+## Download
 
-Wir sind immer auf der Suche nach Menschen und Maschinen, die uns tatkräftig unterstützen wollen -- sei es durch kreative Mithilfe, Spenden von Dienst- oder Sachleistungen. Melde Dich, wenn Du Dich für die "Befreiung Deiner Grundrechte" interessierst ;-)
+Wer direkt ein fertiges **Repository mit allen Gesetzesänderungen** und/oder **generierte Ausgabeformate (PDF, EPUB, ...)** haben möchte, darf sich hier bedienen:
+
+**<http://docpatch.org/download/>**
+
+
+## Mitwirken und Entwicklung
+
+Wir sind ständig auf der Suche nach Menschen und Maschinen, die uns tatkräftig unterstützen möchten -- sei es durch kreative Mithilfe, Spenden von Dienst- oder Sachleistungen. Melde Dich, wenn Du Dich für die "Befreiung Deiner Grundrechte" interessierst ;-)
 
 Hast Du eine tolle Idee, was wir unbedingt umsetzen sollten? Hast Du einen Fehler gefunden? Hast Du Vorschläge, wie wir etwas besser machen können? Wir benutzen den [GitHub-eigenen Issue Tracker](https://github.com/bheisig/grundgesetz-dev/issues) für jegliche Anfragen solcher Art.
 
@@ -89,9 +98,6 @@ Hast Du eine tolle Idee, was wir unbedingt umsetzen sollten? Hast Du einen Fehle
     *   Vorschlag: [Dokumentenvorlage für juristische Texte in LaTeX](http://www.jurawiki.de/LaTeX)
 *   Referenzen im bibtex-Format
 *   Git Commit Messages durch `meta.json` erstellen
-*   Website mit Community-Funktionen
-    *   Kommentierung
-    *   Änderungsvorschläge
 *   Automatische Übersetzungen
 *   Artikel des Tages (fortune)
 *   Zeitleiste
@@ -106,17 +112,33 @@ Hast Du eine tolle Idee, was wir unbedingt umsetzen sollten? Hast Du einen Fehle
 
 ##  Mitwirkende
 
-*   Initiiert durch eine Diskussion zwischen Hauro und Lars
-*   Erste wichtige Schritte durch [Ben](https://benjamin.heisig.name/), Björn und Hauro
-*   Software von Ben
-*   Patch-Marathon mit Ben, Gammlaa und Schnitzel
-*   Mit vielen Ideen aus dem Umfeld von [Chaospott](http://chaospott.de/) und [foobar e. V.](https://wiki.die-foobar.de/)
+Hinter DocPatch stehen Freiwillige, die sich in ihrer Freizeit tatkräftig einsetzen:
+
+*   Initiiert durch eine Diskussion zwischen Hauro und [Lars Sobiraj](http://lars-sobiraj.de/)
+*   Erste wichtige Schritte durch [Benjamin Heisig](http://benjamin.heisig.name/), Björn und Hauro
+*   Software von Benjamin Heisig
+*   Patch-Marathon mit Benjamin Heisig, Gammlaa und Schnitzel
+*   Webseite von Benjamin Heisig, Haggis McMutton und Schnitzel
+*   Zahlreiche Vorschläge und Verbesserungen von Bernhard Físseni
+*   Öffentlichkeitsarbeit durch Lars Sobiraj
+*   Mit vielen Ideen aus dem Umfeld von [Chaospott Essen](http://chaospott.de/) und [foobar e. V.](http://wiki.die-foobar.de/)
+
+
+##  Kontakt
+
+Wer mit uns in Kontakt treten möchte, möge sich bitte direkt an [Benjamin Heisig](http://benjamin.heisig.name/) wenden oder indirekt die üblichen [Kommunikationskanäle des Chaospott Essen](http://wiki.die-foobar.de/wiki/Foobar) bemühen.
+
+
+##  Sonstiges
+
+*   Der aktuelle Gesetzestext trotzt der Rechtschreibreform von 1996 und verwendet sowohl die alte als auch die neue deutsche Rechtschreibung nebeneinander.
+*   Das Entfernen von Artikeln durch das Ersetzen des Artikelinhalts durch "[aufgehoben]" weicht nur an einer Stelle ab: In der 12. Revision wird der Artikel 96 durch den Inhalt von 96a ersetzt und 96a vollständig entfernt.
 
 
 ##  Siehe auch
 
 *   _DocPatch_:
-    *   Website: <https://wiki.die-foobar.de/wiki/DocPatch>
+    *   Website: <http://wiki.die-foobar.de/wiki/DocPatch>
     *   Tools auf GitHub: <https://github.com/bheisig/DocPatch>
 *   Grundgesetz für die Bundesrepublik Deutschland:
     *   Artikel auf Wikipedia "Grundgesetz für die Bundesrepublik Deutschland": <https://de.wikipedia.org/wiki/Grundgesetz_f%C3%BCr_die_Bundesrepublik_Deutschland>
@@ -130,4 +152,6 @@ Hast Du eine tolle Idee, was wir unbedingt umsetzen sollten? Hast Du einen Fehle
 Laut [UrhG §5](http://www.gesetze-im-internet.de/urhg/__5.html) genießen amtliche Werke wie das Grundgesetz für die Bundesrepublik Deutschland kein Urheberrecht. Allerdings gilt dies nicht für die vom Bundesanzeiger Verlag herausgegebenen Bundesgesetzblätter, in denen die Gesetzesänderungen verkündet werden, die von der Juris GmbH aufbereiteten Inhalte sowie für die unter in den [Quellen](#quellen) genannten Schriftwerke.
 
 Von uns verwendete Software und Formate sind konsequent offen gelegt.
+
+Selbst erarbeitete Inhalte stehen unter einer [Creative-Commons-Lizenz CC BY-SA 3.0 DE](http://creativecommons.org/licenses/by-sa/3.0/de/).
 
