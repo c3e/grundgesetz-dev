@@ -2562,6 +2562,7 @@
                 "yes": 572,
                 "no": 1,
                 "abstentions": 1
+                "uri": "http://dip21.bundestag.de/dip21/btp/14/14180.pdf"
             },
             "initiativeOf": "Regierungsvorlage"
         },
@@ -2602,7 +2603,7 @@
                 }
             ],
             "date": "2002-07-26",
-            "passed": "2002-05-27",
+            "passed": "2002-05-17",
             "announced": "2002-07-31",
             "effectiveSince": "2002-08-01",
             "legislativeSession": {
@@ -2613,6 +2614,7 @@
                 "yes": 542,
                 "no": 19,
                 "abstentions": 15
+                "uri": "http://dip21.bundestag.de/dip21/btp/14/14237.pdf"
             },
             "initiativeOf": "SPD, CDU/CSU, Bündnis 90/Die Grünen, FDP"
         },
@@ -2659,6 +2661,7 @@
                 "yes": 531,
                 "no": 0,
                 "abstentions": 1
+                "uri": "http://dip21.bundestag.de/dip21/btp/14/14243.pdf"
             },
             "initiativeOf": "Regierungsvorlage"
         },
