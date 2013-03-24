@@ -161,6 +161,56 @@
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1972.html"
 			},
+		},
+		{
+			"id": 8,
+			"date": "1976-10-03",
+			"seats": 518,
+			"party": {
+				"SPD": 224,
+				"CDU": 201,
+				"CSU": 53,
+				"FDP": 40,
+				"AUD": 0,
+				"AVP": 0,
+				"CBV": 0,
+				"DKP": 0,
+				"EAP": 0,
+				"5%-BLOCK": 0,
+				"GIM": 0,
+				"KPD": 0,
+				"KBW": 0,
+				"NPD": 0,
+				"UAP": 0,
+				"VL": 0,
+				"RFP": 0,
+				"NoParty": 0,
+				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1976.html"
+			}
+		},
+		{
+			"id": 9,
+			"date": "1980-10-05",
+			"seats": 519,
+			"party": {
+				"SPD": 228,
+				"CDU": 185,
+				"CSU": 52,
+				"FDP": 54,
+				"Bürgerpartei": 0,
+				"CBV": 0,
+				"DKP": 0,
+				"GRÜNE": 0,
+				"EAP": 0,
+				"KBW": 0,
+				"NPD": 0,
+				"V": 0,
+				"DFP": 0,
+				"DU": 0,
+				"UAP": 0,
+				"NoParty": 0,
+				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1980.html"
+			},
 		}
 	]
 }
