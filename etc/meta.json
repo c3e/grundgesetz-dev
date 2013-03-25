@@ -2647,7 +2647,7 @@
             "votes": {
                 "yes": 572,
                 "no": 1,
-                "abstentions": 1
+                "abstentions": 1,
                 "uri": "http://dip21.bundestag.de/dip21/btp/14/14180.pdf"
             },
             "initiativeOf": "Regierungsvorlage"
@@ -2699,7 +2699,7 @@
             "votes": {
                 "yes": 542,
                 "no": 19,
-                "abstentions": 15
+                "abstentions": 15,
                 "uri": "http://dip21.bundestag.de/dip21/btp/14/14237.pdf"
             },
             "initiativeOf": "SPD, CDU/CSU, Bündnis 90/Die Grünen, FDP"
@@ -2746,7 +2746,7 @@
             "votes": {
                 "yes": 531,
                 "no": 0,
-                "abstentions": 1
+                "abstentions": 1,
                 "uri": "http://dip21.bundestag.de/dip21/btp/14/14243.pdf"
             },
             "initiativeOf": "Regierungsvorlage"
@@ -2867,7 +2867,7 @@
             "votes": {
                 "yes": 519,
                 "no": 8,
-                "abstentions": 49
+                "abstentions": 49,
                 "uri": "http://dip21.bundestag.de/dip21/btp/16/16157.pdf"
             },
             "initiativeOf": "CDU/CSU, SPD, Bündnis 90/Die Grünen"
