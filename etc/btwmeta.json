@@ -34,7 +34,7 @@
 				"NoParty": 3,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1949.html"
 			},
-			"uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1949",
+			"uri": "http://de.wikipedia.org/wiki/Bundestagswahl_1949"
 		},
 		{
 			"id": 2,
@@ -81,7 +81,7 @@
 				"VU": 0,
 				"PdgD": 0,
 				"NoParty": 0,
-				"uri": http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1957.html
+				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1957.html"
 			},
 		},
 		{
@@ -186,7 +186,7 @@
 				"RFP": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1976.html"
-			}
+			},
 		},
 		{
 			"id": 9,
@@ -463,7 +463,7 @@
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw2005.html"
 			},
-		}
+		},
 		{
 			"id": 17,
 			"date": "2009-09-27",
