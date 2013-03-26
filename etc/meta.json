@@ -143,11 +143,13 @@
                 },
                 {
                     "name": "Beate Schäffer",
-                    "role": "Bundesministerin der Finanzen"
+                    "role": "Bundesministerin der Finanzen",
+                    "uri": "http://de.wikipedia.org/wiki/Beate Schäffer"
                 },
                 {
                     "name": "Robert Lehr",
-                    "role": "Bundesminister des Inneren"
+                    "role": "Bundesminister des Inneren",
+                    "uri": "http://de.wikipedia.org/wiki/Robert Lehr"
                 },
                 {
                     "name": "Thomas Dehler",
@@ -497,7 +499,8 @@
                 },
                 {
                     "name": "Siegfried Balke",
-                    "role": "Bundesminister für Atomkernenergie und Wasserwirtschaft"
+                    "role": "Bundesminister für Atomkernenergie und Wasserwirtschaft",
+                    "uri": "http://de.wikipedia.org/wiki/Siegfried Balke"
                 },
                 {
                     "name": "Gerhard Schröder",
@@ -599,8 +602,9 @@
                     "uri": "http://de.wikipedia.org/wiki/Ludwig Erhard"
                 },
                 {
-                    "name": "Fritz Schäffler",
-                    "role": "Bundesminister der Justiz"
+                    "name": "Fritz Schäffer",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "http://de.wikipedia.org/wiki/Fritz Schäffer"
                 },
                 {
                     "name": "Gerhard Schröder",
@@ -687,7 +691,8 @@
                 },
                 {
                     "name": "Erich Mende",
-                    "role": "Stellvertreter des Bundeskanzlers"
+                    "role": "Stellvertreter des Bundeskanzlers",
+                    "uri": "http://de.wikipedia.org/wiki/Erich Mende"
                 },
                 {
                     "name": "Hans Georg Dahlgrün",
@@ -740,7 +745,8 @@
                 },
                 {
                     "name": "Karl Schiller",
-                    "role": "Bundesminister für Wirtschaft"
+                    "role": "Bundesminister für Wirtschaft",
+                    "uri": "http://de.wikipedia.org/wiki/Karl Schiller"
                 },
                 {
                     "name": "Franz Josef Strauß",
@@ -749,7 +755,8 @@
                 },
                 {
                     "name": "Paul Lücke",
-                    "role": "Bundesminister des Innern"
+                    "role": "Bundesminister des Innern",
+                    "uri": "http://de.wikipedia.org/wiki/Paul Lücke"
                 },
                 {
                     "name": "Gustav Heinemann",
@@ -876,7 +883,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Ernst Benda"
                 },
                 {
-                    "name": "Dr. Gustav Heinemann",
+                    "name": "Gustav Heinemann",
                     "role": "Bundesminister der Justiz",
                     "uri": "http://de.wikipedia.org/wiki/Gustav Heinemann"
                 },
@@ -1515,7 +1522,8 @@
             "signedOffBy": [
                 {
                     "name": "Josef Ertl",
-                    "role": "Bundesminister für Ernährung"
+                    "role": "Bundesminister für Ernährung",
+                    "uri": "http://de.wikipedia.org/wiki/Josef Ertl"
                 },
                 {
                     "name": "Gustav Heinemann",
@@ -1570,7 +1578,8 @@
             "signedOffBy": [
                 {
                     "name": "Josef Ertl",
-                    "role": "Bundesminister für Ernährung"
+                    "role": "Bundesminister für Ernährung",
+                    "uri": "http://de.wikipedia.org/wiki/Josef Ertl"
                 },
                 {
                     "name": "Gustav Heinemann",
@@ -1735,7 +1744,8 @@
             "signedOffBy": [
                 {
                     "name": "Albert Osswald",
-                    "role": "Präsident des Bundesrates (für den Bundespräsidenten)"
+                    "role": "Präsident des Bundesrates (für den Bundespräsidenten)",
+                    "uri": "http://de.wikipedia.org/wiki/Albert Osswald"
                 },
                 {
                     "name": "Hans-Dietrich Genscher",
@@ -1785,7 +1795,8 @@
             "signedOffBy": [
                 {
                     "name": "Albert Osswald",
-                    "role": "Präsident des Bundesrates (für den Bundespräsidenten)"
+                    "role": "Präsident des Bundesrates (für den Bundespräsidenten)",
+                    "uri": "http://de.wikipedia.org/wiki/Albert Osswald"
                 },
                 {
                     "name": "Hans-Dietrich Genscher",
@@ -1958,7 +1969,8 @@
                 },
                 {
                     "name": "Günther Krause",
-                    "role": "Bundesminister für Verkehr"
+                    "role": "Bundesminister für Verkehr",
+                    "uri": "http://de.wikipedia.org/wiki/Günther Krause"
                 }
             ],
             "sources": [
@@ -2123,13 +2135,14 @@
                     "uri": "http://de.wikipedia.org/wiki/Richard von Weizsäcker"
                 },
                 {
-                    "name": "Dr. Helmut Kohl",
+                    "name": "Helmut Kohl",
                     "role": "Bundeskanzler",
                     "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Matthias Wissmann",
-                    "role": "Bundesminister für Verkehr"
+                    "role": "Bundesminister für Verkehr",
+                    "uri": "http://de.wikipedia.org/wiki/Matthias Wissmann"
                 },
                 {
                     "name": "Manfred Kanther",
@@ -2186,13 +2199,14 @@
                     "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
-                    "name": "Dr. Helmut Kohl",
+                    "name": "Helmut Kohl",
                     "role": "Bundeskanzler",
                     "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
                 {
                     "name": "Wolfgang Bötsch",
-                    "role": "Bundesminister für Post und Telekommunikation"
+                    "role": "Bundesminister für Post und Telekommunikation",
+                    "uri": "http://de.wikipedia.org/wiki/Wolfgang Bötsch"
                 },
                 {
                     "name": "Manfred Kanther",
@@ -2249,7 +2263,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
-                    "name": "Dr. Helmut Kohl",
+                    "name": "Helmut Kohl",
                     "role": "Bundeskanzler",
                     "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
@@ -2300,7 +2314,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
-                    "name": "Dr. Helmut Kohl",
+                    "name": "Helmut Kohl",
                     "role": "Bundeskanzler",
                     "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
@@ -2356,7 +2370,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
-                    "name": "Dr. Helmut Kohl",
+                    "name": "Helmut Kohl",
                     "role": "Bundeskanzler",
                     "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
@@ -2412,7 +2426,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
-                    "name": "Dr. Helmut Kohl",
+                    "name": "Helmut Kohl",
                     "role": "Bundeskanzler",
                     "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
@@ -2462,7 +2476,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Roman Herzog"
                 },
                 {
-                    "name": "Dr. Helmut Kohl",
+                    "name": "Helmut Kohl",
                     "role": "Bundeskanzler",
                     "uri": "http://de.wikipedia.org/wiki/Helmut Kohl"
                 },
@@ -2772,7 +2786,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
-                    "name": "Dr. Angela Merkel",
+                    "name": "Angela Merkel",
                     "role": "Bundeskanzlerin",
                     "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
@@ -2835,7 +2849,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
-                    "name": "Dr. Angela Merkel",
+                    "name": "Angela Merkel",
                     "role": "Bundeskanzlerin",
                     "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
@@ -2890,7 +2904,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
-                    "name": "Dr. Angela Merkel",
+                    "name": "Angela Merkel",
                     "role": "Bundeskanzlerin",
                     "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
@@ -2947,7 +2961,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
-                    "name": "Dr. Angela Merkel",
+                    "name": "Angela Merkel",
                     "role": "Bundeskanzlerin",
                     "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
@@ -2999,7 +3013,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Horst Köhler"
                 },
                 {
-                    "name": "Dr. Angela Merkel",
+                    "name": "Angela Merkel",
                     "role": "Bundeskanzlerin",
                     "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
@@ -3069,9 +3083,9 @@
                     "uri": "http://de.wikipedia.org/wiki/Wolfgang Schäuble"
                 },
                 {
-                    "name": "Brigitte Zypris",
+                    "name": "Brigitte Zypries",
                     "role": "Bundesministerin des Justiz",
-                    "uri": "http://de.wikipedia.org/wiki/Brigitte Zypris"
+                    "uri": "http://de.wikipedia.org/wiki/Brigitte Zypries"
                 },
                 {
                     "name": "Peer Steinbrück",
@@ -3110,7 +3124,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Peter Müller (Ministerpräsident)"
                 },
                 {
-                    "name": "Dr. Angela Merkel",
+                    "name": "Angela Merkel",
                     "role": "Bundeskanzlerin",
                     "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
@@ -3161,7 +3175,7 @@
                     "uri": "http://de.wikipedia.org/wiki/Joachim Gauck"
                 },
                 {
-                    "name": "Dr. Angela Merkel",
+                    "name": "Angela Merkel",
                     "role": "Bundeskanzlerin",
                     "uri": "http://de.wikipedia.org/wiki/Angela Merkel"
                 },
