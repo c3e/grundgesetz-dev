@@ -1,16 +1,14 @@
 {
-    "contributor": "",
-    "covergage": "Bundesrepublik Deutschland",
-    "creator": "",
-    "description": "",
+    "contributor": "foobar e. V.",
+    "covergage": "Bundesrepublik Deutschland, 1949-2012",
+    "creator": "foobar e. V.",
+    "description": "Nachvollziehen aller Veränderungen am Grundgesetz für die BRD seit seinem Inkrafttreten 1949",
     "language": "de-DE",
     "publisher": "DocPatch 0.1",
-    "relation": "",
     "rights": "Public Domain",
-    "source": "",
     "subject": "Bundesverfassung",
     "title": "Grundgesetz für die Bundesrepublik Deutschland",
-    "type": "",
+    "type": "Dataset",
     "revisions": [
         {
             "id": 0,
