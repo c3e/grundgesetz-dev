@@ -2,8 +2,6 @@
 
 Dieses [Repository](https://github.com/bheisig/grundgesetz-dev) ermöglicht das Nachvollziehen aller Veränderungen am Grundgesetz für die Bundesrepublik Deutschland seit seinem Inkrafttreten im Jahr 1949. Es enthält den vollständigen Gesetztestext zuzüglich vieler Informationen, die damit in Verbindung stehen. Somit steht ein umfassendes Werk zur Verfügung, die Entwicklung der deutschen Verfassung transparenter zu machen.
 
-[**Keine Zeit für Hintergründe? Bitte hier entlang zum Download.**](#download)
-
 
 ##  Hintergrund
 
@@ -63,13 +61,6 @@ Der vorherige Schritt gilt als Voraussetzung für diesen. Mit dem Kommando
     docpatch create --format pdf --revision last
 
 erstellst Du im Ordner `out/` den Gesetzestext im PDF-Format mit allen Änderungen. Alle unterstützten Formate und Optionen sind in der Hilfe `docpatch create --help` bzw. in der Man Page `docpatch-create` zu finden.
-
-
-## Download
-
-Wer direkt ein fertiges **Repository mit allen Gesetzesänderungen** und/oder **generierte Ausgabeformate (PDF, EPUB, ...)** haben möchte, darf sich hier bedienen:
-
-**<http://docpatch.org/download/>**
 
 
 ## Mitwirken und Entwicklung
