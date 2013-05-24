@@ -1,6 +1,6 @@
 #   Grundgesetz für die Bundesrepublik Deutschland (grundgesetz-dev)
 
-Dieses [Repository](https://github.com/bheisig/grundgesetz-dev) ermöglicht das Nachvollziehen aller Veränderungen am Grundgesetz für die Bundesrepublik Deutschland seit seinem Inkrafttreten im Jahr 1949. Es enthält den vollständigen Gesetztestext zuzüglich vieler Informationen, die damit in Verbindung stehen. Somit steht ein umfassendes Werk zur Verfügung, die Entwicklung der deutschen Verfassung transparenter zu machen.
+Dieses [Repository](https://github.com/bheisig/grundgesetz-dev) ermöglicht das Nachvollziehen aller Veränderungen am Grundgesetz für die Bundesrepublik Deutschland seit seinem Inkrafttreten im Jahr 1949. Es enthält den vollständigen Gesetzestext zuzüglich vieler Informationen, die damit in Verbindung stehen. Somit steht ein umfassendes Werk zur Verfügung, die Entwicklung der deutschen Verfassung transparenter zu machen.
 
 
 ##  Hintergrund
@@ -34,7 +34,7 @@ Dieses Repository enthält die folgende Dateistruktur:
 
 *   `etc/`: Konfigurations- und weitere Dateien
     *   `docpatch.conf`: Konfigurationsdatei für _DocPatch_
-    *   `meta-info.txt`: Beschreibung der Metadaten über eine Gesetztesänderung
+    *   `meta-info.txt`: Beschreibung der Metadaten über eine Gesetzesänderung
     *   `meta.template`: Vorlage einer Metadaten-Datei für Gesetzesänderungen
     *   `meta.json`: Meta-Informationen im JSON-Format
 *   `meta/`: Dateien mit Metadaten über Gesetzesänderungen nach dem Schema `[n].meta`, wobei `n` die fortlaufende Nummer der Änderung darstellt
@@ -47,7 +47,7 @@ Dieses Repository enthält die folgende Dateistruktur:
 
 ### Erstellen eines versionierten Grundgesetzes aus den Quellen dieses Repositories
 
-Laut der Anleitung von `DocPatch` benötigt Du dafür nur folgenden Aufruf in der Kommandozeile:
+Laut der Anleitung von `DocPatch` benötigst Du dafür nur folgenden Aufruf in der Kommandozeile:
 
     docpatch build
 
