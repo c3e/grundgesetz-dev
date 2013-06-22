@@ -2,9 +2,11 @@
 %% DocPatch LaTeX template
 %% taken from pandoc's default template
 
-\documentclass$if(fontsize)$[$fontsize$]$endif${scrbook}
+%\documentclass$if(fontsize)$[$fontsize$]$endif${scrbook}
+\documentclass[twoside,$if(fontsize)$fontsize$endif$]{scrartcl}
 \usepackage[ngerman]{babel}
 \usepackage{amssymb,amsmath}
+\usepackage[auto]{microtype}
 $if(xetex)$
 \usepackage{ifxetex}
 \ifxetex
@@ -75,6 +77,7 @@ $endif$
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{6pt plus 2pt minus 1pt}
 $if(listings)$
+\usepackage[T1]{fontenc}
 \usepackage{listings}
 $endif$
 $if(numbersections)$
@@ -97,7 +100,9 @@ $endif$
 $if(date)$
 \date{$date$}
 $endif$
+\pagestyle{headings}
 
+\setkomafont{pageheadfoot}{\itshape}
 \begin{document}
 $if(title)$
 \maketitle
