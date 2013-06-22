@@ -79,14 +79,10 @@ Hast Du eine tolle Idee, was wir unbedingt umsetzen sollten? Hast Du einen Fehle
 
 ##  Roadmap/ToDo
 
-*   Logo
-*   Historie rund um den Vertrag von Lissabon
-    *   Inkrafttreten von Änderung 53
-    *   Nummerierung ab Änderung 58
-*   Unterschriften von Änderung 17
-*   "Überschriften" der Artikel berücksichtigen 
+*   Neues Logo?
+*   "Überschriften" der Artikel berücksichtigen
 *   Professionelle Vorlagen erstellen/verwenden
-    *   Vorschlag: [Dokumentenvorlage für juristische Texte in LaTeX](http://www.jurawiki.de/LaTeX)
+    *   Tex: eventuell [Dokumentenvorlage für juristische Texte in LaTeX](http://www.jurawiki.de/LaTeX)
 *   Referenzen im bibtex-Format
 *   Git Commit Messages durch `meta.json` erstellen
 *   Automatische Übersetzungen
@@ -124,6 +120,7 @@ Wer mit uns in Kontakt treten möchte, möge sich bitte direkt an [Benjamin Heis
 
 *   Der aktuelle Gesetzestext trotzt der Rechtschreibreform von 1996 und verwendet sowohl die alte als auch die neue deutsche Rechtschreibung nebeneinander.
 *   Das Entfernen von Artikeln durch das Ersetzen des Artikelinhalts durch "[aufgehoben]" weicht nur an einer Stelle ab: In der 12. Revision wird der Artikel 96 durch den Inhalt von 96a ersetzt und 96a vollständig entfernt.
+*   Das Wort "Liebe" steht nur einmal im Grundgesetz, nämlich im Wort "Kriegshinterbliebenen".
 
 
 ##  Siehe auch
