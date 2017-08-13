@@ -500,6 +500,43 @@
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_09/ergebnisse/bundesergebnisse/index.html"
 			},
+		},
+		{
+			"id": 18,
+			"date": "2013-09-22",
+			"seats": 631,
+			"party": {
+				"SPD": 193,
+				"CDU": 255,
+				"CSU": 56,
+				"FDP": 0,
+				"Bündnis 90/Die Grünen": 68,
+				"Die Linke": 64,
+				"NPD": 0,
+				"REP": 0,
+				"FAMILIE": 0,
+				"Die Tierschutzpartei": 0,
+				"PBC": 0,
+				"MLPD": 0,
+				"BüSo": 0,
+				"BP": 0,
+				"PSG": 0,
+				"Volksabstimmung": 0,
+				"ZENTRUM": 0,
+				"ADM": 0,
+				"CM": 0,
+				"DKP": 0,
+				"DVU": 0,
+				"Die Violetten": 0,
+				"FWD": 0,
+				"ÖDP": 0,
+				"PIRATEN": 0,
+				"RRP": 0,
+				"RENTNER": 0,
+				"Freie Union": 0,
+				"NoParty": 0,
+				"uri": "https://www.bundeswahlleiter.de/bundestagswahlen/2013/ergebnisse.html"
+			},
 		}
 	]
 }
