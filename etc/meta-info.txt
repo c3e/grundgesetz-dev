@@ -15,7 +15,8 @@ Langbeschreibung
 | Passed:            | Verabschiedet im Bundestag; ISO-Format (YYYY-MM-DD)             |
 |                    | Bsp.: Passed: 2010-02-12                                        |
 +--------------------+-----------------------------------------------------------------+
-| Date:              | "Gesetz vom"; ISO-Format (YYYY-MM-DD)                           |
+| Date:              | "Gesetz vom"; Tag der Unterschrift durch den amtierenden        |
+|                    | Bundespräsidenten; ISO-Format (YYYY-MM-DD)                      |
 |                    | Bsp.: Date: 2010-02-12                                          |
 +--------------------+-----------------------------------------------------------------+
 | Announced:         | Datum der Verkündung im BGBl; ISO-Format (YYYY-MM-DD)           |
