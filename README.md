@@ -63,6 +63,19 @@ Der vorherige Schritt gilt als Voraussetzung für diesen. Mit dem Kommando
 erstellst Du im Ordner `out/` den Gesetzestext im PDF-Format mit allen Änderungen. Alle unterstützten Formate und Optionen sind in der Hilfe `docpatch create --help` bzw. in der Man Page `docpatch-create` zu finden.
 
 
+### Veröffentlichung des versionierten Grundgesetzes
+
+Das versionierte Grundgesetz wird von uns [in einem eigenen Repository veröffentlicht](https://github.com/c3e/grundgesetz). Dazu haben wir folgende Befehle verwendet:
+
+~~~
+git clone https://github.com/c3e/grundgesetz-dev
+cd grundgesetz-dev
+docpatch build --valid-dates
+git remote add github git@github.com:c3e/grundgesetz.git
+git push --force github master
+~~~
+
+
 ## Mitwirken und Entwicklung
 
 Wir sind ständig auf der Suche nach Menschen und Maschinen, die uns tatkräftig unterstützen möchten -- sei es durch kreative Mithilfe, Spenden von Dienst- oder Sachleistungen. Melde Dich, wenn Du Dich für die "Befreiung Deiner Grundrechte" interessierst ;-)
