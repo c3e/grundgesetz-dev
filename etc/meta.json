@@ -3367,6 +3367,72 @@
                 "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=472"
             },
             "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 63,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 104b, 104c, 104d, 125c, 143e)",
+            "articles": {
+                "created": [
+                    "104d", "143e", "143f", "143g"
+                ],
+                "updated": [
+                    "104b", "104c", "125c", "143e"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Frank-Walter Steinmeier",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Frank-Walter_Steinmeier"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Olaf Scholz",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Olaf_Scholz"
+                },
+                {
+                    "name": "Horst Seehofer",
+                    "role": "Bundesminister des Inneren, für Bau und Heimat",
+                    "uri": "https://de.wikipedia.org/wiki/Horst_Seehofer"
+                },
+                {
+                    "name": "Katharina Barley",
+                    "role": "Bundesministerin der Justiz und für Verbraucherschutz",
+                    "uri": "https://de.wikipedia.org/wiki/Katharina_Barley"
+                },
+                {
+                    "name": "Andreas Scheuer",
+                    "role": "Bundesminister für Verkehr und digitale Infrastruktur",
+                    "uri": "https://de.wikipedia.org/wiki/Andreas_Scheuer"
+                },
+                {
+                    "name": "Anja Karliczek",
+                    "role": "Bundesministerin für Bildung und Forschung",
+                    "uri": "https://de.wikipedia.org/wiki/Anja_Karliczek"
+                }
+            ],
+            "date": "2019-03-28",
+            "passed": "2019-02-21",
+            "announced": "2019-04-03",
+            "effectiveSince": "2019-04-04",
+            "legislativeSession": {
+                "id": "19",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2017"
+            },
+            "votes": {
+                "yes": 574,
+                "no": 74,
+                "abstentions": 0,
+                "notVoted": 61,
+                "invalid": 0,
+                "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=472"
+            },
+            "initiativeOf": "Regierungsvorlage"
         }
     ]
 }
