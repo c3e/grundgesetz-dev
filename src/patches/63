@@ -1,0 +1,49 @@
+Index: src/104b.md
+===================================================================
+--- src.orig/104b.md
++++ src/104b.md
+@@ -4,5 +4,6 @@
+     1. zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts oder
+     2. zum Ausgleich unterschiedlicher Wirtschaftskraft im Bundesgebiet oder
+     3. zur Förderung des wirtschaftlichen Wachstums erforderlich sind. Abweichend von Satz 1 kann der Bund im Falle von Naturkatastrophen oder außergewöhnlichen Notsituationen, die sich der Kontrolle des Staates entziehen und die staatliche Finanzlage erheblich beeinträchtigen, auch ohne Gesetzgebungsbefugnisse Finanzhilfen gewähren.
+-(2) Das Nähere, insbesondere die Arten der zu fördernden Investitionen, wird durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, oder auf Grund des Bundeshaushaltsgesetzes durch Verwaltungsvereinbarung geregelt. Das Bundesgesetz oder die Verwaltungsvereinbarung kann Bestimmungen über die Ausgestaltung der jeweiligen Länderprogramme zur Verwendung der Finanzhilfen vorsehen. Die Festlegung der Kriterien für die Ausgestaltung der Länderprogramme erfolgt im Einvernehmen mit den betroffenen Ländern. Zur Gewährleistung der zweckentsprechenden Mittelverwendung kann die Bundesregierung Bericht und Vorlage der Akten verlangen und Erhebungen bei allen Behörden durchführen. Die Mittel sind befristet zu gewähren und hinsichtlich ihrer Verwendung in regelmäßigen Zeitabständen zu überprüfen. Die Finanzhilfen sind im Zeitablauf mit fallenden Jahresbeträgen zu gestalten.
++(2) Das Nähere, insbesondere die Arten der zu fördernden Investitionen, wird durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, oder auf Grund des Bundeshaushaltsgesetzes durch Verwaltungsvereinbarung geregelt. Das Bundesgesetz oder die Verwaltungsvereinbarung kann Bestimmungen über die Ausgestaltung der jeweiligen Länderprogramme zur Verwendung der Finanzhilfen vorsehen. Die Festlegung der Kriterien für die Ausgestaltung der Länderprogramme erfolgt im Einvernehmen mit den betroffenen Ländern. Zur Gewährleistung der zweckentsprechenden Mittelverwendung kann die Bundesregierung Bericht und Vorlage der Akten verlangen und Erhebungen bei allen Behörden durchführen. Die Mittel des Bundes werden zusätzlich zu eigenen Mitteln der Länder
++bereitgestellt. Sie sind befristet zu gewähren und hinsichtlich ihrer Verwendung in regelmäßigen Zeitabständen zu überprüfen. Die Finanzhilfen sind im Zeitablauf mit fallenden Jahresbeträgen zu gestalten.
+ (3) Bundestag, Bundesregierung und Bundesrat sind auf Verlangen über die Durchführung der Maßnahmen und die erzielten Verbesserungen zu unterrichten.
+Index: src/104c.md
+===================================================================
+--- src.orig/104c.md
++++ src/104c.md
+@@ -1,3 +1,3 @@
+ ## Artikel 104c
+ 
+-Der Bund kann den Ländern Finanzhilfen für gesamtstaatlich bedeutsame Investitionen der finanzschwachen Gemeinden (Gemeindeverbände) im Bereich der kommunalen Bildungsinfrastruktur gewähren. Artikel 104b Absatz 2 und 3 gilt entsprechend.
++Der Bund kann den Ländern Finanzhilfen für gesamtstaatlich bedeutsame Investitionen sowie besondere, mit diesen unmittelbar verbundene, befristete Ausgaben der Länder und Gemeinden (Gemeindeverbände) zur Steigerung der Leistungsfähigkeit der kommunalen Bildungsinfrastruktur gewähren. Artikel 104b Absatz 2 Satz 1 bis 3, 5, 6 und Absatz 3 gilt entsprechend. Zur Gewährleistung der zweckentsprechenden Mittelverwendung kann die Bundesregierung Berichte und anlassbezogen die Vorlage von Akten verlangen.
+Index: src/104d.md
+===================================================================
+--- /dev/null
++++ src/104d.md
+@@ -0,0 +1,3 @@
++##  Artikel 104d
++
++Der Bund kann den Ländern Finanzhilfen für gesamtstaatlich bedeutsame Investitionen der Länder und Gemeinden (Gemeindeverbände) im Bereich des sozialen Wohnungsbaus gewähren. Artikel 104b Absatz 2 Satz 1 bis 5 sowie Absatz 3 gilt entsprechend.
+Index: src/125c.md
+===================================================================
+--- src.orig/125c.md
++++ src/125c.md
+@@ -2,4 +2,5 @@
+ 
+ (1) Recht, das auf Grund des [Artikels 91a Abs. 2](#artikel-91a) in Verbindung mit Abs. 1 Nr. 1 in der bis zum 1. September 2006 geltenden Fassung erlassen worden ist, gilt bis zum 31. Dezember 2006 fort.
+ (2) Die nach [Artikel 104a Abs. 4](#artikel-104a) in der bis zum 1. September 2006 geltenden Fassung in den Bereichen der Gemeindeverkehrsfinanzierung und der sozialen Wohnraumförderung geschaffenen Regelungen gelten bis zum 31. Dezember 2006 fort.
+-Die im Bereich der Gemeindeverkehrsfinanzierung für die besonderen Programme nach § 6 Absatz 1 des Gemeindeverkehrsfinanzierungsgesetzes sowie die mit dem Gesetz über Finanzhilfen des Bundes nach [Artikel 104a Absatz 4](#artikel-104a) des Grundgesetzes an die Länder Bremen, Hamburg,  Mecklenburg-Vorpommern,  Niedersachsen sowie Schleswig-Holstein für Seehäfen vom 20. Dezember 2001 nach [Artikel 104a Absatz 4](#artikel-104a) in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zu ihrer Aufhebung fort. Eine Änderung des Gemeindeverkehrsfinanzierungsgesetzes durch Bundesgesetz ist ab dem 1. Januar 2025 zulässig. Die sonstigen nach Artikel 104a Absatz 4 in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zum 31. Dezember 2019 fort, soweit nicht ein früherer Zeitpunkt für das Außerkrafttreten bestimmt ist oder wird.
++Die im Bereich der Gemeindeverkehrsfinanzierung für die besonderen Programme nach § 6 Absatz 1 des Gemeindeverkehrsfinanzierungsgesetzes sowie die mit dem Gesetz über Finanzhilfen des Bundes nach [Artikel 104a Absatz 4](#artikel-104a) des Grundgesetzes an die Länder Bremen, Hamburg,  Mecklenburg-Vorpommern,  Niedersachsen sowie Schleswig-Holstein für Seehäfen vom 20. Dezember 2001 nach [Artikel 104a Absatz 4](#artikel-104a) in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zu ihrer Aufhebung fort. Eine Änderung des Gemeindeverkehrsfinanzierungsgesetzes durch Bundesgesetz ist zulässig. Die sonstigen nach Artikel 104a Absatz 4 in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zum 31. Dezember 2019 fort, soweit nicht ein früherer Zeitpunkt für das Außerkrafttreten bestimmt ist oder wird. Artikel 104b Absatz 2 Satz 4 gilt entsprechend.
++(3) Artikel 104b Absatz 2 Satz 5 ist erstmals auf nach dem 31. Dezember 2019 in Kraft getretene Regelungen anzuwenden.
+Index: src/143e.md
+===================================================================
+--- src.orig/143e.md
++++ src/143e.md
+@@ -2,3 +2,4 @@
+ 
+ (1) Die Bundesautobahnen werden abweichend von Artikel 90 Absatz 2 längstens bis zum 31. Dezember 2020 in Auftragsverwaltung durch die Länder oder die nach Landesrecht zuständigen Selbstverwaltungskörperschaften geführt. Der Bund regelt die Umwandlung der Auftragsverwaltung in Bundesverwaltung nach Artikel 90 Absatz 2 und 4 durch Bundesgesetz mit Zustimmung des Bundesrates.
+ (2) Auf Antrag eines Landes, der bis zum 31. Dezember 2018 zu stellen ist, übernimmt der Bund abweichend von Artikel 90 Absatz 4 die sonstigen Bundesstraßen des Fernverkehrs, soweit sie im Gebiet dieses Landes liegen, mit Wirkung zum 1. Januar 2021 in Bundesverwaltung.
++(3) Durch Bundesgesetz mit Zustimmung des Bundesrates kann geregelt werden, dass ein Land auf Antrag die Aufgabe der Planfeststellung und Plangenehmigung für den Bau und für die Änderung von Bundesautobahnen und von sonstigen Bundesstraßen des Fernverkehrs, die der Bund nach Artikel 90 Absatz 4 oder Artikel 143e Absatz 2 in Bundesverwaltung übernommen hat, im Auftrage des Bundes übernimmt und unter welchen Voraussetzungen eine Rückübertragung erfolgen kann.
