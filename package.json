@@ -1,0 +1,38 @@
+{
+    "name": "docpatch-grundgesetz-dev",
+    "description": "Development repository to maintain a human- and machine-readable version of the 'Grundgesetz der Bundesrepublik Deutschland'",
+    "keywords": [],
+    "version": "1.0.0",
+    "homepage": "https://gg.docpatch.org/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/c3e/grundgesetz-web"
+    },
+    "bugs": {
+        "url": "https://github.com/c3e/grundgesetz-web/issues"
+    },
+    "license": "PDDL-1.0",
+    "author": "Benjamin Heisig <benjamin@heisig.name> (https://benjamin.heisig.name/)",
+    "dependencies": {
+        "ajv-cli": "^3.0.0",
+        "jsonlint": "^1.6.3",
+        "npm-package-json-lint": "^3.6.0",
+        "remark-cli": "^6.0.1",
+        "remark-lint": "^6.0.4",
+        "remark-preset-lint-recommended": "^3.0.2"
+    },
+    "scripts": {
+        "test": "npm run-script lint-json && npm run-script lint-md",
+        "lint-md": "./node_modules/.bin/remark . --quiet",
+        "lint-json": "./node_modules/.bin/jsonlint etc/btwmeta.json -q && ./node_modules/.bin/jsonlint etc/meta.json -q",
+        "lint-packagejson": "./node_modules/.bin/npmPkgJsonLint .",
+        "validate-btwmeta-schema": "./node_modules/.bin/ajv",
+        "validate-meta-schema": "./node_modules/.bin/ajv",
+        "clean": "rm -rf ./out/ ./repo/"
+    },
+    "remarkConfig": {
+        "plugins": [
+            "remark-preset-lint-recommended"
+        ]
+    }
+}

@@ -33,6 +33,7 @@ Bitte installiere [`DocPatch`](https://github.com/c3e/DocPatch) mit allen Abhän
 Dieses Repository enthält die folgende Dateistruktur:
 
 *   `etc/`: Konfigurations- und weitere Dateien
+    *   `btwmeta.json`: Metadaten zu Legislaturperioden des deutschen Bundestags
     *   `docpatch.conf`: Konfigurationsdatei für _DocPatch_
     *   `meta-info.txt`: Beschreibung der Metadaten über eine Gesetzesänderung
     *   `meta.template`: Vorlage einer Metadaten-Datei für Gesetzesänderungen
@@ -43,6 +44,29 @@ Dieses Repository enthält die folgende Dateistruktur:
 *   `repo/`: aus den Quellen dieses Repositories versioniertes Grundgesetz
 *   `src/`: Gesetzestexte; pro Datei ein Artikel nach dem Schema `[n].md`, wobei `n` die Artikelnummer mit füllenden Nullen und `md` die Dateiendung für in Markdown verfasste Texte ist
 *   `tpl/`: Vorlagen für die Ausgabeformate
+
+
+### Neue Gesetzesänderung hinzufügen
+
+~~~ {.bash}
+export DOCPATCH_NO=64
+export DOCPATCH_ARTICLES="1 2 3"
+nano "./meta/${DOCPATCH_NO}.meta"
+nano "./etc/meta.json"
+cd src/
+quilt push -a
+quilt new "$DOCPATCH_NO"
+for article in $DOCPATCH_ARTICLES; do quilt edit "${article}.md"; done
+quilt refresh
+# Optional review of your changes:
+quilt diff
+quilt pop -a
+cd ../
+git add "src/patches/${DOCPATCH_NO}"
+git commit -a -m "Add new patch no. ${DOCPATCH_NO}"
+~~~
+
+Bitte anschließend einen Pull Request stellen, der von anderen Projektteilnehmern geprüft werden muss, bevor die Änderungen ins Repository aufgenommen werden.
 
 
 ### Erstellen eines versionierten Grundgesetzes aus den Quellen dieses Repositories
@@ -155,4 +179,3 @@ Laut [UrhG §5](https://www.gesetze-im-internet.de/urhg/__5.html) genießen amtl
 Von uns verwendete Software und Formate sind konsequent offen gelegt.
 
 Selbst erarbeitete Inhalte stehen unter einer [Creative-Commons-Lizenz CC BY-SA 3.0 DE](https://creativecommons.org/licenses/by-sa/3.0/de/).
-

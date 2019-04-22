@@ -57,9 +57,9 @@
 				"PdgD": 0,
 				"SHLP":0,
 				"VU": 0,
-				"NoParty": 0
+				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1953.html"
-			},
+			}
 		},
 		{
 			"id": 3,
@@ -82,7 +82,7 @@
 				"PdgD": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1957.html"
-			},
+			}
 		},
 		{
 			"id": 4,
@@ -101,7 +101,7 @@
 				"WGnD": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1961.html"
-			},
+			}
 		},
 		{
 			"id": 5,
@@ -121,7 +121,7 @@
 				"UAP": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1965.html"
-			},
+			}
 		},
 		{
 			"id": 6,
@@ -143,7 +143,7 @@
 				"DV": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1969.html"
-			},
+			}
 		},
 		{
 			"id": 7,
@@ -160,7 +160,7 @@
 				"NPD": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1972.html"
-			},
+			}
 		},
 		{
 			"id": 8,
@@ -186,7 +186,7 @@
 				"RFP": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1976.html"
-			},
+			}
 		},
 		{
 			"id": 9,
@@ -210,7 +210,7 @@
 				"UAP": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1980.html"
-			},
+			}
 		},
 		{
 			"id": 10,
@@ -232,7 +232,7 @@
 				"USD": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1983.html"
-			},
+			}
 		},
 		{
 			"id": 11,
@@ -262,7 +262,7 @@
 				"UAP": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1987.html"
-			},
+			}
 		},
 		{
 			"id": 12,
@@ -293,9 +293,9 @@
 				"SpAD": 0,
 				"VAA": 0,
 				"EFP": 0,
-				"NoParty": 0
+				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1990.html"
-			},
+			}
 		},
 		{
 			"id": 13,
@@ -336,7 +336,7 @@
 				"UAP": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1994.html"
-			},
+			}
 		},
 		{
 			"id": 14,
@@ -385,7 +385,7 @@
 				"STATT Partei": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw1998.html"
-			},
+			}
 		},
 		{
 			"id": 15,
@@ -422,7 +422,7 @@
 				"FP Deutschlands": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw2002.html"
-			},
+			}
 		},
 		{
 			"id": 16,
@@ -462,7 +462,7 @@
 				"UNABHÄNGIGE": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/fruehere_bundestagswahlen/btw2005.html"
-			},
+			}
 		},
 		{
 			"id": 17,
@@ -499,7 +499,7 @@
 				"Freie Union": 0,
 				"NoParty": 0,
 				"uri": "http://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_09/ergebnisse/bundesergebnisse/index.html"
-			},
+			}
 		},
 		{
 			"id": 18,
@@ -536,7 +536,7 @@
 				"Freie Union": 0,
 				"NoParty": 0,
 				"uri": "https://www.bundeswahlleiter.de/bundestagswahlen/2013/ergebnisse/bund-99.html"
-			},
+			}
 		},
 		{
 			"id": 19,
@@ -587,7 +587,7 @@
 				"UNABHÄNGIGE": 0,
 				"Übrige": 0,
 				"uri": "https://www.bundeswahlleiter.de/bundestagswahlen/2017/ergebnisse/bund-99.html"
-			},
+			}
 		}
 	]
 }

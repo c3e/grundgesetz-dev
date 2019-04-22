@@ -1,5 +1,6 @@
-.pc
+.pc/
 *.backup
 *~
-out/*
-repo/*
+/out/
+/repo/
+/node_modules/
