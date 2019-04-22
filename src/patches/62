@@ -1,8 +1,10 @@
---- a/090.md
-+++ b/090.md
+Index: src/090.md
+===================================================================
+--- src.orig/090.md
++++ src/090.md
 @@ -1,6 +1,7 @@
  ## Artikel 90
-
+ 
 -(1) Der Bund ist Eigentümer der bisherigen Reichsautobahnen und Reichsstraßen.
 -(2) Die Länder oder die nach Landesrecht zuständigen Selbstverwaltungskörperschaften verwalten die Bundesautobahnen und sonstigen Bundesstraßen des Fernverkehrs im Auftrage des Bundes.
 -(3) Auf Antrag eines Landes kann der Bund Bundesautobahnen und sonstige Bundesstraßen des Fernverkehrs, soweit sie im Gebiet dieses Landes liegen, in bundeseigene Verwaltung übernehmen.
@@ -10,17 +12,21 @@
 +(2) Die Verwaltung der Bundesautobahnen wird in Bundesverwaltung geführt. Der Bund kann sich zur Erledigung seiner Aufgaben einer Gesellschaft privaten Rechts bedienen. Diese Gesellschaft steht im unveräußerlichen Eigentum des Bundes. Eine unmittelbare oder mittelbare Beteiligung Dritter an der Gesellschaft und deren Tochtergesellschaften ist ausgeschlossen. Eine Beteiligung Privater im Rahmen von Öffentlich-Privaten Partnerschaften ist ausgeschlossen für Streckennetze, die das gesamte Bundesautobahnnetz oder das gesamte Netz sonstiger Bundesfernstraßen in einem Land oder wesentliche Teile davon umfassen. Das Nähere regelt ein Bundesgesetz.
 +(3) Die Länder oder die nach Landesrecht zuständigen Selbstverwaltungskörperschaften verwalten die sonstigen Bundesstraßen des Fernverkehrs im Auftrage des Bundes.
 +(4) Auf Antrag eines Landes kann der Bund die sonstigen Bundesstraßen des Fernverkehrs, soweit sie im Gebiet dieses Landes liegen, in Bundesverwaltung übernehmen.
-
---- a/091c.md
-+++ b/091c.md
+ 
+Index: src/091c.md
+===================================================================
+--- src.orig/091c.md
++++ src/091c.md
 @@ -4,4 +4,4 @@
  (2) Bund und Länder können auf Grund von Vereinbarungen die für die Kommunikation zwischen ihren informationstechnischen Systemen notwendigen Standards und Sicherheitsanforderungen festlegen. Vereinbarungen über die Grundlagen der Zusammenarbeit nach Satz 1 können für einzelne nach Inhalt und Ausmaß bestimmte Aufgaben vorsehen, dass nähere Regelungen bei Zustimmung einer in der Vereinbarung zu bestimmenden qualifizierten Mehrheit für Bund und Länder in Kraft treten. Sie bedürfen der Zustimmung des Bundestages und der Volksvertretungen der beteiligten Länder; das Recht zur Kündigung dieser Vereinbarungen kann nicht ausgeschlossen werden. Die Vereinbarungen regeln auch die Kostentragung.
  (3) Die Länder können darüber hinaus den gemeinschaftlichen Betrieb informationstechnischer Systeme sowie die Errichtung von dazu bestimmten Einrichtungen vereinbaren.
  (4) Der Bund errichtet zur Verbindung der informationstechnischen Netze des Bundes und der Länder ein Verbindungsnetz. Das Nähere zur Errichtung und zum Betrieb des Verbindungsnetzes regelt ein Bundesgesetz mit Zustimmung des Bundesrates.
 -
 +(5) Der  übergreifende  informationstechnische Zugang zu den Verwaltungsleistungen von Bund und Ländern wird durch Bundesgesetz mit Zustimmung des Bundesrates geregelt.
---- a/104b.md
-+++ b/104b.md
+Index: src/104b.md
+===================================================================
+--- src.orig/104b.md
++++ src/104b.md
 @@ -4,6 +4,5 @@
      1. zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts oder
      2. zum Ausgleich unterschiedlicher Wirtschaftskraft im Bundesgebiet oder
@@ -29,18 +35,22 @@
 +(2) Das Nähere, insbesondere die Arten der zu fördernden Investitionen, wird durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, oder auf Grund des Bundeshaushaltsgesetzes durch Verwaltungsvereinbarung geregelt. Das Bundesgesetz oder die Verwaltungsvereinbarung kann Bestimmungen über die Ausgestaltung der jeweiligen Länderprogramme zur Verwendung der Finanzhilfen vorsehen. Die Festlegung der Kriterien für die Ausgestaltung der Länderprogramme erfolgt im Einvernehmen mit den betroffenen Ländern. Zur Gewährleistung der zweckentsprechenden Mittelverwendung kann die Bundesregierung Bericht und Vorlage der Akten verlangen und Erhebungen bei allen Behörden durchführen. Die Mittel sind befristet zu gewähren und hinsichtlich ihrer Verwendung in regelmäßigen Zeitabständen zu überprüfen. Die Finanzhilfen sind im Zeitablauf mit fallenden Jahresbeträgen zu gestalten.
  (3) Bundestag, Bundesregierung und Bundesrat sind auf Verlangen über die Durchführung der Maßnahmen und die erzielten Verbesserungen zu unterrichten.
 -
---- a/107.md
-+++ b/107.md
+Index: src/107.md
+===================================================================
+--- src.orig/107.md
++++ src/107.md
 @@ -1,5 +1,4 @@
  ## Artikel 107
-
+ 
 -(1) Das Aufkommen der Landessteuern und der Länderanteil am Aufkommen der Einkommensteuer und der Körperschaftsteuer stehen den einzelnen Ländern insoweit zu, als die Steuern von den Finanzbehörden in ihrem Gebiet vereinnahmt werden (örtliches Aufkommen). Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, sind für die Körperschaftsteuer und die Lohnsteuer nähere Bestimmungen über die Abgrenzung sowie über Art und Umfang der Zerlegung des örtlichen Aufkommens zu treffen. Das Gesetz kann auch Bestimmungen über die Abgrenzung und Zerlegung des örtlichen Aufkommens anderer Steuern treffen. Der Länderanteil am Aufkommen der Umsatzsteuer steht den einzelnen Ländern nach Maßgabe ihrer Einwohnerzahl zu; für einen Teil, höchstens jedoch für ein Viertel dieses Länderanteils, können durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, Ergänzungsanteile für die Länder vorgesehen werden, deren Einnahmen aus den Landessteuern und aus der Einkommensteuer und der Körperschaftsteuer und nach [Artikel 106b](#artikel-106b) je Einwohner unter dem Durchschnitt der Länder liegen; bei der Grunderwerbsteuer ist die Steuerkraft einzubeziehen.
 -(2) Durch das Gesetz ist sicherzustellen, daß die unterschiedliche Finanzkraft der Länder angemessen ausgeglichen wird; hierbei sind die Finanzkraft und der Finanzbedarf der Gemeinden (Gemeindeverbände) zu berücksichtigen. Die Voraussetzungen für die Ausgleichsansprüche der ausgleichsberechtigten Länder und für die Ausgleichsverbindlichkeiten der ausgleichspflichtigen Länder sowie die Maßstäbe für die Höhe der Ausgleichsleistungen sind in dem Gesetz zu bestimmen. Es kann auch bestimmen, daß der Bund aus seinen Mitteln leistungsschwachen Ländern Zuweisungen zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs (Ergänzungszuweisungen) gewährt.
 -
 +(1) Das Aufkommen der Landessteuern und der Länderanteil am Aufkommen der Einkommensteuer und der Körperschaftsteuer stehen den einzelnen Ländern insoweit zu, als die Steuern von den Finanzbehörden in ihrem Gebiet vereinnahmt werden (örtliches Aufkommen). Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, sind für die Körperschaftsteuer und die Lohnsteuer nähere Bestimmungen über die Abgrenzung sowie über Art und Umfang der Zerlegung des örtlichen Aufkommens zu treffen. Das Gesetz kann auch Bestimmungen über die Abgrenzung und Zerlegung des örtlichen Aufkommens anderer Steuern treffen. Der Länderanteil am Aufkommen der Umsatzsteuer steht den einzelnen Ländern, vorbehaltlich der Regelungen nach Absatz 2, nach Maßgabe ihrer Einwohnerzahl zu.
 +(2) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, ist sicherzustellen, dass die unterschiedliche Finanzkraft der Länder angemessen ausgeglichen wird; hierbei sind die Finanzkraft und der Finanzbedarf der Gemeinden (Gemeindeverbände) zu berücksichtigen. Zu diesem Zweck sind in dem Gesetz Zuschläge zu und Abschläge von der jeweiligen Finanzkraft bei der Verteilung der Länderanteile am Aufkommen der Umsatzsteuer zu regeln. Die Voraussetzungen für die Gewährung von Zuschlägen und für die Erhebung von Abschlägen sowie die Maßstäbe für die Höhe dieser Zuschläge und Abschläge sind in dem Gesetz zu bestimmen. Für Zwecke der Bemessung der Finanzkraft  kann  die  bergrechtliche  Förderabgabe mit nur einem Teil ihres Aufkommens berücksichtigt werden. Das Gesetz kann auch bestimmen, dass der Bund aus seinen Mitteln leistungsschwachen Ländern Zuweisungen zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs (Ergänzungszuweisungen) gewährt. Zuweisungen können unabhängig von den Maßstäben nach den Sätzen 1 bis 3 auch solchen leistungsschwachen Ländern gewährt werden, deren  Gemeinden  (Gemeindeverbände)  eine besonders geringe Steuerkraft aufweisen (Gemeindesteuerkraftzuweisungen), sowie außerdem solchen leistungsschwachen Ländern, deren Anteile an den Fördermitteln nach Artikel 91b ihre Einwohneranteile unterschreiten.
---- a/108.md
-+++ b/108.md
+Index: src/108.md
+===================================================================
+--- src.orig/108.md
++++ src/108.md
 @@ -3,7 +3,8 @@
  (1) Zölle, Finanzmonopole, die bundesgesetzlich geregelten Verbrauchsteuern einschließlich der Einfuhrumsatzsteuer, die Kraftfahrzeugsteuer und sonstige auf motorisierte Verkehrsmittel bezogene Verkehrsteuern ab dem 1. Juli 2009 sowie die Abgaben im Rahmen der Europäischen Gemeinschaften werden durch Bundesfinanzbehörden verwaltet. Der Aufbau dieser Behörden wird durch Bundesgesetz geregelt. Soweit Mittelbehörden eingerichtet sind, werden deren Leiter im Benehmen mit den Landesregierungen bestellt.
  (2) Die übrigen Steuern werden durch Landesfinanzbehörden verwaltet. Der Aufbau dieser Behörden und die einheitliche Ausbildung der Beamten können durch Bundesgesetz mit Zustimmung des Bundesrates geregelt werden. Soweit Mittelbehörden eingerichtet sind, werden deren Leiter im Einvernehmen mit der Bundesregierung bestellt.
@@ -51,11 +61,13 @@
  (5) Das von den Bundesfinanzbehörden anzuwendende Verfahren wird durch Bundesgesetz geregelt. Das von den Landesfinanzbehörden und in den Fällen des Absatzes 4 Satz 2 von den Gemeinden (Gemeindeverbänden) anzuwendende Verfahren kann durch Bundesgesetz mit Zustimmung des Bundesrates geregelt werden.
  (6) Die Finanzgerichtsbarkeit wird durch Bundesgesetz einheitlich geregelt.
  (7) Die Bundesregierung kann allgemeine Verwaltungsvorschriften erlassen, und zwar mit Zustimmung des Bundesrates, soweit die Verwaltung den Landesfinanzbehörden oder Gemeinden (Gemeindeverbänden) obliegt.
---- a/109a.md
-+++ b/109a.md
+Index: src/109a.md
+===================================================================
+--- src.orig/109a.md
++++ src/109a.md
 @@ -1,8 +1,9 @@
  ## Artikel 109a
-
+ 
 -Zur Vermeidung von Haushaltsnotlagen regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
 +(1) Zur Vermeidung von Haushaltsnotlagen regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
      1. die fortlaufende Überwachung der Haushaltswirtschaft von Bund und Ländern durch ein gemeinsames Gremium (Stabilitätsrat),
@@ -64,30 +76,70 @@
 -Die Beschlüsse des Stabilitätsrats und die zugrunde liegenden Beratungsunterlagen sind zu veröffentlichen.
 +(2) Dem Stabilitätsrat obliegt ab dem Jahr 2020 die Überwachung der Einhaltung der Vorgaben des Artikels 109 Absatz 3 durch Bund und Länder. Die Überwachung orientiert sich an den Vorgaben und Verfahren aus Rechtsakten auf Grund des Vertrages über die Arbeitsweise der Europäischen Union zur Einhaltung der Haushaltsdisziplin.
 +(3) Die Beschlüsse des Stabilitätsrats und die zugrunde liegenden Beratungsunterlagen sind zu veröffentlichen.
-
---- a/114.md
-+++ b/114.md
+ 
+Index: src/114.md
+===================================================================
+--- src.orig/114.md
++++ src/114.md
 @@ -1,5 +1,4 @@
  ## Artikel 114
-
+ 
  (1) Der Bundesminister der Finanzen hat dem Bundestage und dem Bundesrate über alle Einnahmen und Ausgaben sowie über das Vermögen und die Schulden im Laufe des nächsten Rechnungsjahres zur Entlastung der Bundesregierung Rechnung zu legen.
 -(2) Der Bundesrechnungshof, dessen Mitglieder richterliche Unabhängigkeit besitzen, prüft die Rechnung sowie die Wirtschaftlichkeit und Ordnungsmäßigkeit der Haushalts- und Wirtschaftsführung. Er hat außer der Bundesregierung unmittelbar dem Bundestage und dem Bundesrate jährlich zu berichten. Im übrigen werden die Befugnisse des Bundesrechnungshofes durch Bundesgesetz geregelt.
 -
 +(2) Der Bundesrechnungshof, dessen Mitglieder richterliche Unabhängigkeit besitzen, prüft die Rechnung sowie die Wirtschaftlichkeit und Ordnungsmäßigkeit der Haushalts- und Wirtschaftsführung des Bundes. Zum Zweck der Prüfung nach Satz 1 kann der Bundesrechnungshof auch bei Stellen außerhalb der Bundesverwaltung Erhebungen vornehmen; dies gilt auch in den Fällen, in denen der Bund den Ländern zweckgebundene Finanzierungsmittel zur Erfüllung von Länderaufgaben zuweist. Er hat außer der Bundesregierung unmittelbar dem Bundestage und dem Bundesrate jährlich zu berichten. Im übrigen werden die Befugnisse des Bundesrechnungshofes durch Bundesgesetz geregelt.
---- a/125c.md
-+++ b/125c.md
+Index: src/125c.md
+===================================================================
+--- src.orig/125c.md
++++ src/125c.md
 @@ -1,5 +1,5 @@
  ## Artikel 125c
-
+ 
  (1) Recht, das auf Grund des [Artikels 91a Abs. 2](#artikel-91a) in Verbindung mit Abs. 1 Nr. 1 in der bis zum 1. September 2006 geltenden Fassung erlassen worden ist, gilt bis zum 31. Dezember 2006 fort.
 -(2) Die nach [Artikel 104a Abs. 4](#artikel-104a) in der bis zum 1. September 2006 geltenden Fassung in den Bereichen der Gemeindeverkehrsfinanzierung und der sozialen Wohnraumförderung geschaffenen Regelungen gelten bis zum 31. Dezember 2006 fort. Die im Bereich der Gemeindeverkehrsfinanzierung für die besonderen Programme nach § 6 Abs. 1 des Gemeindeverkehrsfinanzierungsgesetzes sowie die sonstigen nach [Artikel 104a Abs. 4](#artikel-104a) in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zum 31. Dezember 2019 fort, soweit nicht ein früherer Zeitpunkt für das Außerkraftreten bestimmt ist oder wird.
 -
 +(2) Die nach [Artikel 104a Abs. 4](#artikel-104a) in der bis zum 1. September 2006 geltenden Fassung in den Bereichen der Gemeindeverkehrsfinanzierung und der sozialen Wohnraumförderung geschaffenen Regelungen gelten bis zum 31. Dezember 2006 fort.
 +Die im Bereich der Gemeindeverkehrsfinanzierung für die besonderen Programme nach § 6 Absatz 1 des Gemeindeverkehrsfinanzierungsgesetzes sowie die mit dem Gesetz über Finanzhilfen des Bundes nach [Artikel 104a Absatz 4](#artikel-104a) des Grundgesetzes an die Länder Bremen, Hamburg,  Mecklenburg-Vorpommern,  Niedersachsen sowie Schleswig-Holstein für Seehäfen vom 20. Dezember 2001 nach [Artikel 104a Absatz 4](#artikel-104a) in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zu ihrer Aufhebung fort. Eine Änderung des Gemeindeverkehrsfinanzierungsgesetzes durch Bundesgesetz ist ab dem 1. Januar 2025 zulässig. Die sonstigen nach Artikel 104a Absatz 4 in der bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen gelten bis zum 31. Dezember 2019 fort, soweit nicht ein früherer Zeitpunkt für das Außerkrafttreten bestimmt ist oder wird.
---- a/143d.md
-+++ b/143d.md
+Index: src/143d.md
+===================================================================
+--- src.orig/143d.md
++++ src/143d.md
 @@ -3,4 +3,5 @@
  (1) Die [Artikel 109](#artikel-109) und [115](#artikel-115) in der bis zum 31. Juli 2009 geltenden Fassung sind letztmals auf das Haushaltsjahr 2010 anzuwenden. Die Artikel [109](#artikel-109) und [115](#artikel-115) in der ab dem 1. August 2009 geltenden Fassung sind erstmals für das Haushaltsjahr 2011 anzuwenden; am 31. Dezember 2010 bestehende Kreditermächtigungen für bereits eingerichtete Sondervermögen bleiben unberührt. Die Länder dürfen im Zeitraum vom 1. Januar 2011 bis zum 31. Dezember 2019 nach Maßgabe der geltenden landesrechtlichen Regelungen von den Vorgaben des [Artikels 109 Absatz 3](#artikel-109) abweichen. Die Haushalte der Länder sind so aufzustellen, dass im Haushaltsjahr 2020 die Vorgabe aus [Artikel 109 Absatz 3 Satz 5](#artikel-109) erfüllt wird. Der Bund kann im Zeitraum vom 1. Januar 2011 bis zum 31. Dezember 2015 von der Vorgabe des [Artikels 115 Absatz 2 Satz 2](#artikel-115) abweichen. Mit dem Abbau des bestehenden Defizits soll im Haushaltsjahr 2011 begonnen werden. Die jährlichen Haushalte sind so aufzustellen, dass im Haushaltsjahr 2016 die Vorgabe aus [Artikel 115 Absatz 2 Satz 2](#artikel-115) erfüllt wird; das Nähere regelt ein Bundesgesetz.
  (2) Als Hilfe zur Einhaltung der Vorgaben des [Artikels 109 Absatz 3](#artikel-109) ab dem 1. Januar 2020 können den Ländern Berlin, Bremen, Saarland, Sachsen-Anhalt und Schleswig-Holstein für den Zeitraum 2011 bis 2019 Konsolidierungshilfen aus dem Haushalt des Bundes in Höhe von insgesamt 800 Millionen Euro jährlich gewährt werden. Davon entfallen auf Bremen 300 Millionen Euro, auf das Saarland 260 Millionen Euro und auf Berlin, Sachsen-Anhalt und Schleswig-Holstein jeweils 80 Millionen Euro. Die Hilfen werden auf der Grundlage einer Verwaltungsvereinbarung nach Maßgabe eines Bundesgesetzes mit Zustimmung des Bundesrates geleistet. Die Gewährung der Hilfen setzt einen vollständigen Abbau der Finanzierungsdefizite bis zum Jahresende 2020 voraus. Das Nähere, insbesondere die jährlichen Abbauschritte der Finanzierungsdefizite, die Überwachung des Abbaus der Finanzierungsdefizite durch den Stabilitätsrat sowie die Konsequenzen im Falle der Nichteinhaltung der Abbauschritte, wird durch Bundesgesetz mit Zustimmung des Bundesrates und durch Verwaltungsvereinbarung geregelt. Die gleichzeitige Gewährung der Konsolidierungshilfen und Sanierungshilfen aufgrund einer extremen Haushaltsnotlage ist ausgeschlossen.
  (3) Die sich aus der Gewährung der Konsolidierungshilfen ergebende Finanzierungslast wird hälftig von Bund und Ländern, von letzteren aus ihrem Umsatzsteueranteil, getragen. Das Nähere wird durch Bundesgesetz mit Zustimmung des Bundesrates geregelt.
 +(4) Als Hilfe zur künftig eigenständigen Einhaltung der Vorgaben des [Artikels 109 Absatz 3](#artikel-109) können den Ländern Bremen und Saarland ab dem 1. Januar 2020 Sanierungshilfen in Höhe von jährlich insgesamt 800 Millionen Euro aus dem Haushalt des Bundes gewährt werden. Die Länder ergreifen hierzu Maßnahmen zum Abbau der übermäßigen Verschuldung sowie zur Stärkung der Wirtschafts- und Finanzkraft. Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Die gleichzeitige Gewährung der Sanierungshilfen und Sanierungshilfen auf Grund einer extremen Haushaltsnotlage ist ausgeschlossen.
+ 
+Index: src/104c.md
+===================================================================
+--- /dev/null
++++ src/104c.md
+@@ -0,0 +1,3 @@
++## Artikel 104c
++
++Der Bund kann den Ländern Finanzhilfen für gesamtstaatlich bedeutsame Investitionen der finanzschwachen Gemeinden (Gemeindeverbände) im Bereich der kommunalen Bildungsinfrastruktur gewähren. Artikel 104b Absatz 2 und 3 gilt entsprechend.
+Index: src/143e.md
+===================================================================
+--- /dev/null
++++ src/143e.md
+@@ -0,0 +1,4 @@
++##  Artikel 143e
++
++(1) Die Bundesautobahnen werden abweichend von Artikel 90 Absatz 2 längstens bis zum 31. Dezember 2020 in Auftragsverwaltung durch die Länder oder die nach Landesrecht zuständigen Selbstverwaltungskörperschaften geführt. Der Bund regelt die Umwandlung der Auftragsverwaltung in Bundesverwaltung nach Artikel 90 Absatz 2 und 4 durch Bundesgesetz mit Zustimmung des Bundesrates.
++(2) Auf Antrag eines Landes, der bis zum 31. Dezember 2018 zu stellen ist, übernimmt der Bund abweichend von Artikel 90 Absatz 4 die sonstigen Bundesstraßen des Fernverkehrs, soweit sie im Gebiet dieses Landes liegen, mit Wirkung zum 1. Januar 2021 in Bundesverwaltung.
+Index: src/143f.md
+===================================================================
+--- /dev/null
++++ src/143f.md
+@@ -0,0 +1,3 @@
++##  Artikel 143f
++
++Artikel 143d, das Gesetz über den Finanzausgleich zwischen Bund und Ländern sowie sonstige auf der Grundlage von Artikel 107 Absatz 2 in seiner ab dem 1. Januar 2020 geltenden Fassung erlassene Gesetze treten außer Kraft, wenn nach dem 31. Dezember 2030 die Bundesregierung, der Bundestag oder gemeinsam mindestens drei Länder Verhandlungen über eine Neuordnung der bundesstaatlichen Finanzbeziehungen verlangt haben und mit Ablauf von fünf Jahren nach Notifikation des Verhandlungsverlangens der Bundesregierung, des Bundestages oder der Länder beim Bundespräsidenten keine gesetzliche Neuordnung der bundesstaatlichen Finanzbeziehungen in Kraft getreten ist. Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekannt zu geben.
+Index: src/143g.md
+===================================================================
+--- /dev/null
++++ src/143g.md
+@@ -0,0 +1,3 @@
++##  Artikel 143g
++
++Für die Regelung der Steuerertragsverteilung, des Länderfinanzausgleichs und der Bundesergänzungszuweisungen bis zum 31. Dezember 2019 ist Artikel 107 in seiner bis zum Inkrafttreten des Gesetzes zur Änderung des Grundgesetzes vom 13. Juli 2017 geltenden Fassung weiter anzuwenden.
