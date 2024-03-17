@@ -3433,6 +3433,59 @@
                 "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=574"
             },
             "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 64,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 72, 105 und 125b)",
+            "articles": {
+                "updated": [
+                    "72", "105", "125b"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Frank-Walter Steinmeier",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Frank-Walter_Steinmeier"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Olaf Scholz",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Olaf_Scholz"
+                },
+                {
+                    "name": "Horst Seehofer",
+                    "role": "Bundesminister des Innern, für Bau und Heimat",
+                    "uri": "https://de.wikipedia.org/wiki/Horst_Seehofer"
+                },
+                {
+                    "name": "Christine Lambrecht",
+                    "role": "Bundesministerin der Justiz und für Verbraucherschutz",
+                    "uri": "https://de.wikipedia.org/wiki/Christine_Lambrecht"
+                }
+            ],
+            "date": "2019-11-15",
+            "passed": "2019-10-18",
+            "announced": "2019-11-20",
+            "effectiveSince": "2019-11-21",
+            "legislativeSession": {
+                "id": "19",
+                "uri": "https://www.bundeswahlleiter.de/bundestagswahlen/2017/ergebnisse/bund-99.html"
+            },
+            "votes": {
+                "yes": 495,
+                "no": 139,
+                "abstentions": 10,
+                "notVoted": 64,
+                "invalid": 0,
+                "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=623"
+            },
+            "initiativeOf": "CDU/CSU und SPD"
         }
     ]
 }

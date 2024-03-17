@@ -1,0 +1,37 @@
+Index: src/072.md
+===================================================================
+--- src.orig/072.md
++++ src/072.md
+@@ -8,7 +8,8 @@
+     3. die Bodenverteilung;
+     4. die Raumordnung;
+     5. den Wasserhaushalt (ohne stoff- oder anlagenbezogene Regelungen);
+-    6. die Hochschulzulassung und die Hochschulabschlüsse.  
++    6. die Hochschulzulassung und die Hochschulabschlüsse;
++    7. die Grundsteuer.
+ Bundesgesetze auf diesen Gebieten treten frühestens sechs Monate nach ihrer Verkündung in Kraft, soweit nicht mit Zustimmung des Bundesrates anderes bestimmt ist. Auf den Gebieten des Satzes 1 geht im Verhältnis von Bundes- und Landesrecht das jeweils spätere Gesetz vor.
+ (4) Durch Bundesgesetz kann bestimmt werden, daß eine bundesgesetzliche Regelung, für die eine Erforderlichkeit im Sinne des Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden kann.
+ 
+Index: src/105.md
+===================================================================
+--- src.orig/105.md
++++ src/105.md
+@@ -3,7 +3,7 @@
+ ## Artikel 105
+ 
+ (1) Der Bund hat die ausschließliche Gesetzgebung über die Zölle und Finanzmonopole.
+-(2) Der Bund hat die konkurrierende Gesetzgebung über die übrigen Steuern, wenn ihm das Aufkommen dieser Steuern ganz oder zum Teil zusteht oder die Voraussetzungen des [Artikels 72 Abs. 2](#artikel-72) vorliegen.
++(2) Der Bund hat die konkurrierende Gesetzgebung über die Grundsteuer. Er hat die konkurrierende Gesetzgebung über die übrigen Steuern, wenn ihm das Aufkommen dieser Steuern ganz oder zum Teil zusteht oder die Voraussetzungen des [Artikels 72 Abs. 2](#artikel-72) vorliegen.
+ (2a) Die Länder haben die Befugnis zur Gesetzgebung über die örtlichen Verbrauch- und Aufwandsteuern, solange und soweit sie nicht bundesgesetzlich geregelten Steuern gleichartig sind. Sie haben die Befugnis zur Bestimmung des Steuersatzes bei der Grunderwerbsteuer.
+ (3) Bundesgesetze über Steuern, deren Aufkommen den Ländern oder den Gemeinden (Gemeindeverbänden) ganz oder zum Teil zufließt, bedürfen der Zustimmung des Bundesrates.
+ 
+Index: src/125b.md
+===================================================================
+--- src.orig/125b.md
++++ src/125b.md
+@@ -2,4 +2,5 @@
+ 
+ (1) Recht, das auf Grund des [Artikels 75](#artikel-75) in der bis zum 1. September 2006 geltenden Fassung erlassen worden ist und das auch nach diesem Zeitpunkt als Bundesrecht erlassen werden könnte, gilt als Bundesrecht fort. Befugnisse und Verpflichtungen der Länder zur Gesetzgebung bleiben insoweit bestehen. Auf den in [Artikel 72 Abs. 3 Satz 1](#artikel-72) genannten Gebieten können die Länder von diesem Recht abweichende Regelungen treffen, auf den Gebieten des [Artikel 72 Abs. 3 Satz 1 Nr. 2, 5 und 6](#artikel-72) jedoch erst, wenn und soweit der Bund ab dem 1. September 2006 von seiner Gesetzgebungszuständigkeit Gebrauch gemacht hat, in den Fällen der [Nummern 2 und 5](#artikel-72) spätestens ab dem 1. Januar 2010, im Fall der [Nummer 6](#artikel-72) spätestens ab dem 1. August 2008.
+ (2) Von bundesgesetzlichen Regelungen, die auf Grund des [Artikels 84 Abs. 1](#artikel-84) in der vor dem 1. September 2006 geltenden Fassung erlassen worden sind, können die Länder abweichende Regelungen treffen, von Regelungen des Verwaltungsverfahrens bis zum 31. Dezember 2008 aber nur dann, wenn ab dem 1. September 2006 in dem jeweiligen Bundesgesetz Regelungen des Verwaltungsverfahrens geändert worden sind.
++(3) Auf dem Gebiet des Artikels 72 Absatz 3 Satz 1 Nummer 7 darf abweichendes Landesrecht der Erhebung der Grundsteuer frühestens für Zeiträume ab dem 1. Januar 2025 zugrunde gelegt werden.
+ 
