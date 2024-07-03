@@ -1,0 +1,21 @@
+Index: src/104a.md
+===================================================================
+--- src.orig/104a.md
++++ src/104a.md
+@@ -2,7 +2,7 @@
+ 
+ (1) Der Bund und die Länder tragen gesondert die Ausgaben, die sich aus der Wahrnehmung ihrer Aufgaben ergeben, soweit dieses Grundgesetz nichts anderes bestimmt.
+ (2) Handeln die Länder im Auftrage des Bundes,trägt der Bund die sich daraus ergebenden Ausgaben.
+-(3) Bundesgesetze, die Geldleistungen gewähren und von den Ländern ausgeführt werden, können bestimmen, daß die Geldleistungen ganz oder zum Teil vom Bund getragen werden. Bestimmt das Gesetz, daß der Bund die Hälfte der Ausgaben oder mehr trägt, wird es im Auftrage des Bundes durchgeführt. Bestimmt das Gesetz, daß die Länder ein Viertel der Ausgaben oder mehr tragen, so bedarf es der Zustimmung des Bundesrates.
++(3) Bundesgesetze, die Geldleistungen gewähren und von den Ländern ausgeführt werden, können bestimmen, daß die Geldleistungen ganz oder zum Teil vom Bund getragen werden. Bestimmt das Gesetz, daß der Bund die Hälfte der Ausgaben oder mehr trägt, wird es im Auftrage des Bundes durchgeführt. Bestimmt das Gesetz, daß die Länder ein Viertel der Ausgaben oder mehr tragen, so bedarf es der Zustimmung des Bundesrates. Bei der Gewährung von Leistungen für Unterkunft und Heizung auf dem Gebiet der Grundsicherung für Arbeitsuchende wird das Gesetz im Auftrage des Bundes ausgeführt, wenn der Bund drei Viertel der Ausgaben oder mehr trägt.
+ (4) Bundesgesetze, die Pflichten der Länder zur Erbringung von Geldleistungen, geldwerten Sachleistungen oder vergleichbaren Dienstleistungen gegenüber Dritten begründen und von den Ländern als eigene Angelegenheit oder nach Absatz 3 Satz 2 im Auftrag des Bundes ausgeführt werden, bedürfen der Zustimmung des Bundesrates, wenn daraus entstehende Ausgaben von den Ländern zu tragen sind.
+ (5) Der Bund und die Länder tragen die bei ihren Behörden entstehenden Verwaltungsausgaben und haften im Verhältnis zueinander für eine ordnungsmäßige Verwaltung. Das Nähere bestimmt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf.
+ (6) Bund und Länder tragen nach der innerstaatlichen Zuständigkeits- und Aufgabenverteilung die Lasten einer Verletzung von supranationalen oder völkerrechtlichen Verpflichtungen Deutschlands. In Fällen länderübergreifender Finanzkorrekturen der Europäischen Union tragen Bund und Länder diese Lasten im Verhältnis 15 zu 85. Die Ländergesamtheit trägt in diesen Fällen solidarisch 35 vom Hundert der Gesamtlasten entsprechend einem allgemeinen Schlüssel; 50 vom Hundert der Gesamtlasten tragen die Länder, die die Lasten verursacht haben, anteilig entsprechend der Höhe der erhaltenen Mittel. Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf.
+Index: src/143h.md
+===================================================================
+--- /dev/null
++++ src/143h.md
+@@ -0,0 +1,3 @@
++## Artikel 143h
++
++Als Folgewirkung der COVID-19-Pandemie im Jahr 2020 gewährt der Bund im Jahr 2020 ein malig einen pauschalen Ausgleich für Mindereinnahmen aus der Gewerbesteuer zugunsten der Gemeinden und zu gleichen Teilen mit dem jeweiligen Land. Der Ausgleich wird von den Ländern an die Gemeinden auf Grundlage der erwarteten Mindereinnahmen weitergeleitet. Bestehen in einem Land keine Gemeinden, so steht der Ausgleich durch den Bund dem Land zu. Der den Ländern vom Bund zum Ausgleich geleistete Betrag berücksichtigt zusätzlich Auswirkungen der Mindereinnahmen gemäß Satz 1 auf Zu- und Abschläge sowie auf Zuweisungen gemäß [Artikel 107 Absatz 2](#artikel-107). Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Der Ausgleich bleibt bei der Bemessung der Finanzkraft nach Artikel 107 Absatz 2 unberücksichtigt. [Artikel 106 Absatz 6 Satz 6](#artikel-106) gilt entsprechend.
